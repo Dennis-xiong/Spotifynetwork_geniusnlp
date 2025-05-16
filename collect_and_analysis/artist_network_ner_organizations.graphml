@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Kesha" />
+    <node id="Fall Out Boy" />
+    <node id="Maroon 5" />
+    <node id="Katy Perry" />
+    <node id="Shaboozey" />
+    <node id="Adele" />
+    <node id="Clairo" />
+    <node id="The Neighbourhood" />
+    <node id="Dua Lipa" />
+    <node id="Lorde" />
+    <node id="Rauw Alejandro" />
+    <node id="Imagine Dragons" />
+    <node id="JAY-Z" />
+    <node id="Chappell Roan" />
+    <node id="Lainey Wilson" />
+    <node id="Alex Warren" />
+    <node id="USHER" />
+    <node id="Stray Kids" />
+    <node id="Bruno Mars" />
+    <node id="Maluma" />
+    <node id="Noah Kahan" />
+    <node id="Ne-Yo" />
+    <node id="David Guetta" />
+    <node id="Pharrell Williams" />
+    <node id="The Weeknd" />
+    <node id="Wiz Khalifa" />
+    <node id="Sia" />
+    <node id="Justin Bieber" />
+    <node id="Don Omar" />
+    <node id="The Marías" />
+    <node id="Nicki Minaj" />
+    <node id="Selena Gomez" />
+    <node id="Benson Boone" />
+    <node id="Drake" />
+    <node id="SZA" />
+    <node id="Miley Cyrus" />
+    <node id="Ty Dolla $ign" />
+    <node id="Ozuna" />
+    <node id="Feid" />
+    <node id="Sabrina Carpenter" />
+    <node id="OneRepublic" />
+    <node id="Justin Timberlake" />
+    <node id="Shakira" />
+    <node id="Kali Uchis" />
+    <node id="One Direction" />
+    <node id="Olivia Rodrigo" />
+    <node id="Cardi B" />
+    <node id="Billie Eilish" />
+    <node id="Bailey Zimmerman" />
+    <node id="Jessie Murph" />
+    <node id="Lil Durk" />
+    <node id="Charli xcx" />
+    <node id="Riley Green" />
+    <node id="The Chainsmokers" />
+    <node id="Zach Top" />
+    <node id="Kid Cudi" />
+    <node id="Sam Barber" />
+    <node id="Kevin Gates" />
+    <node id="Lil Wayne" />
+    <node id="Harry Styles" />
+    <node id="Calvin Harris" />
+    <node id="Beyoncé" />
+    <node id="Hozier" />
+    <node id="Jelly Roll" />
+    <node id="BTS" />
+    <node id="Coldplay" />
+    <node id="Taylor Swift" />
+    <node id="Rihanna" />
+    <node id="Twenty One Pilots" />
+    <node id="T-Pain" />
+    <node id="Halsey" />
+    <node id="Akon" />
+    <node id="Ariana Grande" />
+    <node id="50 Cent" />
+    <node id="Romeo Santos" />
+    <node id="PinkPantheress" />
+    <node id="Tory Lanez" />
+    <node id="Treaty Oak Revival" />
+    <node id="Lady Gaga" />
+    <node id="Pitbull" />
+    <node id="benny blanco" />
+    <node id="Khalid" />
+    <node id="Paramore" />
+    <node id="JENNIE" />
+    <node id="d4vd" />
+    <node id="beabadoobee" />
+    <node id="DaBaby" />
+    <node id="Ed Sheeran" />
+    <node id="Post Malone" />
+    <node id="The Lumineers" />
+    <node id="Tate McRae" />
+    <node id="Megan Thee Stallion" />
+    <node id="Britney Spears" />
+    <node id="Cody Johnson" />
+    <node id="Snoop Dogg" />
+    <node id="Cigarettes After Sex" />
+    <node id="Marshmello" />
+    <node id="Doja Cat" />
+    <node id="Megan Moroney" />
+    <node id="Lana Del Rey" />
+    <edge source="Clairo" target="Marshmello">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Tate McRae">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Dua Lipa" target="The Weeknd">
+      <data key="d0">0.2857142857142857</data>
+    </edge>
+    <edge source="Dua Lipa" target="Drake">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Dua Lipa" target="Miley Cyrus">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Dua Lipa" target="Sabrina Carpenter">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Dua Lipa" target="Olivia Rodrigo">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Dua Lipa" target="Twenty One Pilots">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Dua Lipa" target="Ariana Grande">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Dua Lipa" target="Tate McRae">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Dua Lipa" target="Doja Cat">
+      <data key="d0">0.2857142857142857</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Romeo Santos">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Imagine Dragons" target="Drake">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Imagine Dragons" target="Miley Cyrus">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Imagine Dragons" target="Charli xcx">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Chappell Roan" target="Drake">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Chappell Roan" target="Miley Cyrus">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Chappell Roan" target="Billie Eilish">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Chappell Roan" target="Charli xcx">
+      <data key="d0">0.6666666666666666</data>
+    </edge>
+    <edge source="Chappell Roan" target="Kid Cudi">
+      <data key="d0">0.4</data>
+    </edge>
+    <edge source="Chappell Roan" target="Twenty One Pilots">
+      <data key="d0">0.2857142857142857</data>
+    </edge>
+    <edge source="Chappell Roan" target="Ariana Grande">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Chappell Roan" target="Tate McRae">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Chappell Roan" target="Megan Thee Stallion">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Chappell Roan" target="Marshmello">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Stray Kids" target="Drake">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Stray Kids" target="Miley Cyrus">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Bruno Mars" target="The Weeknd">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Bruno Mars" target="T-Pain">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Bruno Mars" target="Snoop Dogg">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Bruno Mars" target="Doja Cat">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="The Weeknd" target="Drake">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="The Weeknd" target="Miley Cyrus">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="The Weeknd" target="Charli xcx">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="The Weeknd" target="Twenty One Pilots">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="The Weeknd" target="Doja Cat">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Drake">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Miley Cyrus">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Justin Bieber" target="Lil Wayne">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Don Omar" target="Romeo Santos">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Benson Boone" target="PinkPantheress">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Drake" target="Miley Cyrus">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Drake" target="Sabrina Carpenter">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Drake" target="Olivia Rodrigo">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Drake" target="Billie Eilish">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Drake" target="Charli xcx">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Drake" target="Kid Cudi">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Drake" target="Ariana Grande">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Drake" target="Tate McRae">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Drake" target="Marshmello">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Drake" target="Doja Cat">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Sabrina Carpenter">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Olivia Rodrigo">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Billie Eilish">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Charli xcx">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Kid Cudi">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Ariana Grande">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Tate McRae">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Marshmello">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Doja Cat">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Olivia Rodrigo">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Twenty One Pilots">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Ariana Grande">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Kali Uchis" target="Calvin Harris">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Kali Uchis" target="Romeo Santos">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Twenty One Pilots">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Tate McRae">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Billie Eilish" target="Charli xcx">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Billie Eilish" target="Harry Styles">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Billie Eilish" target="Taylor Swift">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Billie Eilish" target="Ariana Grande">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Billie Eilish" target="Tate McRae">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Billie Eilish" target="Marshmello">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Charli xcx" target="Kid Cudi">
+      <data key="d0">0.5</data>
+    </edge>
+    <edge source="Charli xcx" target="Twenty One Pilots">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Charli xcx" target="Ariana Grande">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Charli xcx" target="Tate McRae">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Charli xcx" target="Megan Thee Stallion">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Charli xcx" target="Marshmello">
+      <data key="d0">0.6666666666666666</data>
+    </edge>
+    <edge source="Charli xcx" target="Doja Cat">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Kid Cudi" target="Twenty One Pilots">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Kid Cudi" target="Marshmello">
+      <data key="d0">0.4</data>
+    </edge>
+    <edge source="Kid Cudi" target="Lana Del Rey">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Harry Styles" target="Halsey">
+      <data key="d0">0.3333333333333333</data>
+    </edge>
+    <edge source="Harry Styles" target="Ariana Grande">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Beyoncé" target="Akon">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="Taylor Swift" target="Ariana Grande">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Twenty One Pilots" target="Marshmello">
+      <data key="d0">0.2857142857142857</data>
+    </edge>
+    <edge source="Twenty One Pilots" target="Doja Cat">
+      <data key="d0">0.25</data>
+    </edge>
+    <edge source="Ariana Grande" target="Tate McRae">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Ariana Grande" target="Marshmello">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Ariana Grande" target="Lana Del Rey">
+      <data key="d0">0.2222222222222222</data>
+    </edge>
+    <edge source="Tate McRae" target="Marshmello">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Megan Thee Stallion" target="Marshmello">
+      <data key="d0">0.2</data>
+    </edge>
+    <edge source="Marshmello" target="Doja Cat">
+      <data key="d0">0.4</data>
+    </edge>
+  </graph>
+</graphml>
