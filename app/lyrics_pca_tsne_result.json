@@ -1,0 +1,6694 @@
+[
+  {
+    "artist": "Kesha",
+    "song": "Your Love Is My Drug",
+    "pca": [
+      -0.07890865814104163,
+      0.012154616281839562
+    ],
+    "tsne": [
+      -3.335385799407959,
+      6.402778625488281
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Kesha",
+    "song": "Die Young",
+    "pca": [
+      -0.1552487246021814,
+      0.43189990045527216
+    ],
+    "tsne": [
+      13.920437812805176,
+      -3.1045563220977783
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Kesha",
+    "song": "TiK ToK",
+    "pca": [
+      -0.1442393331383797,
+      0.3640047829581398
+    ],
+    "tsne": [
+      16.080060958862305,
+      -5.720681667327881
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Kesha",
+    "song": "We R Who We R",
+    "pca": [
+      -0.04248217994402661,
+      -0.09937514598842288
+    ],
+    "tsne": [
+      -21.066205978393555,
+      12.264123916625977
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Kesha",
+    "song": "Take It Off",
+    "pca": [
+      -0.07835400321859759,
+      0.14892166619861025
+    ],
+    "tsne": [
+      7.3869309425354,
+      1.2937177419662476
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Fall Out Boy",
+    "song": "Centuries",
+    "pca": [
+      0.044391238363326646,
+      -0.021240024326670243
+    ],
+    "tsne": [
+      -10.130693435668945,
+      -25.453506469726562
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Fall Out Boy",
+    "song": "Dance, Dance",
+    "pca": [
+      -0.013176363445309378,
+      -0.07996573118502345
+    ],
+    "tsne": [
+      -9.983447074890137,
+      -5.076412200927734
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Fall Out Boy",
+    "song": "Thnks fr th Mmrs",
+    "pca": [
+      -0.05585829573280447,
+      0.11540538999101586
+    ],
+    "tsne": [
+      13.269232749938965,
+      5.61833381652832
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Fall Out Boy",
+    "song": "This Ain't a Scene, It's an Arms Race",
+    "pca": [
+      -0.043291067692610714,
+      0.17214156295494085
+    ],
+    "tsne": [
+      15.427970886230469,
+      -2.8012218475341797
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Fall Out Boy",
+    "song": "Sugar, We're Goin Down",
+    "pca": [
+      -0.001030536063073508,
+      -0.06845050290780431
+    ],
+    "tsne": [
+      -15.623708724975586,
+      21.360937118530273
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Maroon 5",
+    "song": "She Will Be Loved",
+    "pca": [
+      -0.05706915058862238,
+      -0.07158225682322374
+    ],
+    "tsne": [
+      12.744454383850098,
+      -9.634965896606445
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Maroon 5",
+    "song": "Maps",
+    "pca": [
+      -0.005973446891405547,
+      0.09115512148423105
+    ],
+    "tsne": [
+      -23.802099227905273,
+      -14.8320894241333
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Maroon 5",
+    "song": "Payphone",
+    "pca": [
+      -0.1448682164390845,
+      0.027000309066237755
+    ],
+    "tsne": [
+      -0.5920835733413696,
+      -9.18667984008789
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Maroon 5",
+    "song": "Sunday Morning",
+    "pca": [
+      -0.10360898302760951,
+      0.0887095403645258
+    ],
+    "tsne": [
+      5.713750839233398,
+      -6.7764434814453125
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Maroon 5",
+    "song": "This Love",
+    "pca": [
+      -0.13125604382006442,
+      0.29736719721037397
+    ],
+    "tsne": [
+      11.966795921325684,
+      -8.917418479919434
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "Firework",
+    "pca": [
+      -0.002991148789300361,
+      -0.0681290966091233
+    ],
+    "tsne": [
+      8.13294792175293,
+      4.866692066192627
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "Teenage Dream",
+    "pca": [
+      -0.09208079358634126,
+      -0.07553933091896062
+    ],
+    "tsne": [
+      -14.495532989501953,
+      4.891351699829102
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "Last Friday Night (T.G.I.F.)",
+    "pca": [
+      -0.008967704691590127,
+      -0.0028390231621321536
+    ],
+    "tsne": [
+      14.616077423095703,
+      7.611449241638184
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "I Kissed a Girl",
+    "pca": [
+      -0.021199187909008016,
+      -0.08775064450635935
+    ],
+    "tsne": [
+      11.909832000732422,
+      10.762458801269531
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "Hot n Cold",
+    "pca": [
+      -0.09822874375830189,
+      0.10353353860702356
+    ],
+    "tsne": [
+      17.99351692199707,
+      3.392197847366333
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Shaboozey",
+    "song": "A Bar Song (Tipsy)",
+    "pca": [
+      -0.031053618980886308,
+      -0.024022876636681723
+    ],
+    "tsne": [
+      6.763847827911377,
+      1.1123228073120117
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Shaboozey",
+    "song": "My Fault (feat. Noah Cyrus)",
+    "pca": [
+      -0.037024990736560036,
+      -0.10613985444435964
+    ],
+    "tsne": [
+      -5.614141941070557,
+      -8.06259822845459
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Shaboozey",
+    "song": "Vegas - A COLORS SHOW",
+    "pca": [
+      -0.05028086755841966,
+      -0.09345231483494723
+    ],
+    "tsne": [
+      2.37711238861084,
+      10.122601509094238
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Shaboozey",
+    "song": "Drink Don't Need No Mix (feat. BigXthaPlug)",
+    "pca": [
+      -0.05333505855495201,
+      -0.13154636143856022
+    ],
+    "tsne": [
+      3.2827563285827637,
+      -20.433372497558594
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Shaboozey",
+    "song": "Good News",
+    "pca": [
+      -0.0362764003259134,
+      -0.06756553363487854
+    ],
+    "tsne": [
+      -7.459644317626953,
+      13.937784194946289
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Adele",
+    "song": "Set Fire to the Rain",
+    "pca": [
+      -0.04488798045126157,
+      -0.0025590609162982397
+    ],
+    "tsne": [
+      -19.743898391723633,
+      -0.11574991792440414
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Adele",
+    "song": "Rolling in the Deep",
+    "pca": [
+      -0.004092385128083094,
+      -0.03878327393335326
+    ],
+    "tsne": [
+      -25.686552047729492,
+      -4.196324825286865
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Adele",
+    "song": "Someone Like You",
+    "pca": [
+      -0.06914107328288044,
+      -0.10210054457537457
+    ],
+    "tsne": [
+      -5.144233226776123,
+      12.475594520568848
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Adele",
+    "song": "Make You Feel My Love",
+    "pca": [
+      -0.05497721273762175,
+      -0.07871012284786988
+    ],
+    "tsne": [
+      -5.840551376342773,
+      5.949404716491699
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Adele",
+    "song": "Chasing Pavements",
+    "pca": [
+      -0.006097863022849604,
+      -0.030809153973219917
+    ],
+    "tsne": [
+      -23.10697364807129,
+      -14.157926559448242
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Clairo",
+    "song": "4EVER",
+    "pca": [
+      -0.028630135295728446,
+      -0.06280063195702677
+    ],
+    "tsne": [
+      -25.187055587768555,
+      -1.5535964965820312
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Clairo",
+    "song": "Bags",
+    "pca": [
+      -0.017294439196354452,
+      -0.0985357700442043
+    ],
+    "tsne": [
+      -9.251314163208008,
+      22.4483642578125
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Clairo",
+    "song": "Pretty Girl",
+    "pca": [
+      -0.014252573351086989,
+      -0.09269554834377715
+    ],
+    "tsne": [
+      10.695751190185547,
+      9.435190200805664
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Clairo",
+    "song": "Sofia",
+    "pca": [
+      -0.07039266044153211,
+      -0.08046090664270897
+    ],
+    "tsne": [
+      -7.505232334136963,
+      4.221829414367676
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Clairo",
+    "song": "Flaming Hot Cheetos",
+    "pca": [
+      0.11219739848611676,
+      -0.03925483465159797
+    ],
+    "tsne": [
+      32.193870544433594,
+      12.684370040893555
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "The Neighbourhood",
+    "song": "Daddy Issues",
+    "pca": [
+      -0.0508615864968039,
+      -0.10280838523125417
+    ],
+    "tsne": [
+      -12.525259971618652,
+      -10.910168647766113
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "The Neighbourhood",
+    "song": "Afraid",
+    "pca": [
+      0.011047644818256817,
+      -0.04533888433886559
+    ],
+    "tsne": [
+      -21.219268798828125,
+      1.9483177661895752
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "The Neighbourhood",
+    "song": "You Get Me So High",
+    "pca": [
+      -0.02982924045220895,
+      -0.09654765479960174
+    ],
+    "tsne": [
+      -14.059301376342773,
+      15.875588417053223
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "The Neighbourhood",
+    "song": "Softcore",
+    "pca": [
+      -0.01612924493045982,
+      -0.07810228752098357
+    ],
+    "tsne": [
+      10.17601490020752,
+      -8.21487045288086
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "The Neighbourhood",
+    "song": "Sweater Weather",
+    "pca": [
+      -0.08695076037390269,
+      0.03350558053256609
+    ],
+    "tsne": [
+      15.550161361694336,
+      -7.529026508331299
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Dua Lipa",
+    "song": "New Rules",
+    "pca": [
+      -0.08573859656853484,
+      -0.08939305597889723
+    ],
+    "tsne": [
+      -5.554521083831787,
+      -5.864867687225342
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Dua Lipa",
+    "song": "doN'T StArT nOw",
+    "pca": [
+      -0.07488339942264516,
+      -0.07573118293561408
+    ],
+    "tsne": [
+      -6.552494525909424,
+      -4.721622943878174
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Dua Lipa",
+    "song": "Levitating (feat. DaBaby)",
+    "pca": [
+      0.07661736100079158,
+      -0.05315885637505013
+    ],
+    "tsne": [
+      17.826953887939453,
+      19.603713989257812
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Dua Lipa",
+    "song": "Levitating",
+    "pca": [
+      -0.08774543944164431,
+      -0.10532350820102146
+    ],
+    "tsne": [
+      5.095191478729248,
+      -6.231505393981934
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Dua Lipa",
+    "song": "Break My Heart",
+    "pca": [
+      -0.07304458353731723,
+      -0.01066254075054477
+    ],
+    "tsne": [
+      -8.676717758178711,
+      2.3673508167266846
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Lorde",
+    "song": "Team",
+    "pca": [
+      -0.008381601454610765,
+      -0.08739396779966845
+    ],
+    "tsne": [
+      -2.7879281044006348,
+      -4.428462505340576
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Lorde",
+    "song": "Tennis Court",
+    "pca": [
+      -0.0812917665721957,
+      -0.10721305503658989
+    ],
+    "tsne": [
+      6.1386213302612305,
+      -7.517403602600098
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Lorde",
+    "song": "Green Light",
+    "pca": [
+      -0.013514636022848893,
+      -0.036440250523880786
+    ],
+    "tsne": [
+      -18.9254207611084,
+      4.742602825164795
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Lorde",
+    "song": "Ribs",
+    "pca": [
+      -0.0334463789035253,
+      -0.10571881129051874
+    ],
+    "tsne": [
+      10.021488189697266,
+      -7.441136360168457
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Lorde",
+    "song": "Royals",
+    "pca": [
+      -0.06299860863922598,
+      0.009364109297174818
+    ],
+    "tsne": [
+      2.247396945953369,
+      4.76186466217041
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Rauw Alejandro",
+    "song": "Qué Pasaría...",
+    "pca": [
+      0.6729561008239229,
+      0.11956151383470542
+    ],
+    "tsne": [
+      30.58257293701172,
+      5.496546745300293
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Rauw Alejandro",
+    "song": "Todo De Ti",
+    "pca": [
+      0.44432321089786386,
+      0.08793208770169167
+    ],
+    "tsne": [
+      31.512027740478516,
+      1.856245994567871
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Rauw Alejandro",
+    "song": "Desesperados",
+    "pca": [
+      0.6695405947561247,
+      0.16814437449346145
+    ],
+    "tsne": [
+      29.889368057250977,
+      6.0693535804748535
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Rauw Alejandro",
+    "song": "LOKERA",
+    "pca": [
+      0.6600228842197826,
+      0.10261020086919925
+    ],
+    "tsne": [
+      29.259010314941406,
+      5.65290641784668
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Rauw Alejandro",
+    "song": "Cúrame",
+    "pca": [
+      0.6199345819437831,
+      0.1406637341812886
+    ],
+    "tsne": [
+      30.094219207763672,
+      4.602604866027832
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Imagine Dragons",
+    "song": "Demons",
+    "pca": [
+      0.019086957794019248,
+      -0.07864528060805137
+    ],
+    "tsne": [
+      -15.907801628112793,
+      6.381935119628906
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Imagine Dragons",
+    "song": "Radioactive",
+    "pca": [
+      -0.05205231856549515,
+      0.21252729603910364
+    ],
+    "tsne": [
+      16.377288818359375,
+      -6.991812229156494
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Imagine Dragons",
+    "song": "It's Time",
+    "pca": [
+      -0.047949775778408955,
+      -0.10808820378816762
+    ],
+    "tsne": [
+      -9.005952835083008,
+      -8.232820510864258
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Imagine Dragons",
+    "song": "On Top of the World",
+    "pca": [
+      -0.0631530692509865,
+      0.08159044872696909
+    ],
+    "tsne": [
+      -18.675912857055664,
+      -14.967522621154785
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Imagine Dragons",
+    "song": "Believer",
+    "pca": [
+      -0.036002536438536396,
+      0.12469784505718264
+    ],
+    "tsne": [
+      7.685242176055908,
+      -0.8343318700790405
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "JAY-Z",
+    "song": "Empire State Of Mind",
+    "pca": [
+      -0.02607804939943245,
+      -0.06855030431942999
+    ],
+    "tsne": [
+      2.338515043258667,
+      7.294631004333496
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "JAY-Z",
+    "song": "No Church In The Wild",
+    "pca": [
+      -0.010671011866987401,
+      -0.08331329090578911
+    ],
+    "tsne": [
+      7.83440637588501,
+      15.493130683898926
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "JAY-Z",
+    "song": "99 Problems",
+    "pca": [
+      -0.03027045090934639,
+      -0.15033827094509528
+    ],
+    "tsne": [
+      -1.6277294158935547,
+      -14.954706192016602
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "JAY-Z",
+    "song": "Big Pimpin'",
+    "pca": [
+      -0.007740365109452066,
+      -0.12829436290696175
+    ],
+    "tsne": [
+      0.8489217758178711,
+      -17.102420806884766
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "JAY-Z",
+    "song": "Ni__as In Paris",
+    "pca": [
+      -0.02489527247046361,
+      -0.10450234502395297
+    ],
+    "tsne": [
+      -18.55985450744629,
+      9.08986759185791
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Chappell Roan",
+    "song": "Casual",
+    "pca": [
+      -0.07984885581320118,
+      0.005891859647395385
+    ],
+    "tsne": [
+      -26.305795669555664,
+      -6.464484691619873
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Chappell Roan",
+    "song": "Red Wine Supernova",
+    "pca": [
+      -0.11486779521735199,
+      -0.11238850712813694
+    ],
+    "tsne": [
+      -4.69464111328125,
+      -3.1630218029022217
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Chappell Roan",
+    "song": "Pink Pony Club",
+    "pca": [
+      0.004081047451497538,
+      -0.033419113176322734
+    ],
+    "tsne": [
+      -26.412858963012695,
+      -1.589191198348999
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Chappell Roan",
+    "song": "HOT TO GO!",
+    "pca": [
+      -0.013988756215125459,
+      -0.046477271835092704
+    ],
+    "tsne": [
+      18.519500732421875,
+      4.621589183807373
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Chappell Roan",
+    "song": "Good Luck, Babe!",
+    "pca": [
+      0.004845814604991969,
+      -0.07722313526219164
+    ],
+    "tsne": [
+      -20.612308502197266,
+      17.449357986450195
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Lainey Wilson",
+    "song": "Heart Like a Truck",
+    "pca": [
+      -0.058490714437852157,
+      -0.09232413811940059
+    ],
+    "tsne": [
+      -3.582561492919922,
+      9.363775253295898
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Lainey Wilson",
+    "song": "Things a Man Oughta Know",
+    "pca": [
+      -0.11441237087466576,
+      -0.13213222502812672
+    ],
+    "tsne": [
+      -7.52093505859375,
+      0.6579559445381165
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Lainey Wilson",
+    "song": "Dirty Looks",
+    "pca": [
+      -0.01979389966839202,
+      -0.10102227644867712
+    ],
+    "tsne": [
+      7.019332408905029,
+      11.414119720458984
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Lainey Wilson",
+    "song": "Watermelon Moonshine",
+    "pca": [
+      -0.03210947244955814,
+      -0.10202670204198813
+    ],
+    "tsne": [
+      -15.246711730957031,
+      19.59857749938965
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Alex Warren",
+    "song": "Chasing Shadows",
+    "pca": [
+      -0.08567694126754975,
+      0.103970247789917
+    ],
+    "tsne": [
+      -22.429502487182617,
+      -13.531428337097168
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Alex Warren",
+    "song": "Before You Leave Me",
+    "pca": [
+      -0.24085123204906345,
+      0.6028201431520307
+    ],
+    "tsne": [
+      11.761423110961914,
+      -2.241126537322998
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Alex Warren",
+    "song": "Carry You Home",
+    "pca": [
+      -0.19606512020410183,
+      0.6628172416572257
+    ],
+    "tsne": [
+      11.909360885620117,
+      -0.30708181858062744
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Alex Warren",
+    "song": "Burning Down",
+    "pca": [
+      -0.04368194023677422,
+      -0.011631506241657007
+    ],
+    "tsne": [
+      -20.745935440063477,
+      -10.024628639221191
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Alex Warren",
+    "song": "Ordinary",
+    "pca": [
+      -0.06376414837073847,
+      0.15007034104559222
+    ],
+    "tsne": [
+      18.56861686706543,
+      -14.872035026550293
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "USHER",
+    "song": "My Boo",
+    "pca": [
+      -0.019918352579786313,
+      0.025964550812283202
+    ],
+    "tsne": [
+      13.14924144744873,
+      14.956809043884277
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "USHER",
+    "song": "DJ Got Us Fallin' in Love (feat. Pitbull)",
+    "pca": [
+      -0.06375980404275869,
+      -0.013207544055864046
+    ],
+    "tsne": [
+      12.875535011291504,
+      14.587041854858398
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "USHER",
+    "song": "Burn",
+    "pca": [
+      -0.07482025383503296,
+      -0.0247508617610773
+    ],
+    "tsne": [
+      -19.440820693969727,
+      -5.763647079467773
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "USHER",
+    "song": "OMG (feat. will.i.am)",
+    "pca": [
+      -0.19680335585024245,
+      0.8234679553328879
+    ],
+    "tsne": [
+      12.747605323791504,
+      -1.4068104028701782
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "USHER",
+    "song": "Yeah! (feat. Lil Jon & Ludacris)",
+    "pca": [
+      0.035797355889307464,
+      -0.04680495362052067
+    ],
+    "tsne": [
+      7.157945156097412,
+      -8.374613761901855
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Stray Kids",
+    "song": "MIROH",
+    "pca": [
+      0.045682342662411834,
+      0.00793268638820434
+    ],
+    "tsne": [
+      16.8084659576416,
+      -1.045866847038269
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Stray Kids",
+    "song": "MANIAC",
+    "pca": [
+      0.05035562265988952,
+      -0.02688866944252612
+    ],
+    "tsne": [
+      -5.7715911865234375,
+      23.973588943481445
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Stray Kids",
+    "song": "Thunderous",
+    "pca": [
+      0.023322286438884024,
+      -0.04426958375052833
+    ],
+    "tsne": [
+      -6.601654052734375,
+      24.203990936279297
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Stray Kids",
+    "song": "Back Door",
+    "pca": [
+      -0.006696797677051544,
+      -0.016010020766966542
+    ],
+    "tsne": [
+      -8.1188325881958,
+      22.915687561035156
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Stray Kids",
+    "song": "God’s Menu",
+    "pca": [
+      0.06363227490689088,
+      -0.04919732462696896
+    ],
+    "tsne": [
+      -7.356680870056152,
+      25.02667999267578
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "Just the Way You Are",
+    "pca": [
+      -0.14763242446025412,
+      0.05590308985308528
+    ],
+    "tsne": [
+      -10.662580490112305,
+      5.822446346282959
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "Locked Out of Heaven",
+    "pca": [
+      -0.0676828745823353,
+      -0.036484950481470345
+    ],
+    "tsne": [
+      5.167973041534424,
+      -7.851961135864258
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "When I Was Your Man",
+    "pca": [
+      -0.10839498623366141,
+      -0.03033098156190925
+    ],
+    "tsne": [
+      -10.940706253051758,
+      -1.9548985958099365
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "That's What I Like",
+    "pca": [
+      -0.06048791587477663,
+      -0.06676738460592505
+    ],
+    "tsne": [
+      0.7041201591491699,
+      -4.059308052062988
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Bruno Mars",
+    "song": "Grenade",
+    "pca": [
+      -0.09799198415237968,
+      0.04003223546146271
+    ],
+    "tsne": [
+      6.248820781707764,
+      -6.637439250946045
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Maluma",
+    "song": "El Perdedor",
+    "pca": [
+      0.6928067549660962,
+      0.0926120819075358
+    ],
+    "tsne": [
+      32.196414947509766,
+      6.531148433685303
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Maluma",
+    "song": "Borro Cassette",
+    "pca": [
+      0.7564509477955936,
+      0.11391927357645536
+    ],
+    "tsne": [
+      33.392696380615234,
+      4.920537948608398
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Maluma",
+    "song": "Felices Los 4",
+    "pca": [
+      0.46678833372880923,
+      0.04599568465060121
+    ],
+    "tsne": [
+      35.5185661315918,
+      7.107081890106201
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Maluma",
+    "song": "Hawái",
+    "pca": [
+      0.7404504929408622,
+      0.11278846680816064
+    ],
+    "tsne": [
+      33.568397521972656,
+      5.896205425262451
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Noah Kahan",
+    "song": "You’re Gonna Go Far",
+    "pca": [
+      -0.09375808384760213,
+      -0.04303667721896656
+    ],
+    "tsne": [
+      -17.68843650817871,
+      -6.013221740722656
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Noah Kahan",
+    "song": "Stick Season",
+    "pca": [
+      -0.06209712928278756,
+      -0.06784726671672921
+    ],
+    "tsne": [
+      -12.108986854553223,
+      -6.488560676574707
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Noah Kahan",
+    "song": "Northern Attitude",
+    "pca": [
+      -0.10750595163872288,
+      0.5017646023853543
+    ],
+    "tsne": [
+      11.031373023986816,
+      2.9164981842041016
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Noah Kahan",
+    "song": "All My Love",
+    "pca": [
+      -0.08545798157995783,
+      -0.05939155002035044
+    ],
+    "tsne": [
+      -2.2750508785247803,
+      6.101435661315918
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ne-Yo",
+    "song": "Miss Independent",
+    "pca": [
+      -0.1625602238165608,
+      0.036310041131468684
+    ],
+    "tsne": [
+      1.8012409210205078,
+      -1.12907075881958
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ne-Yo",
+    "song": "Closer",
+    "pca": [
+      -0.012553493425468869,
+      -0.048966345179599496
+    ],
+    "tsne": [
+      -18.600740432739258,
+      15.475531578063965
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Ne-Yo",
+    "song": "So Sick",
+    "pca": [
+      -0.03024659129682516,
+      0.02558173160472857
+    ],
+    "tsne": [
+      14.817602157592773,
+      3.5083298683166504
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Ne-Yo",
+    "song": "Because of You",
+    "pca": [
+      -0.18618921257195042,
+      0.3747472886070074
+    ],
+    "tsne": [
+      -17.60392189025879,
+      -9.003225326538086
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Ne-Yo",
+    "song": "Mad",
+    "pca": [
+      -0.1638370954584007,
+      0.30168185528489455
+    ],
+    "tsne": [
+      14.723464965820312,
+      -5.046633243560791
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "David Guetta",
+    "song": "Titanium (feat. Sia)",
+    "pca": [
+      0.021587353315454905,
+      -0.07357119037650227
+    ],
+    "tsne": [
+      -23.336435317993164,
+      4.17993688583374
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "David Guetta",
+    "song": "Memories (feat. Kid Cudi)",
+    "pca": [
+      -0.03763829115983694,
+      0.10769594678953645
+    ],
+    "tsne": [
+      -19.590497970581055,
+      -9.194286346435547
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "David Guetta",
+    "song": "Sexy Bitch (feat. Akon)",
+    "pca": [
+      0.12121719364268879,
+      -0.043366884265594575
+    ],
+    "tsne": [
+      32.61634826660156,
+      12.936652183532715
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "David Guetta",
+    "song": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+    "pca": [
+      -0.02884121013675758,
+      0.05575080344656441
+    ],
+    "tsne": [
+      0.3199337124824524,
+      -26.51262855529785
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "David Guetta",
+    "song": "I'm Good (Blue)",
+    "pca": [
+      -0.044646520973861153,
+      -0.0583621636778112
+    ],
+    "tsne": [
+      2.1285159587860107,
+      17.507911682128906
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Pharrell Williams",
+    "song": "Cash In Cash Out",
+    "pca": [
+      0.03486621891360606,
+      -0.07271851427771456
+    ],
+    "tsne": [
+      23.75948143005371,
+      11.76060676574707
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Pharrell Williams",
+    "song": "Just a Cloud Away",
+    "pca": [
+      -0.00989235459894233,
+      -0.06679158927038852
+    ],
+    "tsne": [
+      -10.918048858642578,
+      6.246393203735352
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Pharrell Williams",
+    "song": "Happy",
+    "pca": [
+      0.028675380401673233,
+      -0.07420261360002042
+    ],
+    "tsne": [
+      -7.805167198181152,
+      -19.516286849975586
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "The Hills",
+    "pca": [
+      -0.028878100366508192,
+      -0.08172038467782307
+    ],
+    "tsne": [
+      -4.5815839767456055,
+      -20.46626853942871
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Starboy",
+    "pca": [
+      0.06172513815909968,
+      -0.0686040656431485
+    ],
+    "tsne": [
+      -3.051887035369873,
+      24.97035026550293
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Blinding Lights",
+    "pca": [
+      -0.12254200527583364,
+      0.16732480788579765
+    ],
+    "tsne": [
+      -18.189022064208984,
+      -12.973464012145996
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Can't Feel My Face",
+    "pca": [
+      -0.16527581951302764,
+      0.22895807030725715
+    ],
+    "tsne": [
+      -5.048250198364258,
+      5.889645099639893
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Die For You",
+    "pca": [
+      -0.08193928092867364,
+      -0.03846965250567307
+    ],
+    "tsne": [
+      3.891517162322998,
+      17.2979793548584
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "song": "Black and Yellow",
+    "pca": [
+      0.02403342027263087,
+      -0.08253852806121204
+    ],
+    "tsne": [
+      -16.16730308532715,
+      -22.927448272705078
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "song": "The Thrill",
+    "pca": [
+      0.0041623913581611775,
+      -0.08793563966123633
+    ],
+    "tsne": [
+      7.937243938446045,
+      -12.579800605773926
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "song": "Say Yeah",
+    "pca": [
+      -0.06710494382794575,
+      -0.1655315585980329
+    ],
+    "tsne": [
+      4.577812194824219,
+      -13.10654067993164
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "song": "No Sleep",
+    "pca": [
+      -0.014729270987166922,
+      -0.09724377651264972
+    ],
+    "tsne": [
+      3.299753189086914,
+      -4.452808380126953
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Wiz Khalifa",
+    "song": "See You Again (feat. Charlie Puth)",
+    "pca": [
+      -0.024542678609881883,
+      0.12704667719559487
+    ],
+    "tsne": [
+      8.121026992797852,
+      -12.169356346130371
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Sia",
+    "song": "Breathe Me",
+    "pca": [
+      0.022614371311406,
+      -0.07003787858699204
+    ],
+    "tsne": [
+      -16.335750579833984,
+      -1.2703218460083008
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Sia",
+    "song": "Snowman",
+    "pca": [
+      -0.09670549922205045,
+      -0.10175048592881222
+    ],
+    "tsne": [
+      1.1913334131240845,
+      3.3382046222686768
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Sia",
+    "song": "Cheap Thrills",
+    "pca": [
+      0.16858557842551009,
+      0.008230426995866232
+    ],
+    "tsne": [
+      24.140789031982422,
+      10.160775184631348
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Sia",
+    "song": "Chandelier",
+    "pca": [
+      -0.03658099259913628,
+      -0.04775647266734567
+    ],
+    "tsne": [
+      -15.823345184326172,
+      2.8529179096221924
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Sia",
+    "song": "Elastic Heart",
+    "pca": [
+      -0.17514124060056838,
+      0.32553252548470263
+    ],
+    "tsne": [
+      12.948104858398438,
+      -4.84664249420166
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Justin Bieber",
+    "song": "Beauty and a Beat",
+    "pca": [
+      -0.040330412692971954,
+      -0.01329854321917964
+    ],
+    "tsne": [
+      -1.8673298358917236,
+      -23.926836013793945
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Justin Bieber",
+    "song": "Sorry",
+    "pca": [
+      -0.07286180282811938,
+      0.03178320834629283
+    ],
+    "tsne": [
+      -13.269613265991211,
+      -15.42129135131836
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Justin Bieber",
+    "song": "Baby",
+    "pca": [
+      -0.06072499438103231,
+      0.08500752837846677
+    ],
+    "tsne": [
+      0.9334746599197388,
+      -7.259753227233887
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Justin Bieber",
+    "song": "Love Yourself",
+    "pca": [
+      -0.15543538592758094,
+      0.007787886307961718
+    ],
+    "tsne": [
+      -6.532932281494141,
+      3.6241607666015625
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Justin Bieber",
+    "song": "What Do You Mean_",
+    "pca": [
+      -0.11573598387762254,
+      0.257426258924595
+    ],
+    "tsne": [
+      11.37696647644043,
+      1.0205624103546143
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Don Omar",
+    "song": "Virtual Diva",
+    "pca": [
+      0.4984183770241559,
+      0.06534928912876489
+    ],
+    "tsne": [
+      29.71117401123047,
+      3.290004014968872
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Don Omar",
+    "song": "Salió el Sol",
+    "pca": [
+      0.32076092331566847,
+      0.011873410655159441
+    ],
+    "tsne": [
+      27.120845794677734,
+      8.316953659057617
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Don Omar",
+    "song": "Dale Don Dale",
+    "pca": [
+      0.48628092639789827,
+      0.04521525354509295
+    ],
+    "tsne": [
+      34.718284606933594,
+      3.653653860092163
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Don Omar",
+    "song": "Danza Kuduro",
+    "pca": [
+      0.27433346383144425,
+      0.009060741876699632
+    ],
+    "tsne": [
+      36.38951873779297,
+      4.641419887542725
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Don Omar",
+    "song": "Dile",
+    "pca": [
+      0.5316840501850025,
+      0.060060761291733294
+    ],
+    "tsne": [
+      34.78934860229492,
+      5.446768283843994
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "The Marías",
+    "song": "Run Your Mouth",
+    "pca": [
+      -0.07481099825199679,
+      -0.0575127171216291
+    ],
+    "tsne": [
+      -2.1517763137817383,
+      -11.768621444702148
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "The Marías",
+    "song": "Cariño",
+    "pca": [
+      0.17749564328582265,
+      -0.022419361231398243
+    ],
+    "tsne": [
+      19.973356246948242,
+      1.1650885343551636
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "The Marías",
+    "song": "No One Noticed",
+    "pca": [
+      -0.04202040498963625,
+      -0.09258611559649452
+    ],
+    "tsne": [
+      -14.176831245422363,
+      -3.0506625175476074
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "The Marías",
+    "song": "Only in My Dreams",
+    "pca": [
+      0.0032960240040842857,
+      -0.08775740203801319
+    ],
+    "tsne": [
+      -15.803866386413574,
+      6.267528533935547
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "The Marías",
+    "song": "Heavy",
+    "pca": [
+      -0.032922813220547215,
+      -0.10114798578223155
+    ],
+    "tsne": [
+      -8.681962013244629,
+      22.427688598632812
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Nicki Minaj",
+    "song": "Starships",
+    "pca": [
+      -0.14603512860235457,
+      0.418386019276228
+    ],
+    "tsne": [
+      15.585387229919434,
+      -1.1580355167388916
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Nicki Minaj",
+    "song": "sUPeR fREAky gIrl",
+    "pca": [
+      -0.008866070879964438,
+      -0.0764684538758892
+    ],
+    "tsne": [
+      0.46639397740364075,
+      -25.124549865722656
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Nicki Minaj",
+    "song": "Super Bass",
+    "pca": [
+      0.050387396022489414,
+      -0.060177011594588235
+    ],
+    "tsne": [
+      8.026896476745605,
+      4.074150562286377
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Nicki Minaj",
+    "song": "Anaconda",
+    "pca": [
+      -0.07929204241312601,
+      0.07008574540152157
+    ],
+    "tsne": [
+      0.5760668516159058,
+      -24.869611740112305
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Selena Gomez",
+    "song": "Good for You",
+    "pca": [
+      -0.031071055058447282,
+      -0.10937566494500564
+    ],
+    "tsne": [
+      5.460958003997803,
+      11.631891250610352
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Selena Gomez",
+    "song": "Lose You To Love Me",
+    "pca": [
+      -0.08741505430293249,
+      -0.03888267303257293
+    ],
+    "tsne": [
+      -3.585383176803589,
+      6.007275104522705
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Selena Gomez",
+    "song": "Come & Get It",
+    "pca": [
+      0.07105386442612067,
+      -0.014494175751595412
+    ],
+    "tsne": [
+      2.7192609310150146,
+      18.6436824798584
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Selena Gomez",
+    "song": "Hands to Myself",
+    "pca": [
+      -0.014629075105931783,
+      0.03950332422268077
+    ],
+    "tsne": [
+      7.838253498077393,
+      -18.01276206970215
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Selena Gomez",
+    "song": "Same Old Love",
+    "pca": [
+      -0.10626257690979063,
+      0.28282515665257046
+    ],
+    "tsne": [
+      14.626150131225586,
+      3.1860008239746094
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Benson Boone",
+    "song": "Cry",
+    "pca": [
+      -0.06636037992273297,
+      0.02550027103837409
+    ],
+    "tsne": [
+      -13.525158882141113,
+      -12.457552909851074
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Benson Boone",
+    "song": "Beautiful Things",
+    "pca": [
+      -0.1676499075984302,
+      0.13783400605776708
+    ],
+    "tsne": [
+      -0.5926757454872131,
+      9.656058311462402
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Benson Boone",
+    "song": "In the Stars",
+    "pca": [
+      -0.032394600298595554,
+      0.002627703645781767
+    ],
+    "tsne": [
+      -19.82114601135254,
+      -15.499964714050293
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Benson Boone",
+    "song": "GHOST TOWN",
+    "pca": [
+      -0.038651740872392704,
+      -0.03570328627131266
+    ],
+    "tsne": [
+      -13.79822063446045,
+      9.285758972167969
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Benson Boone",
+    "song": "Slow It Down",
+    "pca": [
+      -0.08652039413848715,
+      0.07155562981178402
+    ],
+    "tsne": [
+      -16.247873306274414,
+      -8.28378963470459
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Drake",
+    "song": "God's Plan",
+    "pca": [
+      0.006549183466311563,
+      -0.08476558839139561
+    ],
+    "tsne": [
+      -19.917192459106445,
+      -11.908296585083008
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Drake",
+    "song": "Passionfruit",
+    "pca": [
+      -0.024839873532521674,
+      -0.11244747615583187
+    ],
+    "tsne": [
+      -6.674509048461914,
+      -17.476625442504883
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Drake",
+    "song": "Best I Ever Had",
+    "pca": [
+      -0.022518674995362864,
+      -0.11925641948574033
+    ],
+    "tsne": [
+      -3.5715131759643555,
+      -23.850143432617188
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Drake",
+    "song": "One Dance",
+    "pca": [
+      -0.07908960482276964,
+      -0.03328811940251853
+    ],
+    "tsne": [
+      -9.432778358459473,
+      -6.041152477264404
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Drake",
+    "song": "Forever",
+    "pca": [
+      -0.011496651923101888,
+      -0.10915062954789456
+    ],
+    "tsne": [
+      -4.353287220001221,
+      -17.6511173248291
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "SZA",
+    "song": "Broken Clocks",
+    "pca": [
+      -0.15221156347182632,
+      -0.0065534838721258756
+    ],
+    "tsne": [
+      -3.2505440711975098,
+      5.765326976776123
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "SZA",
+    "song": "Low",
+    "pca": [
+      -0.11538648358708416,
+      -0.09715218780230364
+    ],
+    "tsne": [
+      -2.8175570964813232,
+      14.035070419311523
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "SZA",
+    "song": "Snooze",
+    "pca": [
+      -0.08465426685165942,
+      -0.06086084563601671
+    ],
+    "tsne": [
+      0.8671244382858276,
+      -2.037506580352783
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "SZA",
+    "song": "Kill Bill",
+    "pca": [
+      -0.04601028882227553,
+      -0.037401647436506126
+    ],
+    "tsne": [
+      -5.89635705947876,
+      8.857935905456543
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "SZA",
+    "song": "Good Days",
+    "pca": [
+      -0.025846384321048996,
+      -0.09844994969895803
+    ],
+    "tsne": [
+      -3.1735334396362305,
+      13.882482528686523
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Miley Cyrus",
+    "song": "Party in the U.S.A.",
+    "pca": [
+      -0.052810802476967206,
+      -0.08616258288657085
+    ],
+    "tsne": [
+      3.496854782104492,
+      -4.983168125152588
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Miley Cyrus",
+    "song": "We Can't Stop",
+    "pca": [
+      -0.08539347137391025,
+      -0.01109091810609364
+    ],
+    "tsne": [
+      3.460537910461426,
+      -3.584353446960449
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Miley Cyrus",
+    "song": "Wrecking Ball",
+    "pca": [
+      -0.07876279042503342,
+      -0.1053206827283951
+    ],
+    "tsne": [
+      -18.526762008666992,
+      9.031686782836914
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Miley Cyrus",
+    "song": "The Climb",
+    "pca": [
+      -0.04327543964236833,
+      -0.05843410660910136
+    ],
+    "tsne": [
+      -25.359514236450195,
+      -1.6153526306152344
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Miley Cyrus",
+    "song": "Flowers",
+    "pca": [
+      -0.09054993157752804,
+      -0.07144929959431412
+    ],
+    "tsne": [
+      -5.170790195465088,
+      2.4507064819335938
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ty Dolla $ign",
+    "song": "Spicy (feat. Post Malone)",
+    "pca": [
+      0.004263207995407471,
+      -0.10417120346377885
+    ],
+    "tsne": [
+      4.6392412185668945,
+      -21.605379104614258
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Ty Dolla $ign",
+    "song": "Ego Death (feat. Kanye West, FKA twigs & Skrillex)",
+    "pca": [
+      -0.014476909677914346,
+      -0.0999799480948428
+    ],
+    "tsne": [
+      4.740434169769287,
+      -21.73700714111328
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Ty Dolla $ign",
+    "song": "Blasé (Feat. Future & Rae Sremmurd)",
+    "pca": [
+      0.04543383398425311,
+      -0.06699696286868825
+    ],
+    "tsne": [
+      5.642322540283203,
+      -22.368696212768555
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Ozuna",
+    "song": "Se Preparó",
+    "pca": [
+      0.479034346721434,
+      0.10526568596902133
+    ],
+    "tsne": [
+      28.638376235961914,
+      3.182208299636841
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Ozuna",
+    "song": "Hey Mor",
+    "pca": [
+      0.716516869833331,
+      0.11749428207507308
+    ],
+    "tsne": [
+      32.872230529785156,
+      5.676405429840088
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Ozuna",
+    "song": "Del Mar",
+    "pca": [
+      0.37014015543445744,
+      0.23597719878163687
+    ],
+    "tsne": [
+      30.603595733642578,
+      1.632891058921814
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Ozuna",
+    "song": "Baila Baila Baila",
+    "pca": [
+      0.386280062106788,
+      0.10769060413300843
+    ],
+    "tsne": [
+      33.646202087402344,
+      2.106539249420166
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Ozuna",
+    "song": "Dile Que Tu Me Quieres",
+    "pca": [
+      0.6454912795960531,
+      0.18032267269680283
+    ],
+    "tsne": [
+      33.420894622802734,
+      4.173098564147949
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Feid",
+    "song": "Normal",
+    "pca": [
+      0.7384094154772031,
+      0.10366396755016606
+    ],
+    "tsne": [
+      32.97364807128906,
+      6.787960052490234
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Feid",
+    "song": "LUNA",
+    "pca": [
+      0.49719812649942113,
+      0.05136157545144448
+    ],
+    "tsne": [
+      34.08491516113281,
+      7.0190606117248535
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Feid",
+    "song": "Classy 101",
+    "pca": [
+      0.6983602155790885,
+      0.1252375730675902
+    ],
+    "tsne": [
+      31.887859344482422,
+      4.455516815185547
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Feid",
+    "song": "CHORRITO PA LAS ANIMAS",
+    "pca": [
+      0.6326644220743679,
+      0.0964181443890531
+    ],
+    "tsne": [
+      30.62148094177246,
+      3.447084903717041
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Feid",
+    "song": "Feliz Cumpleaños Ferxxo",
+    "pca": [
+      0.6182263139543522,
+      0.08238162726712957
+    ],
+    "tsne": [
+      32.44733810424805,
+      3.4835898876190186
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "Feather",
+    "pca": [
+      -0.001807298475612693,
+      -0.05299313045373127
+    ],
+    "tsne": [
+      -7.286438465118408,
+      -1.9975205659866333
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "espresso",
+    "pca": [
+      -0.08350326215714594,
+      0.08973829965339133
+    ],
+    "tsne": [
+      6.214052677154541,
+      -3.888853073120117
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "Nonsense",
+    "pca": [
+      -0.05490325948459423,
+      0.17409498138025897
+    ],
+    "tsne": [
+      10.018939018249512,
+      4.746754169464111
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "Please Please Please",
+    "pca": [
+      -0.09154055084851967,
+      -0.059281348990935345
+    ],
+    "tsne": [
+      -5.982203483581543,
+      -4.048725605010986
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "song": "tAsTe",
+    "pca": [
+      0.26935818633073016,
+      0.008632988732933694
+    ],
+    "tsne": [
+      24.80843734741211,
+      8.625059127807617
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "OneRepublic",
+    "song": "Counting Stars",
+    "pca": [
+      -0.007550946383978595,
+      -0.07708947545862135
+    ],
+    "tsne": [
+      16.809843063354492,
+      10.389908790588379
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "OneRepublic",
+    "song": "Good Life",
+    "pca": [
+      -0.10606163185452407,
+      0.06728168686319425
+    ],
+    "tsne": [
+      4.680751800537109,
+      11.625492095947266
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "OneRepublic",
+    "song": "Secrets",
+    "pca": [
+      -0.044382157937102165,
+      -0.09970438702323489
+    ],
+    "tsne": [
+      -24.170940399169922,
+      0.933198869228363
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "OneRepublic",
+    "song": "Apologize",
+    "pca": [
+      -0.02139517258659668,
+      0.007163618631162071
+    ],
+    "tsne": [
+      -13.316629409790039,
+      -15.988677978515625
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "OneRepublic",
+    "song": "I Ain't Worried",
+    "pca": [
+      -0.01514260512545481,
+      -0.05700867360164927
+    ],
+    "tsne": [
+      -10.29928207397461,
+      16.145902633666992
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Justin Timberlake",
+    "song": "SexyBack (feat. Timbaland)",
+    "pca": [
+      0.07209689431143183,
+      -0.050421913562484585
+    ],
+    "tsne": [
+      16.869367599487305,
+      20.16883659362793
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Justin Timberlake",
+    "song": "Mirrors",
+    "pca": [
+      -0.18822123546887667,
+      0.55410440546252
+    ],
+    "tsne": [
+      13.050403594970703,
+      0.12292446196079254
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Justin Timberlake",
+    "song": "Rock Your Body",
+    "pca": [
+      -0.045430641381824025,
+      -0.09927432238357407
+    ],
+    "tsne": [
+      -8.482207298278809,
+      -4.849538326263428
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Justin Timberlake",
+    "song": "SexyBack",
+    "pca": [
+      0.012799443921478698,
+      -0.07695942468163014
+    ],
+    "tsne": [
+      -1.1106246709823608,
+      4.1404500007629395
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Justin Timberlake",
+    "song": "Cry Me a River",
+    "pca": [
+      -0.0592812824933168,
+      0.15166862257786726
+    ],
+    "tsne": [
+      16.797239303588867,
+      9.967839241027832
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Shakira",
+    "song": "Hips Don't Lie",
+    "pca": [
+      0.0655812459443081,
+      0.029127390297998674
+    ],
+    "tsne": [
+      24.787643432617188,
+      -5.533145427703857
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Shakira",
+    "song": "Can't Remember to Forget You (feat. Rihanna)",
+    "pca": [
+      -0.18986835486749476,
+      0.780565660297018
+    ],
+    "tsne": [
+      12.569122314453125,
+      -1.6371302604675293
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Shakira",
+    "song": "Whenever, Wherever",
+    "pca": [
+      0.15601275953691815,
+      -0.02773759494924239
+    ],
+    "tsne": [
+      26.433542251586914,
+      1.0710467100143433
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Shakira",
+    "song": "She Wolf",
+    "pca": [
+      -0.012612200091930183,
+      -0.05182487704911084
+    ],
+    "tsne": [
+      -17.595813751220703,
+      -2.198913812637329
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Shakira",
+    "song": "Hips Don't Lie (feat. Wyclef Jean)",
+    "pca": [
+      0.0655812459443081,
+      0.029127390297998674
+    ],
+    "tsne": [
+      24.787643432617188,
+      -5.533145427703857
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Kali Uchis",
+    "song": "Dead To Me",
+    "pca": [
+      -0.018056889407672475,
+      0.044554410315947784
+    ],
+    "tsne": [
+      -21.089445114135742,
+      -3.4622457027435303
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Kali Uchis",
+    "song": "Melting",
+    "pca": [
+      -0.03574062846584299,
+      -0.08934112265745067
+    ],
+    "tsne": [
+      -20.97501564025879,
+      -2.8939592838287354
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Kali Uchis",
+    "song": "telepatía",
+    "pca": [
+      0.6725736841091824,
+      0.08888866744841815
+    ],
+    "tsne": [
+      31.6202335357666,
+      5.523638725280762
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Kali Uchis",
+    "song": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+    "pca": [
+      0.7447130490391732,
+      0.10992713058218362
+    ],
+    "tsne": [
+      32.63965606689453,
+      4.952097415924072
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Kali Uchis",
+    "song": "Moonlight",
+    "pca": [
+      0.09398967133602314,
+      -0.05129722825261096
+    ],
+    "tsne": [
+      -14.110725402832031,
+      15.897720336914062
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "One Direction",
+    "song": "Night Changes",
+    "pca": [
+      -0.043669209087191116,
+      0.07974484744286175
+    ],
+    "tsne": [
+      -21.13580322265625,
+      -7.771897315979004
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "One Direction",
+    "song": "Best Song Ever",
+    "pca": [
+      -0.13690503923358932,
+      0.26759372448029317
+    ],
+    "tsne": [
+      9.810647964477539,
+      -4.257809638977051
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "One Direction",
+    "song": "What Makes You Beautiful",
+    "pca": [
+      -0.058688094912669575,
+      0.17136719868816716
+    ],
+    "tsne": [
+      2.2537567615509033,
+      19.221725463867188
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "One Direction",
+    "song": "Drag Me Down",
+    "pca": [
+      0.0009752702158459136,
+      -0.04335493278783029
+    ],
+    "tsne": [
+      -26.85457992553711,
+      -7.291759967803955
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "One Direction",
+    "song": "Story of My Life",
+    "pca": [
+      -0.05474683950766724,
+      0.1701734047500145
+    ],
+    "tsne": [
+      13.258030891418457,
+      1.2666442394256592
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "song": "drivers license",
+    "pca": [
+      -0.10538689705850585,
+      0.0010414214177341305
+    ],
+    "tsne": [
+      -17.105131149291992,
+      -10.668490409851074
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "song": "traitor",
+    "pca": [
+      -0.06313868607162511,
+      -0.03402927012008626
+    ],
+    "tsne": [
+      6.807640075683594,
+      7.497164726257324
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "song": "good 4 u",
+    "pca": [
+      -0.0298343378884877,
+      -0.0897415283522316
+    ],
+    "tsne": [
+      5.4461517333984375,
+      9.944735527038574
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "song": "deja vu",
+    "pca": [
+      -0.04378778225665556,
+      0.04056911557382393
+    ],
+    "tsne": [
+      -3.0122601985931396,
+      24.720977783203125
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "song": "vampire",
+    "pca": [
+      -0.08974551274422747,
+      -0.004445837076129987
+    ],
+    "tsne": [
+      -12.774007797241211,
+      4.891265392303467
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Cardi B",
+    "song": "Please Me",
+    "pca": [
+      -0.06970720586165967,
+      -0.10414146082288571
+    ],
+    "tsne": [
+      0.6102378368377686,
+      -6.436485767364502
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Cardi B",
+    "song": "wAp (fEAt. mEgAn thEe stAllIOn)",
+    "pca": [
+      0.1642214816876018,
+      -0.05838307157674219
+    ],
+    "tsne": [
+      31.659469604492188,
+      12.44727611541748
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Cardi B",
+    "song": "UP",
+    "pca": [
+      -0.03460227279002604,
+      -0.1566838824578621
+    ],
+    "tsne": [
+      4.19788932800293,
+      -15.627087593078613
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Cardi B",
+    "song": "I Like It",
+    "pca": [
+      0.3505468796867515,
+      0.030669463190132053
+    ],
+    "tsne": [
+      29.195236206054688,
+      7.654871463775635
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Cardi B",
+    "song": "Bodak Yellow",
+    "pca": [
+      -0.09622622245472358,
+      -0.2127339008510945
+    ],
+    "tsne": [
+      0.7441362142562866,
+      -14.355712890625
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Billie Eilish",
+    "song": "when the party's over",
+    "pca": [
+      -0.06973491360925595,
+      -0.11488887573743009
+    ],
+    "tsne": [
+      -0.15156874060630798,
+      -2.9479165077209473
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Billie Eilish",
+    "song": "Happier Than Ever",
+    "pca": [
+      -0.06980209850829075,
+      -0.1468340733372824
+    ],
+    "tsne": [
+      -12.139074325561523,
+      11.595293045043945
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Billie Eilish",
+    "song": "bad guy",
+    "pca": [
+      0.01092797989113402,
+      -0.08153568011587672
+    ],
+    "tsne": [
+      -14.974213600158691,
+      -5.465085029602051
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Billie Eilish",
+    "song": "BIRDS OF A FEATHER",
+    "pca": [
+      -0.085350212679439,
+      -0.0811447003189984
+    ],
+    "tsne": [
+      -7.5825653076171875,
+      -1.9908643960952759
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Billie Eilish",
+    "song": "Lunch",
+    "pca": [
+      -0.16555072129328907,
+      0.16770366726100328
+    ],
+    "tsne": [
+      8.150263786315918,
+      -2.9876935482025146
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Bailey Zimmerman",
+    "song": "Rock and a Hard Place",
+    "pca": [
+      -0.008608514418461964,
+      -0.08722545544239464
+    ],
+    "tsne": [
+      -9.046121597290039,
+      20.533292770385742
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Bailey Zimmerman",
+    "song": "Religiously",
+    "pca": [
+      -0.08259657811978556,
+      -0.12465379167946496
+    ],
+    "tsne": [
+      -16.25957679748535,
+      11.925281524658203
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Bailey Zimmerman",
+    "song": "Holy Smokes",
+    "pca": [
+      -0.055964153850831186,
+      0.07734558933835438
+    ],
+    "tsne": [
+      8.849892616271973,
+      13.520325660705566
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Bailey Zimmerman",
+    "song": "Where It Ends",
+    "pca": [
+      -0.046197517425135615,
+      -0.08403708466854093
+    ],
+    "tsne": [
+      -2.911766529083252,
+      1.0182290077209473
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Bailey Zimmerman",
+    "song": "Fall In Love",
+    "pca": [
+      -0.12536899737898693,
+      0.25189776077382586
+    ],
+    "tsne": [
+      15.527132034301758,
+      -6.962557792663574
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Jessie Murph",
+    "song": "Always Been You",
+    "pca": [
+      -0.055231419492300815,
+      -0.09690429840363898
+    ],
+    "tsne": [
+      -1.4189598560333252,
+      -2.8617117404937744
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Jessie Murph",
+    "song": "Pray",
+    "pca": [
+      -0.12869114109869897,
+      -0.027686777988838774
+    ],
+    "tsne": [
+      -19.63470458984375,
+      -10.828951835632324
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Jessie Murph",
+    "song": "How Could You",
+    "pca": [
+      -0.06950649697003827,
+      -0.03362925492717234
+    ],
+    "tsne": [
+      -22.584718704223633,
+      1.9308629035949707
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Jessie Murph",
+    "song": "While You're At It",
+    "pca": [
+      -0.08175108234410929,
+      -0.02874915864409974
+    ],
+    "tsne": [
+      -2.175859212875366,
+      -6.526819229125977
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Jessie Murph",
+    "song": "Wild Ones (feat. Jelly Roll)",
+    "pca": [
+      0.003567143251692078,
+      -0.0854872876904787
+    ],
+    "tsne": [
+      7.839667320251465,
+      15.934764862060547
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Lil Durk",
+    "song": "Still Trappin'",
+    "pca": [
+      -0.010850354798467474,
+      -0.14469557503390376
+    ],
+    "tsne": [
+      2.573413610458374,
+      -15.75883674621582
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Durk",
+    "song": "What Happened to Virgil (feat. Gunna)",
+    "pca": [
+      -0.1083958545060967,
+      0.021124904025906083
+    ],
+    "tsne": [
+      -1.7666378021240234,
+      -12.267579078674316
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Durk",
+    "song": "All My Life (feat. J. Cole)",
+    "pca": [
+      -0.07091565916797174,
+      -0.16253560859752272
+    ],
+    "tsne": [
+      2.9835665225982666,
+      -18.102663040161133
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Durk",
+    "song": "3 Headed Goat (feat. Lil Baby & Polo G)",
+    "pca": [
+      -0.08043920897628751,
+      -0.19227371063449702
+    ],
+    "tsne": [
+      -0.48814451694488525,
+      -13.094429016113281
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Durk",
+    "song": "AHHH HA",
+    "pca": [
+      -0.0875580296673977,
+      -0.17038314382990968
+    ],
+    "tsne": [
+      2.4574432373046875,
+      -14.602479934692383
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Charli xcx",
+    "song": "365",
+    "pca": [
+      0.05892987276378872,
+      -0.03843265477130766
+    ],
+    "tsne": [
+      6.295336723327637,
+      5.534270286560059
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Charli xcx",
+    "song": "360",
+    "pca": [
+      0.03124505385454055,
+      -0.02878568834633387
+    ],
+    "tsne": [
+      6.4810099601745605,
+      5.657512664794922
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Charli xcx",
+    "song": "guess featuring billie eilish",
+    "pca": [
+      0.014483987127805752,
+      -0.08520198898729058
+    ],
+    "tsne": [
+      -9.615498542785645,
+      -12.9253511428833
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Charli xcx",
+    "song": "Apple",
+    "pca": [
+      0.01270244423811074,
+      -0.07018680206199192
+    ],
+    "tsne": [
+      -16.249061584472656,
+      -11.235641479492188
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Charli xcx",
+    "song": "Von Dutch",
+    "pca": [
+      0.02890804128337109,
+      -0.0686571051678998
+    ],
+    "tsne": [
+      -15.749470710754395,
+      21.914737701416016
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Riley Green",
+    "song": "Different 'Round Here",
+    "pca": [
+      -0.03401985553246073,
+      -0.09097212133709918
+    ],
+    "tsne": [
+      -7.1575541496276855,
+      -9.844157218933105
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Riley Green",
+    "song": "There Was This Girl",
+    "pca": [
+      -0.0647029014101493,
+      -0.1073047259095547
+    ],
+    "tsne": [
+      11.246655464172363,
+      10.44021987915039
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Riley Green",
+    "song": "Hell Of A Way To Go",
+    "pca": [
+      -0.03343095791152285,
+      -0.10684144303041629
+    ],
+    "tsne": [
+      -11.42821979522705,
+      7.2490386962890625
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Riley Green",
+    "song": "Worst Way",
+    "pca": [
+      -0.06718040037415104,
+      -0.1023840988906505
+    ],
+    "tsne": [
+      -14.051156997680664,
+      2.7094080448150635
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Riley Green",
+    "song": "I Wish Grandpas Never Died",
+    "pca": [
+      0.009348958569855854,
+      -0.10101677977415649
+    ],
+    "tsne": [
+      -9.504148483276367,
+      12.069497108459473
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Don't Let Me Down",
+    "pca": [
+      -0.09098977382890043,
+      -0.07581956493816175
+    ],
+    "tsne": [
+      -4.589447498321533,
+      -4.568348407745361
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Paris",
+    "pca": [
+      -0.011330584760116412,
+      -0.09940445717659294
+    ],
+    "tsne": [
+      -4.819220542907715,
+      -0.27297860383987427
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Something Just Like This",
+    "pca": [
+      0.04258915168136882,
+      -0.023744129657058924
+    ],
+    "tsne": [
+      -11.121599197387695,
+      -24.325544357299805
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Closer",
+    "pca": [
+      0.021673437359027027,
+      -0.07387276603320152
+    ],
+    "tsne": [
+      -4.749747276306152,
+      -0.638254702091217
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Chainsmokers",
+    "song": "Roses",
+    "pca": [
+      0.009913844812866003,
+      -0.03506081167044949
+    ],
+    "tsne": [
+      8.100099563598633,
+      7.005796432495117
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Zach Top",
+    "song": "Sounds like the Radio",
+    "pca": [
+      -0.015241232019788997,
+      -0.07351051386745376
+    ],
+    "tsne": [
+      -11.596214294433594,
+      -1.9669188261032104
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Zach Top",
+    "song": "I Never Lie",
+    "pca": [
+      -0.09758187505764032,
+      -0.04877481170658926
+    ],
+    "tsne": [
+      -1.093313217163086,
+      -0.9152162671089172
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Zach Top",
+    "song": "Bad Luck",
+    "pca": [
+      -0.0012905536016210156,
+      -0.04341573540242466
+    ],
+    "tsne": [
+      -20.68386459350586,
+      17.504154205322266
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Zach Top",
+    "song": "Dirt Turns to Gold",
+    "pca": [
+      -0.032644360943498436,
+      -0.06453465289596365
+    ],
+    "tsne": [
+      -25.422182083129883,
+      11.175374031066895
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Zach Top",
+    "song": "Use Me",
+    "pca": [
+      -0.11527812635569147,
+      -0.05011926822519166
+    ],
+    "tsne": [
+      -7.900976181030273,
+      8.660395622253418
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Kid Cudi",
+    "song": "Cudi Zone",
+    "pca": [
+      -0.02252612745226823,
+      -0.1167559949874583
+    ],
+    "tsne": [
+      0.8503385782241821,
+      14.858932495117188
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Kid Cudi",
+    "song": "Soundtrack 2 My Life",
+    "pca": [
+      -0.09022284536923182,
+      -0.13510547138385054
+    ],
+    "tsne": [
+      2.205609083175659,
+      -10.437773704528809
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Kid Cudi",
+    "song": "Day 'n' Nite (Nightmare)",
+    "pca": [
+      0.009216272478486073,
+      -0.06920876996511285
+    ],
+    "tsne": [
+      -2.080185890197754,
+      17.326894760131836
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Kid Cudi",
+    "song": "Pursuit of Happiness (Nightmare)",
+    "pca": [
+      -0.05716401240036269,
+      0.00767305514727288
+    ],
+    "tsne": [
+      1.0547512769699097,
+      18.734989166259766
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Kid Cudi",
+    "song": "Mr. Rager",
+    "pca": [
+      -0.036719596375477226,
+      0.21950721440038257
+    ],
+    "tsne": [
+      14.789091110229492,
+      0.2644925117492676
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Sam Barber",
+    "song": "Straight and Narrow",
+    "pca": [
+      -0.008174723650790723,
+      -0.08912648108746409
+    ],
+    "tsne": [
+      3.5963847637176514,
+      12.232962608337402
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Sam Barber",
+    "song": "Thought of You",
+    "pca": [
+      -0.06029132847244829,
+      -0.11507050036176764
+    ],
+    "tsne": [
+      -14.583730697631836,
+      -1.8784128427505493
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Sam Barber",
+    "song": "Indigo (feat. Avery Anna)",
+    "pca": [
+      -0.035172455257214665,
+      -0.047136058095303676
+    ],
+    "tsne": [
+      -25.419902801513672,
+      11.172846794128418
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Sam Barber",
+    "song": "Dancing in the Sky",
+    "pca": [
+      0.014539308270119065,
+      -0.054855233619849696
+    ],
+    "tsne": [
+      18.85451889038086,
+      -14.788847923278809
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Sam Barber",
+    "song": "Ramblin Man",
+    "pca": [
+      -0.01493795177730119,
+      -0.09826577516873305
+    ],
+    "tsne": [
+      -5.735238075256348,
+      16.721012115478516
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Kevin Gates",
+    "song": "Really Really",
+    "pca": [
+      -0.0007387608261779619,
+      -0.10864409327486066
+    ],
+    "tsne": [
+      4.405529022216797,
+      9.429377555847168
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Kevin Gates",
+    "song": "2 Phones",
+    "pca": [
+      0.022636366581124855,
+      -0.050540444209145635
+    ],
+    "tsne": [
+      18.731040954589844,
+      -2.871488332748413
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Kevin Gates",
+    "song": "Thinking With My Dick (feat. Juicy J)",
+    "pca": [
+      -0.030948477499631387,
+      -0.15381531585595676
+    ],
+    "tsne": [
+      -1.7833956480026245,
+      -16.86639976501465
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Kevin Gates",
+    "song": "Big Gangsta",
+    "pca": [
+      -0.09163660155940848,
+      -0.1695196973268499
+    ],
+    "tsne": [
+      0.3535076677799225,
+      -16.36041259765625
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Kevin Gates",
+    "song": "Hard For",
+    "pca": [
+      -0.08551414668743079,
+      -0.12642276661439436
+    ],
+    "tsne": [
+      -2.3961293697357178,
+      -16.758834838867188
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Wayne",
+    "song": "Hustler Musik",
+    "pca": [
+      -0.10703135627914598,
+      -0.18999083508553352
+    ],
+    "tsne": [
+      -0.5028808116912842,
+      -14.300972938537598
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Wayne",
+    "song": "Lollipop",
+    "pca": [
+      -0.03161218439638287,
+      -0.09530061757211944
+    ],
+    "tsne": [
+      -0.9607630372047424,
+      -19.995309829711914
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Wayne",
+    "song": "A Milli",
+    "pca": [
+      -0.08884606671085181,
+      -0.20260920192625542
+    ],
+    "tsne": [
+      0.025586700066924095,
+      -15.424960136413574
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Wayne",
+    "song": "Drop The World",
+    "pca": [
+      -0.03360805754824985,
+      -0.1392004888621006
+    ],
+    "tsne": [
+      0.19920878112316132,
+      -19.170982360839844
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lil Wayne",
+    "song": "Mirror",
+    "pca": [
+      -0.012575280169645155,
+      -0.07728975762673236
+    ],
+    "tsne": [
+      0.2694288492202759,
+      -19.69313621520996
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "Adore You",
+    "pca": [
+      -0.03402820163856502,
+      0.0325611269563878
+    ],
+    "tsne": [
+      7.9635009765625,
+      6.627655506134033
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "As It Was",
+    "pca": [
+      -0.13515876524980325,
+      0.14234506702367122
+    ],
+    "tsne": [
+      9.723785400390625,
+      0.6303902268409729
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "Watermelon Sugar",
+    "pca": [
+      0.047679251610792034,
+      -0.06676582047142578
+    ],
+    "tsne": [
+      -15.302640914916992,
+      19.8916072845459
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "Sign Of The Times",
+    "pca": [
+      -0.03685760970953716,
+      -0.11316728084666289
+    ],
+    "tsne": [
+      -24.51776123046875,
+      3.4365806579589844
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "Late Night Talking",
+    "pca": [
+      -0.03685285859485669,
+      -0.08460309887943639
+    ],
+    "tsne": [
+      -13.36851978302002,
+      -16.763792037963867
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Calvin Harris",
+    "song": "This Is What You Came For",
+    "pca": [
+      -0.04656966135424138,
+      0.10939369664706937
+    ],
+    "tsne": [
+      -19.86116600036621,
+      -8.573199272155762
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Calvin Harris",
+    "song": "sLiDe (feat. frank ocean & MIGOS)",
+    "pca": [
+      0.5335783084622358,
+      0.07368513128735386
+    ],
+    "tsne": [
+      31.023181915283203,
+      8.122391700744629
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Calvin Harris",
+    "song": "Summer",
+    "pca": [
+      0.00258738964998937,
+      -0.054822799761405076
+    ],
+    "tsne": [
+      14.713517189025879,
+      -12.243425369262695
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Calvin Harris",
+    "song": "How Deep is your love",
+    "pca": [
+      -0.006657447781770995,
+      0.01921772065269318
+    ],
+    "tsne": [
+      -25.666685104370117,
+      -5.045185089111328
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Beyoncé",
+    "song": "If I Were a Boy",
+    "pca": [
+      -0.09911582084132185,
+      -0.05863633123315013
+    ],
+    "tsne": [
+      -9.970372200012207,
+      -0.03463601693511009
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Beyoncé",
+    "song": "Crazy In Love (feat. Jay-Z)",
+    "pca": [
+      -0.13018466197645437,
+      0.2546967907619145
+    ],
+    "tsne": [
+      11.32822036743164,
+      -3.6472554206848145
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Beyoncé",
+    "song": "Single Ladies (Put a Ring on It)",
+    "pca": [
+      -0.18144659753668996,
+      0.6250453079932182
+    ],
+    "tsne": [
+      13.933961868286133,
+      -1.992121934890747
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Beyoncé",
+    "song": "Irreplaceable",
+    "pca": [
+      -0.04146980832064202,
+      -0.10570879528676265
+    ],
+    "tsne": [
+      -9.754897117614746,
+      16.695858001708984
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Beyoncé",
+    "song": "Halo",
+    "pca": [
+      0.0516455787114806,
+      -0.04362621057374036
+    ],
+    "tsne": [
+      -23.339170455932617,
+      -10.732829093933105
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Hozier",
+    "song": "Too Sweet",
+    "pca": [
+      -0.04210010932907693,
+      -0.023446478075210355
+    ],
+    "tsne": [
+      -22.152694702148438,
+      7.631345748901367
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Hozier",
+    "song": "Like Real People Do",
+    "pca": [
+      0.005599797809905306,
+      -0.09238437860174789
+    ],
+    "tsne": [
+      -13.421751976013184,
+      -8.367478370666504
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Hozier",
+    "song": "Someone New",
+    "pca": [
+      -0.07360342871812518,
+      0.08702368248304523
+    ],
+    "tsne": [
+      -9.008072853088379,
+      -9.155890464782715
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Hozier",
+    "song": "Take Me to Church",
+    "pca": [
+      -0.06753489031948373,
+      0.05897216753747744
+    ],
+    "tsne": [
+      7.917479991912842,
+      14.446605682373047
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Hozier",
+    "song": "Work Song",
+    "pca": [
+      -0.03635724544316862,
+      -0.07039017191810186
+    ],
+    "tsne": [
+      -2.7671821117401123,
+      -6.809175968170166
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Jelly Roll",
+    "song": "I Am Not Okay",
+    "pca": [
+      -0.01605083114663753,
+      -0.08817053481054554
+    ],
+    "tsne": [
+      0.7433922290802002,
+      13.89451789855957
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Jelly Roll",
+    "song": "Son of a Sinner",
+    "pca": [
+      -0.053744733365871676,
+      -0.1229194780412028
+    ],
+    "tsne": [
+      -8.835497856140137,
+      -14.476181030273438
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Jelly Roll",
+    "song": "Need A Favor",
+    "pca": [
+      -0.06812533995337643,
+      0.03750763008321874
+    ],
+    "tsne": [
+      -0.12652064859867096,
+      10.184592247009277
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Jelly Roll",
+    "song": "Save Me",
+    "pca": [
+      -0.04806836861572453,
+      -0.09803799750004923
+    ],
+    "tsne": [
+      -15.1771821975708,
+      -0.7518136501312256
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "BTS",
+    "song": "Boy With Luv (Feat. Halsey)",
+    "pca": [
+      -0.15688456197178657,
+      0.39366879321543485
+    ],
+    "tsne": [
+      10.594184875488281,
+      -2.252216100692749
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "BTS",
+    "song": "DNA",
+    "pca": [
+      0.19001179969668844,
+      0.10460596620603757
+    ],
+    "tsne": [
+      22.630298614501953,
+      8.873002052307129
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "BTS",
+    "song": "Dynamite",
+    "pca": [
+      0.04882572921002168,
+      0.028128428274491028
+    ],
+    "tsne": [
+      2.6571033000946045,
+      18.62869644165039
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "BTS",
+    "song": "Butter",
+    "pca": [
+      -0.08078593026261392,
+      -0.057467462265555457
+    ],
+    "tsne": [
+      21.48000717163086,
+      8.779890060424805
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "BTS",
+    "song": "FAKE LOVE",
+    "pca": [
+      -0.016172810108264997,
+      -0.01978530950984384
+    ],
+    "tsne": [
+      -2.604074478149414,
+      7.424208164215088
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Coldplay",
+    "song": "Viva la Vida",
+    "pca": [
+      -0.13886379419695694,
+      0.6564110128870632
+    ],
+    "tsne": [
+      13.50271224975586,
+      -0.9528447985649109
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Coldplay",
+    "song": "The Scientist",
+    "pca": [
+      -0.0583405405449229,
+      0.08841718161747487
+    ],
+    "tsne": [
+      -21.738750457763672,
+      -6.452056884765625
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Coldplay",
+    "song": "Clocks",
+    "pca": [
+      -0.01705641598439825,
+      0.002476986114091934
+    ],
+    "tsne": [
+      -10.997468948364258,
+      0.438388466835022
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Coldplay",
+    "song": "Yellow",
+    "pca": [
+      -0.02183477672302587,
+      0.06620592634386328
+    ],
+    "tsne": [
+      -15.41283893585205,
+      -22.25063705444336
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Coldplay",
+    "song": "Fix You",
+    "pca": [
+      0.016719009780369474,
+      -0.03516192698201461
+    ],
+    "tsne": [
+      -15.17062759399414,
+      -22.039718627929688
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Taylor Swift",
+    "song": "carDIGan",
+    "pca": [
+      -0.017943475596205048,
+      -0.08827145061435765
+    ],
+    "tsne": [
+      -19.23223876953125,
+      1.0398447513580322
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Taylor Swift",
+    "song": "Shake It Off",
+    "pca": [
+      0.026903208519692606,
+      -0.05052555153737317
+    ],
+    "tsne": [
+      -28.934165954589844,
+      0.7506696581840515
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Taylor Swift",
+    "song": "Style",
+    "pca": [
+      -0.08973648689561468,
+      0.05100279115135862
+    ],
+    "tsne": [
+      2.4169368743896484,
+      0.15944518148899078
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Taylor Swift",
+    "song": "Blank Space",
+    "pca": [
+      -0.1313715888552001,
+      -0.005116452108836201
+    ],
+    "tsne": [
+      -6.854312896728516,
+      8.13974666595459
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Taylor Swift",
+    "song": "Cruel Summer",
+    "pca": [
+      -0.16437437253042927,
+      0.2130251288758595
+    ],
+    "tsne": [
+      14.681754112243652,
+      -12.139591217041016
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Rihanna",
+    "song": "S&M",
+    "pca": [
+      -0.042341062247557265,
+      0.2518625432498394
+    ],
+    "tsne": [
+      3.1204826831817627,
+      19.21625328063965
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Rihanna",
+    "song": "Only Girl (In the World)",
+    "pca": [
+      0.08681471427894835,
+      0.0314617952714865
+    ],
+    "tsne": [
+      23.765226364135742,
+      7.673183441162109
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Rihanna",
+    "song": "Umbrella",
+    "pca": [
+      0.04347118105654263,
+      -0.07177877729562816
+    ],
+    "tsne": [
+      -3.4091908931732178,
+      -23.878704071044922
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Rihanna",
+    "song": "Disturbia",
+    "pca": [
+      0.0453219897214473,
+      -0.006161418165933363
+    ],
+    "tsne": [
+      -9.502339363098145,
+      -26.401342391967773
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Rihanna",
+    "song": "Don't Stop the Music",
+    "pca": [
+      0.035500155132299836,
+      -0.05969558244076328
+    ],
+    "tsne": [
+      8.249639511108398,
+      8.436208724975586
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "song": "Heathens",
+    "pca": [
+      -0.05955803680788825,
+      -0.12074807139145861
+    ],
+    "tsne": [
+      -13.028985977172852,
+      -7.743069648742676
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "song": "Tear in My Heart",
+    "pca": [
+      -0.013281885289190833,
+      0.04894760508525228
+    ],
+    "tsne": [
+      -13.858345985412598,
+      9.207098007202148
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "song": "Ride",
+    "pca": [
+      -0.0738775873923019,
+      0.15716196780516486
+    ],
+    "tsne": [
+      14.636667251586914,
+      -7.102243900299072
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "song": "Heavydirtysoul",
+    "pca": [
+      0.023633680325047077,
+      -0.058722221733722164
+    ],
+    "tsne": [
+      11.738146781921387,
+      -14.390381813049316
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Twenty One Pilots",
+    "song": "Stressed Out",
+    "pca": [
+      -0.05935643317564441,
+      0.02678983338191609
+    ],
+    "tsne": [
+      -8.431059837341309,
+      11.877974510192871
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "T-Pain",
+    "song": "I'm Sprung",
+    "pca": [
+      -0.0658104204493315,
+      -0.11862139161120483
+    ],
+    "tsne": [
+      -0.06462211906909943,
+      0.5064749717712402
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "T-Pain",
+    "song": "Bartender (feat. Akon)",
+    "pca": [
+      -0.13350069564369044,
+      0.15747951507249103
+    ],
+    "tsne": [
+      6.909789562225342,
+      -1.1004865169525146
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "T-Pain",
+    "song": "Up Down (Do This All Day) (Feat. B.o.B)",
+    "pca": [
+      -0.053549567707678186,
+      -0.14131700468506136
+    ],
+    "tsne": [
+      4.819269180297852,
+      -12.681866645812988
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "T-Pain",
+    "song": "Buy U A Drank (Shawty Snappin') (feat. Yung Joc)",
+    "pca": [
+      -0.09624821991580501,
+      0.138021711288801
+    ],
+    "tsne": [
+      -19.684436798095703,
+      -7.4084906578063965
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "T-Pain",
+    "song": "Take Your Shirt Off",
+    "pca": [
+      0.05507898505618914,
+      -0.032564910303333326
+    ],
+    "tsne": [
+      9.413726806640625,
+      6.4798736572265625
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Halsey",
+    "song": "Colors",
+    "pca": [
+      0.010215622389732126,
+      -0.07388103514512194
+    ],
+    "tsne": [
+      -1.4477341175079346,
+      1.2317692041397095
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Halsey",
+    "song": "Bad At Love",
+    "pca": [
+      -0.1395788404902655,
+      0.08639531298799277
+    ],
+    "tsne": [
+      -18.205724716186523,
+      -7.664397239685059
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Halsey",
+    "song": "Without Me",
+    "pca": [
+      -0.11027443489044711,
+      -0.06469515966128342
+    ],
+    "tsne": [
+      -3.324371099472046,
+      -2.078705072402954
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Halsey",
+    "song": "Gasoline",
+    "pca": [
+      -0.18539399354004427,
+      0.43481034769303284
+    ],
+    "tsne": [
+      9.927734375,
+      -1.0561336278915405
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Halsey",
+    "song": "Walls Could Talk",
+    "pca": [
+      -0.21018380177573975,
+      0.6542985110076635
+    ],
+    "tsne": [
+      12.350564956665039,
+      -0.9615821838378906
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Akon",
+    "song": "Smack That",
+    "pca": [
+      -0.002116960061755693,
+      0.006433179676190391
+    ],
+    "tsne": [
+      20.66335678100586,
+      -9.296309471130371
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Akon",
+    "song": "Don't Matter",
+    "pca": [
+      -0.13803774658715928,
+      0.2928891182919815
+    ],
+    "tsne": [
+      17.966035842895508,
+      1.125685214996338
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Akon",
+    "song": "Right Now (Na Na Na)",
+    "pca": [
+      -0.05028063250578322,
+      -0.06662705859101486
+    ],
+    "tsne": [
+      -10.078048706054688,
+      13.158177375793457
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Akon",
+    "song": "Lonely",
+    "pca": [
+      0.03265699567774317,
+      -0.06778647756158199
+    ],
+    "tsne": [
+      -2.1707005500793457,
+      17.419719696044922
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Akon",
+    "song": "I Wanna Love You",
+    "pca": [
+      -0.11277663601135943,
+      -0.08130181928271143
+    ],
+    "tsne": [
+      -4.245667457580566,
+      4.232458591461182
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "One Last Time",
+    "pca": [
+      -0.10832546653092479,
+      -0.09547572503294476
+    ],
+    "tsne": [
+      -10.483691215515137,
+      2.1534481048583984
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "7 rings",
+    "pca": [
+      -0.12759495964743722,
+      -0.09196851135431139
+    ],
+    "tsne": [
+      3.018359899520874,
+      -2.362441062927246
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "Thank U, Next",
+    "pca": [
+      0.010559054177476837,
+      -0.07470310699298707
+    ],
+    "tsne": [
+      9.321035385131836,
+      19.974145889282227
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "Positions",
+    "pca": [
+      -0.06400383394851475,
+      -0.06395407867153968
+    ],
+    "tsne": [
+      4.85145378112793,
+      7.039098739624023
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Ariana Grande",
+    "song": "Into You",
+    "pca": [
+      -0.09650619352414415,
+      -0.016666037097426093
+    ],
+    "tsne": [
+      -9.123672485351562,
+      -9.358396530151367
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "50 Cent",
+    "song": "P.I.M.P.",
+    "pca": [
+      -0.07728120377363984,
+      -0.20071636065775825
+    ],
+    "tsne": [
+      -0.3376522660255432,
+      -15.028861045837402
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "50 Cent",
+    "song": "In Da Club",
+    "pca": [
+      -0.059483987479410735,
+      -0.14353525473157408
+    ],
+    "tsne": [
+      0.5424022078514099,
+      -11.647515296936035
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "50 Cent",
+    "song": "Many Men (Wish Death)",
+    "pca": [
+      -0.020125184383190158,
+      -0.1152406352866907
+    ],
+    "tsne": [
+      -4.888251781463623,
+      -11.3402738571167
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "50 Cent",
+    "song": "21 Questions",
+    "pca": [
+      -0.10335607971583141,
+      -0.08428201461723067
+    ],
+    "tsne": [
+      -3.9880921840667725,
+      5.001866340637207
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "50 Cent",
+    "song": "Candy Shop",
+    "pca": [
+      -0.07774396960888753,
+      -0.08561040026734328
+    ],
+    "tsne": [
+      -4.748540878295898,
+      -10.815006256103516
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Romeo Santos",
+    "song": "Odio (feat. Drake)",
+    "pca": [
+      -0.05651881397320941,
+      -0.10510991842551927
+    ],
+    "tsne": [
+      -6.738269805908203,
+      -17.708141326904297
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Romeo Santos",
+    "song": "Eres Mía",
+    "pca": [
+      0.5147326455345961,
+      0.051023060532264235
+    ],
+    "tsne": [
+      33.39533996582031,
+      9.244865417480469
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Romeo Santos",
+    "song": "Imitadora",
+    "pca": [
+      0.7637996532835162,
+      0.10907385022436618
+    ],
+    "tsne": [
+      31.20836639404297,
+      6.705804347991943
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Romeo Santos",
+    "song": "Propuesta Indecente",
+    "pca": [
+      0.6061405632713643,
+      0.06242888110144299
+    ],
+    "tsne": [
+      32.2441291809082,
+      7.972133636474609
+    ],
+    "pca_cluster": 1,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Romeo Santos",
+    "song": "Necio (feat. Carlos Santana)",
+    "pca": [
+      0.5185035738189017,
+      0.05220519903111265
+    ],
+    "tsne": [
+      33.741634368896484,
+      8.981611251831055
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "PinkPantheress",
+    "song": "I Must Apologise",
+    "pca": [
+      -0.054904207379123646,
+      0.10932120618645816
+    ],
+    "tsne": [
+      -19.651874542236328,
+      -8.730385780334473
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "PinkPantheress",
+    "song": "Boy's a liar Pt. 2",
+    "pca": [
+      0.01294840165424489,
+      -0.07950371482904883
+    ],
+    "tsne": [
+      5.5343337059021,
+      12.76645565032959
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "PinkPantheress",
+    "song": "Pain",
+    "pca": [
+      0.3726213834132948,
+      0.039550736129925726
+    ],
+    "tsne": [
+      24.294713973999023,
+      8.822982788085938
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "PinkPantheress",
+    "song": "Attracted To You",
+    "pca": [
+      -0.024487786495601044,
+      -0.07969131209124834
+    ],
+    "tsne": [
+      -1.9111850261688232,
+      3.45302152633667
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Tory Lanez",
+    "song": "Hurts Me",
+    "pca": [
+      -0.05703576674698262,
+      -0.06422456692937123
+    ],
+    "tsne": [
+      -4.203680515289307,
+      13.069354057312012
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Tory Lanez",
+    "song": "The Color Violet",
+    "pca": [
+      -0.052142930700306164,
+      -0.018043566462495376
+    ],
+    "tsne": [
+      -9.994609832763672,
+      -5.00206184387207
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Tory Lanez",
+    "song": "Broke In A Minute",
+    "pca": [
+      -0.020379058895766234,
+      -0.14930306415316966
+    ],
+    "tsne": [
+      -4.563303470611572,
+      -14.234640121459961
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Tory Lanez",
+    "song": "Lavender Sunflower",
+    "pca": [
+      -0.0871825499083398,
+      -0.06351096214834712
+    ],
+    "tsne": [
+      -13.609100341796875,
+      2.1968636512756348
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Tory Lanez",
+    "song": "Say It",
+    "pca": [
+      -0.11211580019707554,
+      -0.13909075608991334
+    ],
+    "tsne": [
+      -7.381277084350586,
+      0.47010537981987
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Treaty Oak Revival",
+    "song": "Stop & Stare",
+    "pca": [
+      -0.021007198075198324,
+      -0.06307469405542697
+    ],
+    "tsne": [
+      -18.223825454711914,
+      15.232815742492676
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Treaty Oak Revival",
+    "song": "Missed Call",
+    "pca": [
+      -0.07396516804617925,
+      -0.044365076700357525
+    ],
+    "tsne": [
+      -10.290928840637207,
+      -13.09484577178955
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Treaty Oak Revival",
+    "song": "No Vacancy",
+    "pca": [
+      -0.03381538678799394,
+      -0.07829391459198945
+    ],
+    "tsne": [
+      11.767979621887207,
+      -9.691655158996582
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Treaty Oak Revival",
+    "song": "In Between",
+    "pca": [
+      -0.04622641640791862,
+      -0.12442950892062372
+    ],
+    "tsne": [
+      -9.687206268310547,
+      11.79249095916748
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Treaty Oak Revival",
+    "song": "Ode To Bourbon",
+    "pca": [
+      -0.04370860374068099,
+      -0.11957892254135383
+    ],
+    "tsne": [
+      -5.828670024871826,
+      17.043611526489258
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "Just Dance",
+    "pca": [
+      -0.02920457678295118,
+      0.06445823705486857
+    ],
+    "tsne": [
+      -10.40201187133789,
+      -25.088220596313477
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "Paparazzi",
+    "pca": [
+      -0.0919488380078676,
+      -0.10374104129416227
+    ],
+    "tsne": [
+      1.5596532821655273,
+      4.302519798278809
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "Bad Romance",
+    "pca": [
+      0.030322591430382222,
+      0.03383748598114215
+    ],
+    "tsne": [
+      -12.636438369750977,
+      -4.751270294189453
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "Poker Face",
+    "pca": [
+      -0.019207258695546715,
+      0.12550690805074682
+    ],
+    "tsne": [
+      10.764826774597168,
+      -6.304749488830566
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "LoveGame",
+    "pca": [
+      -0.017634705631193282,
+      -0.06556481781519545
+    ],
+    "tsne": [
+      -4.291472911834717,
+      7.542349815368652
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Pitbull",
+    "song": "I Know You Want Me (Calle Ocho)",
+    "pca": [
+      0.16218458584407575,
+      -0.037123662049083885
+    ],
+    "tsne": [
+      4.548374176025391,
+      -2.689357280731201
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Pitbull",
+    "song": "Give Me Everything (feat. Nayer)",
+    "pca": [
+      -0.011516028562544212,
+      -0.0385986114871725
+    ],
+    "tsne": [
+      -15.597064971923828,
+      2.8308959007263184
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Pitbull",
+    "song": "Timber",
+    "pca": [
+      -0.031213640175702745,
+      0.09029532497088325
+    ],
+    "tsne": [
+      17.290443420410156,
+      -5.276767730712891
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Pitbull",
+    "song": "Hotel Room Service",
+    "pca": [
+      0.08890825463910529,
+      0.07279186189710161
+    ],
+    "tsne": [
+      27.097911834716797,
+      5.2534589767456055
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "benny blanco",
+    "song": "I Can’t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+    "pca": [
+      0.08160991362318756,
+      -0.04459158697070466
+    ],
+    "tsne": [
+      17.739992141723633,
+      19.604595184326172
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Khalid",
+    "song": "LOCATION",
+    "pca": [
+      -0.12703702920850113,
+      0.12026360629775754
+    ],
+    "tsne": [
+      -2.958388566970825,
+      -5.019672870635986
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Khalid",
+    "song": "Young Dumb & Broke",
+    "pca": [
+      0.02718106937220924,
+      -0.07430386981135657
+    ],
+    "tsne": [
+      -21.091297149658203,
+      12.285480499267578
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Khalid",
+    "song": "Better",
+    "pca": [
+      -0.04879811581447349,
+      -0.05544241227287135
+    ],
+    "tsne": [
+      -5.144330978393555,
+      2.0610010623931885
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Khalid",
+    "song": "8TEEN",
+    "pca": [
+      -0.09218775242034755,
+      0.080132395068024
+    ],
+    "tsne": [
+      -19.117809295654297,
+      -8.294415473937988
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Paramore",
+    "song": "Misery Business",
+    "pca": [
+      -0.10505293180882658,
+      -0.07925342061427203
+    ],
+    "tsne": [
+      4.038318634033203,
+      -0.7211308479309082
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Paramore",
+    "song": "That's What You Get",
+    "pca": [
+      -0.15956280007960094,
+      0.5394910157649283
+    ],
+    "tsne": [
+      12.736092567443848,
+      -2.835592746734619
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Paramore",
+    "song": "Still into You",
+    "pca": [
+      -0.09043864301790666,
+      -0.11506901191890341
+    ],
+    "tsne": [
+      -13.39576244354248,
+      0.20896129310131073
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Paramore",
+    "song": "crushcrushcrush",
+    "pca": [
+      -0.11979947022154006,
+      0.11702260363067522
+    ],
+    "tsne": [
+      -9.564521789550781,
+      -10.685420989990234
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Paramore",
+    "song": "The Only Exception",
+    "pca": [
+      0.0304341600999789,
+      -0.026344214421371144
+    ],
+    "tsne": [
+      4.331247329711914,
+      -26.793231964111328
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "JENNIE",
+    "song": "Love Hangover (feat. Dominic Fike)",
+    "pca": [
+      0.07221260456905239,
+      -0.04827820737791024
+    ],
+    "tsne": [
+      5.24483585357666,
+      26.77277374267578
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "JENNIE",
+    "song": "EXTRAL (feat. Doechii)",
+    "pca": [
+      0.07484546785939207,
+      -0.04950627745645629
+    ],
+    "tsne": [
+      5.489911079406738,
+      26.667064666748047
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "JENNIE",
+    "song": "SoLo",
+    "pca": [
+      0.1323003765642807,
+      0.24192503087154105
+    ],
+    "tsne": [
+      25.322654724121094,
+      0.47682860493659973
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "JENNIE",
+    "song": "Mantra",
+    "pca": [
+      0.001496597052140889,
+      -0.055031680957549664
+    ],
+    "tsne": [
+      10.056523323059082,
+      8.339473724365234
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "JENNIE",
+    "song": "like JENNIE",
+    "pca": [
+      0.05505291907911624,
+      -0.05742210744616028
+    ],
+    "tsne": [
+      6.4000725746154785,
+      26.270605087280273
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "d4vd",
+    "song": "Here With Me",
+    "pca": [
+      -0.22766937077044572,
+      0.6267318345869302
+    ],
+    "tsne": [
+      11.468031883239746,
+      -1.216534972190857
+    ],
+    "pca_cluster": 7,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "d4vd",
+    "song": "You and I",
+    "pca": [
+      0.02249691121349255,
+      -0.07790272783437055
+    ],
+    "tsne": [
+      -25.144458770751953,
+      3.8775079250335693
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "d4vd",
+    "song": "Sleep Well",
+    "pca": [
+      -0.07253530668729816,
+      -0.11439344853753046
+    ],
+    "tsne": [
+      -7.872215270996094,
+      5.183511257171631
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "d4vd",
+    "song": "Romantic Homicide",
+    "pca": [
+      -0.13706184912773767,
+      0.33803871297090027
+    ],
+    "tsne": [
+      -18.62319564819336,
+      -9.317850112915039
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "beabadoobee",
+    "song": "Tired",
+    "pca": [
+      0.05165638197520592,
+      -0.05692111941785087
+    ],
+    "tsne": [
+      -1.6652438640594482,
+      25.227439880371094
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "beabadoobee",
+    "song": "The Perfect Pair",
+    "pca": [
+      -0.09762754599550488,
+      -0.12415493361106136
+    ],
+    "tsne": [
+      -7.858964443206787,
+      2.0999114513397217
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "beabadoobee",
+    "song": "the way things go",
+    "pca": [
+      -0.08697405601662068,
+      0.018926797731142857
+    ],
+    "tsne": [
+      -9.576992988586426,
+      -12.932621002197266
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "beabadoobee",
+    "song": "Glue Song",
+    "pca": [
+      -0.03334717730235186,
+      -0.02523492319130392
+    ],
+    "tsne": [
+      5.43027925491333,
+      -15.815592765808105
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "DaBaby",
+    "song": "TOES (feat. Lil Baby & Moneybagg Yo)",
+    "pca": [
+      -0.10038473514663938,
+      -0.1786954410850693
+    ],
+    "tsne": [
+      1.017865538597107,
+      -12.398823738098145
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "DaBaby",
+    "song": "ROCKSTAR (feat. Roddy Ricch)",
+    "pca": [
+      0.0775072413331161,
+      -0.051930887771396754
+    ],
+    "tsne": [
+      19.685392379760742,
+      19.03132438659668
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "DaBaby",
+    "song": "Suge",
+    "pca": [
+      -0.10447179483898851,
+      -0.18329643102456927
+    ],
+    "tsne": [
+      2.4063727855682373,
+      -13.538603782653809
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "DaBaby",
+    "song": "BOP",
+    "pca": [
+      -0.08737037010062852,
+      -0.11221755274852903
+    ],
+    "tsne": [
+      2.4242842197418213,
+      -12.744156837463379
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "DaBaby",
+    "song": "VIBEZ",
+    "pca": [
+      -0.08004457873253273,
+      -0.14499631622722878
+    ],
+    "tsne": [
+      1.0418609380722046,
+      -13.353801727294922
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "Photograph",
+    "pca": [
+      -0.05540783631539081,
+      -0.061165459744385246
+    ],
+    "tsne": [
+      -12.702483177185059,
+      1.7787319421768188
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "Perfect",
+    "pca": [
+      -0.1101130524965388,
+      0.012747848467823569
+    ],
+    "tsne": [
+      -10.388426780700684,
+      4.449249744415283
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "The A Team",
+    "pca": [
+      -0.026757606294187206,
+      -0.0762495315948028
+    ],
+    "tsne": [
+      18.097030639648438,
+      -15.35153865814209
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "Thinking Out Loud",
+    "pca": [
+      0.0179193673442217,
+      0.06927029147940027
+    ],
+    "tsne": [
+      25.093299865722656,
+      0.36670926213264465
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "Shape of You",
+    "pca": [
+      -0.13360568131764106,
+      0.1891117863137587
+    ],
+    "tsne": [
+      4.677455902099609,
+      2.2660627365112305
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Post Malone",
+    "song": "Congratulations",
+    "pca": [
+      -0.054824758467292865,
+      -0.09376892242470923
+    ],
+    "tsne": [
+      3.762895107269287,
+      -8.210053443908691
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Post Malone",
+    "song": "Better Now",
+    "pca": [
+      -0.07421168266944242,
+      -0.03421382218890208
+    ],
+    "tsne": [
+      -4.850669860839844,
+      0.9712024331092834
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Post Malone",
+    "song": "rockstar (feat. 21 Savage)",
+    "pca": [
+      0.07613424549333606,
+      -0.0519908636715108
+    ],
+    "tsne": [
+      19.63351058959961,
+      19.030010223388672
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Post Malone",
+    "song": "Circles",
+    "pca": [
+      -0.05968152585435677,
+      0.06291099996975429
+    ],
+    "tsne": [
+      -24.118221282958984,
+      3.3078229427337646
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "The Lumineers",
+    "song": "Ho Hey",
+    "pca": [
+      0.017284815898287263,
+      -0.040738191543154584
+    ],
+    "tsne": [
+      -17.41486358642578,
+      -15.924844741821289
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "The Lumineers",
+    "song": "Ophelia",
+    "pca": [
+      -0.12712760706839826,
+      0.21124781792229114
+    ],
+    "tsne": [
+      -0.4161933660507202,
+      6.835055351257324
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Lumineers",
+    "song": "Flowers in Your Hair",
+    "pca": [
+      -0.05101954596913111,
+      -0.06938955462119044
+    ],
+    "tsne": [
+      -10.638432502746582,
+      2.4044532775878906
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Lumineers",
+    "song": "Sleep on the Floor",
+    "pca": [
+      -0.06918540117972617,
+      0.027350943847765655
+    ],
+    "tsne": [
+      2.0492963790893555,
+      2.398831367492676
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "The Lumineers",
+    "song": "Stubborn Love",
+    "pca": [
+      -0.1179350964473044,
+      0.08363208152435601
+    ],
+    "tsne": [
+      -2.1226110458374023,
+      4.584090232849121
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Tate McRae",
+    "song": "it's ok i'm ok",
+    "pca": [
+      -0.09601713830179053,
+      0.052902492626774315
+    ],
+    "tsne": [
+      0.7285022735595703,
+      13.177544593811035
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Tate McRae",
+    "song": "sports car",
+    "pca": [
+      -0.14655501995773262,
+      0.08935580543569858
+    ],
+    "tsne": [
+      3.0227222442626953,
+      -7.5226359367370605
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Tate McRae",
+    "song": "exes",
+    "pca": [
+      -0.02306289609517212,
+      -0.002659434385867683
+    ],
+    "tsne": [
+      -3.506132125854492,
+      25.21724510192871
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Tate McRae",
+    "song": "greedy",
+    "pca": [
+      -0.09458971441636119,
+      -0.1166531822637054
+    ],
+    "tsne": [
+      3.0389227867126465,
+      -8.208695411682129
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Tate McRae",
+    "song": "you broke me first",
+    "pca": [
+      -0.04720883639243441,
+      -0.11854244230853776
+    ],
+    "tsne": [
+      -4.844091415405273,
+      -14.125621795654297
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "song": "Mamushi (feat. Yuki Chiba)",
+    "pca": [
+      0.059015828896489486,
+      -0.06188939166296843
+    ],
+    "tsne": [
+      -2.9508349895477295,
+      -9.096571922302246
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "song": "Hiss",
+    "pca": [
+      -0.06940056924902288,
+      -0.2031303495369745
+    ],
+    "tsne": [
+      1.8070114850997925,
+      -14.886600494384766
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "song": "Thot Shit",
+    "pca": [
+      0.012050375262689176,
+      -0.11386649765213774
+    ],
+    "tsne": [
+      6.1920390129089355,
+      -18.06235122680664
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "song": "Body",
+    "pca": [
+      0.060235931836165754,
+      -0.05076309024698311
+    ],
+    "tsne": [
+      4.881836891174316,
+      -10.474370956420898
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Thee Stallion",
+    "song": "Sweetest Pie",
+    "pca": [
+      -0.032985643768985114,
+      -0.0702814959528528
+    ],
+    "tsne": [
+      1.3609097003936768,
+      -9.080456733703613
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Britney Spears",
+    "song": "Gimme More",
+    "pca": [
+      0.03323666186922496,
+      0.043916893529688694
+    ],
+    "tsne": [
+      -23.068933486938477,
+      -7.88941764831543
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Britney Spears",
+    "song": "Oops!...I Did It Again",
+    "pca": [
+      -0.07926057490742854,
+      0.049409724312244864
+    ],
+    "tsne": [
+      7.117424488067627,
+      -6.068856239318848
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Britney Spears",
+    "song": "Toxic",
+    "pca": [
+      0.005536514400524336,
+      -0.08091074163007513
+    ],
+    "tsne": [
+      -10.09200668334961,
+      9.432409286499023
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Britney Spears",
+    "song": "Womanizer",
+    "pca": [
+      0.004962257832670075,
+      -0.02246517114797314
+    ],
+    "tsne": [
+      12.959628105163574,
+      -17.776723861694336
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Cody Johnson",
+    "song": "Dance Her Home",
+    "pca": [
+      -0.017005460317301043,
+      -0.09793024114893448
+    ],
+    "tsne": [
+      -11.580615043640137,
+      -4.9507951736450195
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Cody Johnson",
+    "song": "Diamond In My Pocket",
+    "pca": [
+      -0.06527805697157367,
+      -0.12073667405183347
+    ],
+    "tsne": [
+      -3.036591053009033,
+      -8.434852600097656
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Cody Johnson",
+    "song": "Me And My Kind",
+    "pca": [
+      -0.05484358704760313,
+      -0.034113939901831106
+    ],
+    "tsne": [
+      2.798703670501709,
+      4.350399971008301
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Cody Johnson",
+    "song": "'Til You Can't",
+    "pca": [
+      -0.05721443698524116,
+      -0.10553315058017607
+    ],
+    "tsne": [
+      -9.092045783996582,
+      -2.4992547035217285
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Cody Johnson",
+    "song": "The Painter",
+    "pca": [
+      -0.012345681456225778,
+      -0.09508631459171867
+    ],
+    "tsne": [
+      9.270119667053223,
+      19.928590774536133
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Beautiful",
+    "pca": [
+      -0.18680221589340615,
+      0.3726830714095667
+    ],
+    "tsne": [
+      9.103981971740723,
+      -3.2141988277435303
+    ],
+    "pca_cluster": 2,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Drop It Like It's Hot",
+    "pca": [
+      -0.020432346913819212,
+      -0.1037159841716481
+    ],
+    "tsne": [
+      18.561254501342773,
+      4.733286380767822
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Gin And Juice",
+    "pca": [
+      -0.02363983693158271,
+      -0.1075367905035929
+    ],
+    "tsne": [
+      -2.814673662185669,
+      11.969518661499023
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Young, Wild & Free (feat. Bruno Mars)",
+    "pca": [
+      -0.022527003100271253,
+      -0.09337562838654158
+    ],
+    "tsne": [
+      7.792478084564209,
+      -13.253220558166504
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Snoop Dogg",
+    "song": "Sensual Seduction",
+    "pca": [
+      0.023686878098418983,
+      -0.04356217144459481
+    ],
+    "tsne": [
+      16.61763572692871,
+      -8.685630798339844
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "song": "Cry",
+    "pca": [
+      -0.07140236695671326,
+      -0.10558979568774529
+    ],
+    "tsne": [
+      -9.653029441833496,
+      10.243624687194824
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "song": "SWEET",
+    "pca": [
+      -0.025616725163351124,
+      -0.06905569043493623
+    ],
+    "tsne": [
+      -22.150646209716797,
+      7.629117488861084
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "song": "SUNSETZ",
+    "pca": [
+      -0.003720930528663737,
+      -0.07963529455288369
+    ],
+    "tsne": [
+      -23.2250919342041,
+      5.600111961364746
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "song": "Apocalypse",
+    "pca": [
+      -0.05333506104071068,
+      -0.03492664585246753
+    ],
+    "tsne": [
+      10.709111213684082,
+      -10.690454483032227
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "song": "K.",
+    "pca": [
+      -0.051077241402651755,
+      -0.07041613034982191
+    ],
+    "tsne": [
+      -18.914051055908203,
+      4.717883586883545
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Marshmello",
+    "song": "Silence",
+    "pca": [
+      -0.010440582563254195,
+      -0.01534229409784397
+    ],
+    "tsne": [
+      8.390510559082031,
+      -16.60526466369629
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Marshmello",
+    "song": "Spotlight",
+    "pca": [
+      0.02610828523629426,
+      -0.06536601292895049
+    ],
+    "tsne": [
+      -9.70667552947998,
+      -16.51104736328125
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Marshmello",
+    "song": "FRIENDS",
+    "pca": [
+      -0.04570948545745535,
+      0.060801883351654915
+    ],
+    "tsne": [
+      -21.68772315979004,
+      -8.889227867126465
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Marshmello",
+    "song": "Happier",
+    "pca": [
+      -0.035779222593936615,
+      -0.0929460955478937
+    ],
+    "tsne": [
+      -12.519770622253418,
+      11.502067565917969
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Doja Cat",
+    "song": "Woman",
+    "pca": [
+      0.02450586978421069,
+      -0.07647704507824239
+    ],
+    "tsne": [
+      -16.288799285888672,
+      11.94527816772461
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Doja Cat",
+    "song": "Streets",
+    "pca": [
+      -0.11632923672650243,
+      -0.047925480125616884
+    ],
+    "tsne": [
+      -0.6097328066825867,
+      -3.2217776775360107
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Doja Cat",
+    "song": "Need To Know",
+    "pca": [
+      -0.1924683810853593,
+      0.0966528734588072
+    ],
+    "tsne": [
+      -1.1508901119232178,
+      -5.74088716506958
+    ],
+    "pca_cluster": 4,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Doja Cat",
+    "song": "Kiss Me More (feat. SZA)",
+    "pca": [
+      0.3468496632053583,
+      0.12183410498288957
+    ],
+    "tsne": [
+      24.266422271728516,
+      8.892797470092773
+    ],
+    "pca_cluster": 5,
+    "tsne_cluster": 4
+  },
+  {
+    "artist": "Doja Cat",
+    "song": "Say So",
+    "pca": [
+      -0.08563654716921833,
+      -0.08648867897872203
+    ],
+    "tsne": [
+      4.091711521148682,
+      -10.222195625305176
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 7
+  },
+  {
+    "artist": "Megan Moroney",
+    "song": "Indifferent",
+    "pca": [
+      -0.058637799915380116,
+      -0.11709626137180336
+    ],
+    "tsne": [
+      -6.464146137237549,
+      11.507957458496094
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 6
+  },
+  {
+    "artist": "Megan Moroney",
+    "song": "I'm Not Pretty",
+    "pca": [
+      -0.031718026566058086,
+      -0.08996722510044278
+    ],
+    "tsne": [
+      11.089919090270996,
+      8.04439640045166
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Megan Moroney",
+    "song": "Tennessee Orange",
+    "pca": [
+      -0.08767913091008765,
+      -0.13612177592893174
+    ],
+    "tsne": [
+      -0.4718348979949951,
+      0.55881667137146
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 1
+  },
+  {
+    "artist": "Megan Moroney",
+    "song": "No Caller ID",
+    "pca": [
+      -0.048249606088087496,
+      -0.10801321442999978
+    ],
+    "tsne": [
+      -13.246749877929688,
+      -13.798701286315918
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 5
+  },
+  {
+    "artist": "Megan Moroney",
+    "song": "Am I Okay_",
+    "pca": [
+      -0.0898592749843653,
+      0.024101554932098493
+    ],
+    "tsne": [
+      0.9023429751396179,
+      11.891098976135254
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Lana Del Rey",
+    "song": "Born to Die",
+    "pca": [
+      0.005868497356481279,
+      -0.05696350711539123
+    ],
+    "tsne": [
+      4.665501117706299,
+      16.75640106201172
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Lana Del Rey",
+    "song": "Diet Mountain Dew",
+    "pca": [
+      -0.06446138108403895,
+      -0.10073297569959723
+    ],
+    "tsne": [
+      1.9975491762161255,
+      7.2344136238098145
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 0
+  },
+  {
+    "artist": "Lana Del Rey",
+    "song": "Video Games",
+    "pca": [
+      -0.033069527298185075,
+      -0.08744198492560501
+    ],
+    "tsne": [
+      -19.392606735229492,
+      1.3383508920669556
+    ],
+    "pca_cluster": 6,
+    "tsne_cluster": 3
+  },
+  {
+    "artist": "Lana Del Rey",
+    "song": "Summertime Sadness",
+    "pca": [
+      0.01349438252375653,
+      0.04686540722839583
+    ],
+    "tsne": [
+      11.55480670928955,
+      3.301656723022461
+    ],
+    "pca_cluster": 0,
+    "tsne_cluster": 2
+  },
+  {
+    "artist": "Lana Del Rey",
+    "song": "Young and Beautiful",
+    "pca": [
+      -0.07739259467552881,
+      -0.05953713657952184
+    ],
+    "tsne": [
+      -1.231205701828003,
+      9.224313735961914
+    ],
+    "pca_cluster": 3,
+    "tsne_cluster": 0
+  }
+]

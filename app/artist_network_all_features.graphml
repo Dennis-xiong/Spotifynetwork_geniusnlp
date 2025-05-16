@@ -1,0 +1,1969 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="double" />
+  <graph edgedefault="undirected">
+    <node id="Kesha" />
+    <node id="Fall Out Boy" />
+    <node id="Maroon 5" />
+    <node id="Katy Perry" />
+    <node id="Shaboozey" />
+    <node id="Adele" />
+    <node id="Clairo" />
+    <node id="The Neighbourhood" />
+    <node id="Dua Lipa" />
+    <node id="Lorde" />
+    <node id="Rauw Alejandro" />
+    <node id="Imagine Dragons" />
+    <node id="JAY-Z" />
+    <node id="Chappell Roan" />
+    <node id="Lainey Wilson" />
+    <node id="Alex Warren" />
+    <node id="USHER" />
+    <node id="Stray Kids" />
+    <node id="Bruno Mars" />
+    <node id="Maluma" />
+    <node id="Noah Kahan" />
+    <node id="Ne-Yo" />
+    <node id="David Guetta" />
+    <node id="Pharrell Williams" />
+    <node id="The Weeknd" />
+    <node id="Wiz Khalifa" />
+    <node id="Sia" />
+    <node id="Justin Bieber" />
+    <node id="Don Omar" />
+    <node id="The Marías" />
+    <node id="Nicki Minaj" />
+    <node id="Selena Gomez" />
+    <node id="Benson Boone" />
+    <node id="Drake" />
+    <node id="SZA" />
+    <node id="Miley Cyrus" />
+    <node id="Ty Dolla $ign" />
+    <node id="Ozuna" />
+    <node id="Feid" />
+    <node id="Sabrina Carpenter" />
+    <node id="OneRepublic" />
+    <node id="Justin Timberlake" />
+    <node id="Shakira" />
+    <node id="Kali Uchis" />
+    <node id="One Direction" />
+    <node id="Olivia Rodrigo" />
+    <node id="Cardi B" />
+    <node id="Billie Eilish" />
+    <node id="Bailey Zimmerman" />
+    <node id="Jessie Murph" />
+    <node id="Lil Durk" />
+    <node id="Charli xcx" />
+    <node id="Riley Green" />
+    <node id="The Chainsmokers" />
+    <node id="Zach Top" />
+    <node id="Kid Cudi" />
+    <node id="Sam Barber" />
+    <node id="Kevin Gates" />
+    <node id="Lil Wayne" />
+    <node id="Harry Styles" />
+    <node id="Calvin Harris" />
+    <node id="Beyoncé" />
+    <node id="Hozier" />
+    <node id="Jelly Roll" />
+    <node id="BTS" />
+    <node id="Coldplay" />
+    <node id="Taylor Swift" />
+    <node id="Rihanna" />
+    <node id="Twenty One Pilots" />
+    <node id="T-Pain" />
+    <node id="Halsey" />
+    <node id="Akon" />
+    <node id="Ariana Grande" />
+    <node id="50 Cent" />
+    <node id="Romeo Santos" />
+    <node id="PinkPantheress" />
+    <node id="Tory Lanez" />
+    <node id="Treaty Oak Revival" />
+    <node id="Lady Gaga" />
+    <node id="Pitbull" />
+    <node id="benny blanco" />
+    <node id="Khalid" />
+    <node id="Paramore" />
+    <node id="JENNIE" />
+    <node id="d4vd" />
+    <node id="beabadoobee" />
+    <node id="DaBaby" />
+    <node id="Ed Sheeran" />
+    <node id="Post Malone" />
+    <node id="The Lumineers" />
+    <node id="Tate McRae" />
+    <node id="Megan Thee Stallion" />
+    <node id="Britney Spears" />
+    <node id="Cody Johnson" />
+    <node id="Snoop Dogg" />
+    <node id="Cigarettes After Sex" />
+    <node id="Marshmello" />
+    <node id="Doja Cat" />
+    <node id="Megan Moroney" />
+    <node id="Lana Del Rey" />
+    <edge source="Kesha" target="Maroon 5">
+      <data key="d0">0.2274030512736741</data>
+    </edge>
+    <edge source="Kesha" target="Bruno Mars">
+      <data key="d0">0.242165599183143</data>
+    </edge>
+    <edge source="Kesha" target="Ne-Yo">
+      <data key="d0">0.23068365557605153</data>
+    </edge>
+    <edge source="Kesha" target="Sia">
+      <data key="d0">0.26008230452674896</data>
+    </edge>
+    <edge source="Kesha" target="Justin Bieber">
+      <data key="d0">0.22730861587450735</data>
+    </edge>
+    <edge source="Kesha" target="Selena Gomez">
+      <data key="d0">0.20230423997361666</data>
+    </edge>
+    <edge source="Kesha" target="Miley Cyrus">
+      <data key="d0">0.22378837934393492</data>
+    </edge>
+    <edge source="Kesha" target="Justin Timberlake">
+      <data key="d0">0.20891622278291747</data>
+    </edge>
+    <edge source="Kesha" target="Bailey Zimmerman">
+      <data key="d0">0.21266223488445712</data>
+    </edge>
+    <edge source="Kesha" target="Hozier">
+      <data key="d0">0.2060470125687517</data>
+    </edge>
+    <edge source="Kesha" target="Taylor Swift">
+      <data key="d0">0.23765911193755</data>
+    </edge>
+    <edge source="Kesha" target="Akon">
+      <data key="d0">0.20079365079365077</data>
+    </edge>
+    <edge source="Kesha" target="Khalid">
+      <data key="d0">0.2044807420850978</data>
+    </edge>
+    <edge source="Kesha" target="Paramore">
+      <data key="d0">0.2232323232323232</data>
+    </edge>
+    <edge source="Kesha" target="Ed Sheeran">
+      <data key="d0">0.20312425520758856</data>
+    </edge>
+    <edge source="Kesha" target="The Lumineers">
+      <data key="d0">0.20677548931004283</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Wiz Khalifa">
+      <data key="d0">0.20998877665544333</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Billie Eilish">
+      <data key="d0">0.22206790123456788</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Bailey Zimmerman">
+      <data key="d0">0.23674302449914641</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Kid Cudi">
+      <data key="d0">0.24493175592466374</data>
+    </edge>
+    <edge source="Fall Out Boy" target="T-Pain">
+      <data key="d0">0.21359239382495196</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Akon">
+      <data key="d0">0.20807305946959762</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Lady Gaga">
+      <data key="d0">0.22810957728345616</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Khalid">
+      <data key="d0">0.2335470085470085</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Paramore">
+      <data key="d0">0.2123472577436772</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Post Malone">
+      <data key="d0">0.22137566137566136</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Marshmello">
+      <data key="d0">0.2284445364905135</data>
+    </edge>
+    <edge source="Fall Out Boy" target="Doja Cat">
+      <data key="d0">0.21546641585534287</data>
+    </edge>
+    <edge source="Maroon 5" target="Adele">
+      <data key="d0">0.20489618406285076</data>
+    </edge>
+    <edge source="Maroon 5" target="Alex Warren">
+      <data key="d0">0.23149184149184146</data>
+    </edge>
+    <edge source="Maroon 5" target="Bruno Mars">
+      <data key="d0">0.21794371969810566</data>
+    </edge>
+    <edge source="Maroon 5" target="Ne-Yo">
+      <data key="d0">0.24775988109321442</data>
+    </edge>
+    <edge source="Maroon 5" target="Justin Bieber">
+      <data key="d0">0.28045986011770563</data>
+    </edge>
+    <edge source="Maroon 5" target="The Marías">
+      <data key="d0">0.20352031961227363</data>
+    </edge>
+    <edge source="Maroon 5" target="Selena Gomez">
+      <data key="d0">0.2411524058896212</data>
+    </edge>
+    <edge source="Maroon 5" target="One Direction">
+      <data key="d0">0.24882289760338538</data>
+    </edge>
+    <edge source="Maroon 5" target="Olivia Rodrigo">
+      <data key="d0">0.20611577964519143</data>
+    </edge>
+    <edge source="Maroon 5" target="Bailey Zimmerman">
+      <data key="d0">0.22096569560337675</data>
+    </edge>
+    <edge source="Maroon 5" target="Kid Cudi">
+      <data key="d0">0.2074323288091404</data>
+    </edge>
+    <edge source="Maroon 5" target="Beyoncé">
+      <data key="d0">0.22526655443322108</data>
+    </edge>
+    <edge source="Maroon 5" target="Hozier">
+      <data key="d0">0.2100189933523267</data>
+    </edge>
+    <edge source="Maroon 5" target="Coldplay">
+      <data key="d0">0.20022062400111182</data>
+    </edge>
+    <edge source="Maroon 5" target="Treaty Oak Revival">
+      <data key="d0">0.20832331801578885</data>
+    </edge>
+    <edge source="Maroon 5" target="Paramore">
+      <data key="d0">0.2667507633024874</data>
+    </edge>
+    <edge source="Maroon 5" target="d4vd">
+      <data key="d0">0.2018274318274318</data>
+    </edge>
+    <edge source="Maroon 5" target="The Lumineers">
+      <data key="d0">0.206690034264405</data>
+    </edge>
+    <edge source="Katy Perry" target="Clairo">
+      <data key="d0">0.21822654890287738</data>
+    </edge>
+    <edge source="Katy Perry" target="Imagine Dragons">
+      <data key="d0">0.21032457188371168</data>
+    </edge>
+    <edge source="Katy Perry" target="David Guetta">
+      <data key="d0">0.20092592592592592</data>
+    </edge>
+    <edge source="Katy Perry" target="The Marías">
+      <data key="d0">0.21233753163100988</data>
+    </edge>
+    <edge source="Katy Perry" target="OneRepublic">
+      <data key="d0">0.2082869760405992</data>
+    </edge>
+    <edge source="Katy Perry" target="Justin Timberlake">
+      <data key="d0">0.21275030111412224</data>
+    </edge>
+    <edge source="Katy Perry" target="Billie Eilish">
+      <data key="d0">0.20925269240872077</data>
+    </edge>
+    <edge source="Katy Perry" target="Harry Styles">
+      <data key="d0">0.2355708509381673</data>
+    </edge>
+    <edge source="Katy Perry" target="T-Pain">
+      <data key="d0">0.21965020576131689</data>
+    </edge>
+    <edge source="Katy Perry" target="Lady Gaga">
+      <data key="d0">0.20406023839931886</data>
+    </edge>
+    <edge source="Katy Perry" target="Khalid">
+      <data key="d0">0.2420498084291188</data>
+    </edge>
+    <edge source="Katy Perry" target="Paramore">
+      <data key="d0">0.2224213691026827</data>
+    </edge>
+    <edge source="Katy Perry" target="Lana Del Rey">
+      <data key="d0">0.26198823339780786</data>
+    </edge>
+    <edge source="Shaboozey" target="JAY-Z">
+      <data key="d0">0.20239995479563352</data>
+    </edge>
+    <edge source="Shaboozey" target="Chappell Roan">
+      <data key="d0">0.20734091916488523</data>
+    </edge>
+    <edge source="Shaboozey" target="Selena Gomez">
+      <data key="d0">0.21918462071658268</data>
+    </edge>
+    <edge source="Shaboozey" target="SZA">
+      <data key="d0">0.2191289589663573</data>
+    </edge>
+    <edge source="Shaboozey" target="Miley Cyrus">
+      <data key="d0">0.20172217851210772</data>
+    </edge>
+    <edge source="Shaboozey" target="Olivia Rodrigo">
+      <data key="d0">0.24340687674021005</data>
+    </edge>
+    <edge source="Shaboozey" target="Bailey Zimmerman">
+      <data key="d0">0.21671286671286671</data>
+    </edge>
+    <edge source="Shaboozey" target="Jessie Murph">
+      <data key="d0">0.2016184251478369</data>
+    </edge>
+    <edge source="Shaboozey" target="Lil Durk">
+      <data key="d0">0.21827337176174386</data>
+    </edge>
+    <edge source="Shaboozey" target="Kid Cudi">
+      <data key="d0">0.24716420169520845</data>
+    </edge>
+    <edge source="Shaboozey" target="Sam Barber">
+      <data key="d0">0.2349743814961206</data>
+    </edge>
+    <edge source="Shaboozey" target="Jelly Roll">
+      <data key="d0">0.2617542419266557</data>
+    </edge>
+    <edge source="Shaboozey" target="Tory Lanez">
+      <data key="d0">0.2758467926177563</data>
+    </edge>
+    <edge source="Shaboozey" target="Treaty Oak Revival">
+      <data key="d0">0.26017315733627794</data>
+    </edge>
+    <edge source="Shaboozey" target="Tate McRae">
+      <data key="d0">0.21979130833619998</data>
+    </edge>
+    <edge source="Shaboozey" target="Cigarettes After Sex">
+      <data key="d0">0.2219804886471553</data>
+    </edge>
+    <edge source="Shaboozey" target="Megan Moroney">
+      <data key="d0">0.23506341328921973</data>
+    </edge>
+    <edge source="Adele" target="Clairo">
+      <data key="d0">0.2657201665504727</data>
+    </edge>
+    <edge source="Adele" target="The Neighbourhood">
+      <data key="d0">0.28487654320987654</data>
+    </edge>
+    <edge source="Adele" target="Chappell Roan">
+      <data key="d0">0.2579978061685379</data>
+    </edge>
+    <edge source="Adele" target="Ne-Yo">
+      <data key="d0">0.22258949771027067</data>
+    </edge>
+    <edge source="Adele" target="Sia">
+      <data key="d0">0.2033715613507321</data>
+    </edge>
+    <edge source="Adele" target="The Marías">
+      <data key="d0">0.22692678820727602</data>
+    </edge>
+    <edge source="Adele" target="Drake">
+      <data key="d0">0.22651358303532218</data>
+    </edge>
+    <edge source="Adele" target="SZA">
+      <data key="d0">0.21778856123760937</data>
+    </edge>
+    <edge source="Adele" target="Miley Cyrus">
+      <data key="d0">0.21748110695613526</data>
+    </edge>
+    <edge source="Adele" target="OneRepublic">
+      <data key="d0">0.2092439389995922</data>
+    </edge>
+    <edge source="Adele" target="Olivia Rodrigo">
+      <data key="d0">0.2354910340204458</data>
+    </edge>
+    <edge source="Adele" target="Billie Eilish">
+      <data key="d0">0.20264706687470918</data>
+    </edge>
+    <edge source="Adele" target="Jessie Murph">
+      <data key="d0">0.2408631332481907</data>
+    </edge>
+    <edge source="Adele" target="Zach Top">
+      <data key="d0">0.2682989313424096</data>
+    </edge>
+    <edge source="Adele" target="Sam Barber">
+      <data key="d0">0.2381052393857272</data>
+    </edge>
+    <edge source="Adele" target="Harry Styles">
+      <data key="d0">0.23894968200523758</data>
+    </edge>
+    <edge source="Adele" target="Beyoncé">
+      <data key="d0">0.20992040600103307</data>
+    </edge>
+    <edge source="Adele" target="Hozier">
+      <data key="d0">0.2188700487087584</data>
+    </edge>
+    <edge source="Adele" target="Coldplay">
+      <data key="d0">0.21671415004748334</data>
+    </edge>
+    <edge source="Adele" target="Taylor Swift">
+      <data key="d0">0.21407699738173314</data>
+    </edge>
+    <edge source="Adele" target="Ariana Grande">
+      <data key="d0">0.22184343434343434</data>
+    </edge>
+    <edge source="Adele" target="Khalid">
+      <data key="d0">0.2105392122380262</data>
+    </edge>
+    <edge source="Adele" target="Paramore">
+      <data key="d0">0.2096149971657071</data>
+    </edge>
+    <edge source="Adele" target="d4vd">
+      <data key="d0">0.2317163504968383</data>
+    </edge>
+    <edge source="Adele" target="beabadoobee">
+      <data key="d0">0.23206692638741322</data>
+    </edge>
+    <edge source="Adele" target="The Lumineers">
+      <data key="d0">0.21816110982777648</data>
+    </edge>
+    <edge source="Adele" target="Cigarettes After Sex">
+      <data key="d0">0.2161198271127349</data>
+    </edge>
+    <edge source="Adele" target="Megan Moroney">
+      <data key="d0">0.22686684660368872</data>
+    </edge>
+    <edge source="Adele" target="Lana Del Rey">
+      <data key="d0">0.23476244381416794</data>
+    </edge>
+    <edge source="Clairo" target="The Neighbourhood">
+      <data key="d0">0.22111123249173717</data>
+    </edge>
+    <edge source="Clairo" target="Chappell Roan">
+      <data key="d0">0.21565319632952484</data>
+    </edge>
+    <edge source="Clairo" target="Bailey Zimmerman">
+      <data key="d0">0.20925925925925926</data>
+    </edge>
+    <edge source="Clairo" target="The Chainsmokers">
+      <data key="d0">0.23086614806768851</data>
+    </edge>
+    <edge source="Clairo" target="Zach Top">
+      <data key="d0">0.21473038387932006</data>
+    </edge>
+    <edge source="Clairo" target="Sam Barber">
+      <data key="d0">0.24148035801220835</data>
+    </edge>
+    <edge source="Clairo" target="Harry Styles">
+      <data key="d0">0.21930243669374105</data>
+    </edge>
+    <edge source="Clairo" target="Khalid">
+      <data key="d0">0.2258792125458792</data>
+    </edge>
+    <edge source="Clairo" target="Paramore">
+      <data key="d0">0.21190822573801296</data>
+    </edge>
+    <edge source="Clairo" target="Megan Moroney">
+      <data key="d0">0.20089717046238784</data>
+    </edge>
+    <edge source="Clairo" target="Lana Del Rey">
+      <data key="d0">0.21049870687551844</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Dua Lipa">
+      <data key="d0">0.2160663410663411</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Lorde">
+      <data key="d0">0.20423286188786896</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Chappell Roan">
+      <data key="d0">0.244956658786446</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Alex Warren">
+      <data key="d0">0.20544163497447493</data>
+    </edge>
+    <edge source="The Neighbourhood" target="The Marías">
+      <data key="d0">0.2621773288439955</data>
+    </edge>
+    <edge source="The Neighbourhood" target="OneRepublic">
+      <data key="d0">0.22550884217550882</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Olivia Rodrigo">
+      <data key="d0">0.24534861690034104</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Jessie Murph">
+      <data key="d0">0.2169545633641378</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Zach Top">
+      <data key="d0">0.2251183032135413</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Kid Cudi">
+      <data key="d0">0.20034889962426194</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Sam Barber">
+      <data key="d0">0.2749699374699375</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Harry Styles">
+      <data key="d0">0.29148616559616847</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Twenty One Pilots">
+      <data key="d0">0.23888333384131707</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Treaty Oak Revival">
+      <data key="d0">0.23704246768762896</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Paramore">
+      <data key="d0">0.20126663459996794</data>
+    </edge>
+    <edge source="The Neighbourhood" target="d4vd">
+      <data key="d0">0.2022268316524808</data>
+    </edge>
+    <edge source="The Neighbourhood" target="beabadoobee">
+      <data key="d0">0.2053436553436553</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Britney Spears">
+      <data key="d0">0.20129068462401797</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Cigarettes After Sex">
+      <data key="d0">0.2424048472435569</data>
+    </edge>
+    <edge source="The Neighbourhood" target="Lana Del Rey">
+      <data key="d0">0.2373949303913843</data>
+    </edge>
+    <edge source="Dua Lipa" target="Lorde">
+      <data key="d0">0.2269409066510516</data>
+    </edge>
+    <edge source="Dua Lipa" target="Chappell Roan">
+      <data key="d0">0.25682172844682016</data>
+    </edge>
+    <edge source="Dua Lipa" target="USHER">
+      <data key="d0">0.22326058201058205</data>
+    </edge>
+    <edge source="Dua Lipa" target="Bruno Mars">
+      <data key="d0">0.20855819135349585</data>
+    </edge>
+    <edge source="Dua Lipa" target="The Weeknd">
+      <data key="d0">0.20964022385760797</data>
+    </edge>
+    <edge source="Dua Lipa" target="Sia">
+      <data key="d0">0.20843621399176954</data>
+    </edge>
+    <edge source="Dua Lipa" target="Selena Gomez">
+      <data key="d0">0.23499778848616057</data>
+    </edge>
+    <edge source="Dua Lipa" target="Drake">
+      <data key="d0">0.22168375932125334</data>
+    </edge>
+    <edge source="Dua Lipa" target="Miley Cyrus">
+      <data key="d0">0.23740355099730362</data>
+    </edge>
+    <edge source="Dua Lipa" target="Sabrina Carpenter">
+      <data key="d0">0.21557595843800373</data>
+    </edge>
+    <edge source="Dua Lipa" target="Justin Timberlake">
+      <data key="d0">0.22456497750615398</data>
+    </edge>
+    <edge source="Dua Lipa" target="Billie Eilish">
+      <data key="d0">0.2012720163683972</data>
+    </edge>
+    <edge source="Dua Lipa" target="Jessie Murph">
+      <data key="d0">0.20901600481810378</data>
+    </edge>
+    <edge source="Dua Lipa" target="Sam Barber">
+      <data key="d0">0.2126984126984127</data>
+    </edge>
+    <edge source="Dua Lipa" target="Beyoncé">
+      <data key="d0">0.21527525324297153</data>
+    </edge>
+    <edge source="Dua Lipa" target="BTS">
+      <data key="d0">0.2409957192565888</data>
+    </edge>
+    <edge source="Dua Lipa" target="Ariana Grande">
+      <data key="d0">0.28401208559562297</data>
+    </edge>
+    <edge source="Dua Lipa" target="Megan Moroney">
+      <data key="d0">0.21162772491948326</data>
+    </edge>
+    <edge source="Dua Lipa" target="Lana Del Rey">
+      <data key="d0">0.2546726052668328</data>
+    </edge>
+    <edge source="Lorde" target="Chappell Roan">
+      <data key="d0">0.2444142512077295</data>
+    </edge>
+    <edge source="Lorde" target="Sia">
+      <data key="d0">0.20029905682079596</data>
+    </edge>
+    <edge source="Lorde" target="Miley Cyrus">
+      <data key="d0">0.21067340067340068</data>
+    </edge>
+    <edge source="Lorde" target="Jessie Murph">
+      <data key="d0">0.2004794320011711</data>
+    </edge>
+    <edge source="Lorde" target="Zach Top">
+      <data key="d0">0.22485179659625526</data>
+    </edge>
+    <edge source="Lorde" target="Taylor Swift">
+      <data key="d0">0.20324055185336296</data>
+    </edge>
+    <edge source="Lorde" target="Lana Del Rey">
+      <data key="d0">0.21167959791148197</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Maluma">
+      <data key="d0">0.319011129355957</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Don Omar">
+      <data key="d0">0.26282240494764214</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Ozuna">
+      <data key="d0">0.34276094276094277</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Feid">
+      <data key="d0">0.30984033887259693</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Kali Uchis">
+      <data key="d0">0.2028541366041366</data>
+    </edge>
+    <edge source="Rauw Alejandro" target="Romeo Santos">
+      <data key="d0">0.2656909705520817</data>
+    </edge>
+    <edge source="Imagine Dragons" target="Wiz Khalifa">
+      <data key="d0">0.20068803576555513</data>
+    </edge>
+    <edge source="Imagine Dragons" target="Billie Eilish">
+      <data key="d0">0.21105889724310778</data>
+    </edge>
+    <edge source="JAY-Z" target="Kevin Gates">
+      <data key="d0">0.22475217417746152</data>
+    </edge>
+    <edge source="JAY-Z" target="Lil Wayne">
+      <data key="d0">0.244184407175586</data>
+    </edge>
+    <edge source="JAY-Z" target="50 Cent">
+      <data key="d0">0.2563934362784937</data>
+    </edge>
+    <edge source="JAY-Z" target="DaBaby">
+      <data key="d0">0.2574143259074766</data>
+    </edge>
+    <edge source="Chappell Roan" target="USHER">
+      <data key="d0">0.21142536475869808</data>
+    </edge>
+    <edge source="Chappell Roan" target="Ne-Yo">
+      <data key="d0">0.21382275132275133</data>
+    </edge>
+    <edge source="Chappell Roan" target="Sia">
+      <data key="d0">0.24765041721563458</data>
+    </edge>
+    <edge source="Chappell Roan" target="The Marías">
+      <data key="d0">0.26183217189314756</data>
+    </edge>
+    <edge source="Chappell Roan" target="Selena Gomez">
+      <data key="d0">0.24421493639384695</data>
+    </edge>
+    <edge source="Chappell Roan" target="Drake">
+      <data key="d0">0.24923089557235897</data>
+    </edge>
+    <edge source="Chappell Roan" target="SZA">
+      <data key="d0">0.22236461950093814</data>
+    </edge>
+    <edge source="Chappell Roan" target="Miley Cyrus">
+      <data key="d0">0.2555826334525866</data>
+    </edge>
+    <edge source="Chappell Roan" target="Olivia Rodrigo">
+      <data key="d0">0.20818990752104974</data>
+    </edge>
+    <edge source="Chappell Roan" target="Billie Eilish">
+      <data key="d0">0.24298565364903377</data>
+    </edge>
+    <edge source="Chappell Roan" target="Jessie Murph">
+      <data key="d0">0.20743216246265025</data>
+    </edge>
+    <edge source="Chappell Roan" target="Zach Top">
+      <data key="d0">0.2978033018355599</data>
+    </edge>
+    <edge source="Chappell Roan" target="Kid Cudi">
+      <data key="d0">0.234561191626409</data>
+    </edge>
+    <edge source="Chappell Roan" target="Sam Barber">
+      <data key="d0">0.24279835390946503</data>
+    </edge>
+    <edge source="Chappell Roan" target="Harry Styles">
+      <data key="d0">0.22354497354497355</data>
+    </edge>
+    <edge source="Chappell Roan" target="Beyoncé">
+      <data key="d0">0.259554401873442</data>
+    </edge>
+    <edge source="Chappell Roan" target="BTS">
+      <data key="d0">0.22244266051141684</data>
+    </edge>
+    <edge source="Chappell Roan" target="Taylor Swift">
+      <data key="d0">0.26164093609956435</data>
+    </edge>
+    <edge source="Chappell Roan" target="Twenty One Pilots">
+      <data key="d0">0.22695071403167544</data>
+    </edge>
+    <edge source="Chappell Roan" target="Akon">
+      <data key="d0">0.23635500302166967</data>
+    </edge>
+    <edge source="Chappell Roan" target="Ariana Grande">
+      <data key="d0">0.24498318651131953</data>
+    </edge>
+    <edge source="Chappell Roan" target="Tory Lanez">
+      <data key="d0">0.226989163215367</data>
+    </edge>
+    <edge source="Chappell Roan" target="Treaty Oak Revival">
+      <data key="d0">0.2007201646090535</data>
+    </edge>
+    <edge source="Chappell Roan" target="beabadoobee">
+      <data key="d0">0.20806717648822912</data>
+    </edge>
+    <edge source="Chappell Roan" target="Post Malone">
+      <data key="d0">0.21644881819300424</data>
+    </edge>
+    <edge source="Chappell Roan" target="Cigarettes After Sex">
+      <data key="d0">0.24345238095238095</data>
+    </edge>
+    <edge source="Chappell Roan" target="Marshmello">
+      <data key="d0">0.21169904169904172</data>
+    </edge>
+    <edge source="Chappell Roan" target="Doja Cat">
+      <data key="d0">0.20234683012460788</data>
+    </edge>
+    <edge source="Chappell Roan" target="Megan Moroney">
+      <data key="d0">0.20760601558631117</data>
+    </edge>
+    <edge source="Chappell Roan" target="Lana Del Rey">
+      <data key="d0">0.2462018102705753</data>
+    </edge>
+    <edge source="Lainey Wilson" target="Riley Green">
+      <data key="d0">0.21092522655830148</data>
+    </edge>
+    <edge source="Alex Warren" target="USHER">
+      <data key="d0">0.20329602646675815</data>
+    </edge>
+    <edge source="Alex Warren" target="Noah Kahan">
+      <data key="d0">0.23686425660109867</data>
+    </edge>
+    <edge source="Alex Warren" target="Benson Boone">
+      <data key="d0">0.20686963051304136</data>
+    </edge>
+    <edge source="Alex Warren" target="Coldplay">
+      <data key="d0">0.24268498942917546</data>
+    </edge>
+    <edge source="Alex Warren" target="Halsey">
+      <data key="d0">0.22832917531543828</data>
+    </edge>
+    <edge source="Alex Warren" target="d4vd">
+      <data key="d0">0.21183557183557186</data>
+    </edge>
+    <edge source="USHER" target="Noah Kahan">
+      <data key="d0">0.21663938185677317</data>
+    </edge>
+    <edge source="USHER" target="Ne-Yo">
+      <data key="d0">0.2097134572744329</data>
+    </edge>
+    <edge source="USHER" target="Justin Timberlake">
+      <data key="d0">0.22286324786324785</data>
+    </edge>
+    <edge source="USHER" target="One Direction">
+      <data key="d0">0.274048174048174</data>
+    </edge>
+    <edge source="USHER" target="Harry Styles">
+      <data key="d0">0.20838433292533662</data>
+    </edge>
+    <edge source="USHER" target="Beyoncé">
+      <data key="d0">0.2279192814076535</data>
+    </edge>
+    <edge source="USHER" target="BTS">
+      <data key="d0">0.2556625074272133</data>
+    </edge>
+    <edge source="USHER" target="Coldplay">
+      <data key="d0">0.22726719296178471</data>
+    </edge>
+    <edge source="USHER" target="Ariana Grande">
+      <data key="d0">0.22246827246827244</data>
+    </edge>
+    <edge source="USHER" target="Britney Spears">
+      <data key="d0">0.20861440431332903</data>
+    </edge>
+    <edge source="Stray Kids" target="Charli xcx">
+      <data key="d0">0.2129772906368651</data>
+    </edge>
+    <edge source="Stray Kids" target="benny blanco">
+      <data key="d0">0.2296296296296296</data>
+    </edge>
+    <edge source="Bruno Mars" target="Noah Kahan">
+      <data key="d0">0.22648215981549313</data>
+    </edge>
+    <edge source="Bruno Mars" target="Sia">
+      <data key="d0">0.20716764924338557</data>
+    </edge>
+    <edge source="Bruno Mars" target="Selena Gomez">
+      <data key="d0">0.2061479173949102</data>
+    </edge>
+    <edge source="Bruno Mars" target="Justin Timberlake">
+      <data key="d0">0.2581039081039081</data>
+    </edge>
+    <edge source="Bruno Mars" target="Bailey Zimmerman">
+      <data key="d0">0.20635267018245743</data>
+    </edge>
+    <edge source="Bruno Mars" target="Beyoncé">
+      <data key="d0">0.20252108115595727</data>
+    </edge>
+    <edge source="Bruno Mars" target="Hozier">
+      <data key="d0">0.2192159692159692</data>
+    </edge>
+    <edge source="Bruno Mars" target="Coldplay">
+      <data key="d0">0.2224519092736147</data>
+    </edge>
+    <edge source="Bruno Mars" target="Akon">
+      <data key="d0">0.2091710758377425</data>
+    </edge>
+    <edge source="Bruno Mars" target="Ed Sheeran">
+      <data key="d0">0.2579882016663626</data>
+    </edge>
+    <edge source="Bruno Mars" target="Cigarettes After Sex">
+      <data key="d0">0.2263408893843676</data>
+    </edge>
+    <edge source="Bruno Mars" target="Doja Cat">
+      <data key="d0">0.20752452056799883</data>
+    </edge>
+    <edge source="Maluma" target="Don Omar">
+      <data key="d0">0.23674188832295792</data>
+    </edge>
+    <edge source="Maluma" target="Ozuna">
+      <data key="d0">0.33804713804713804</data>
+    </edge>
+    <edge source="Maluma" target="Feid">
+      <data key="d0">0.33462652215187716</data>
+    </edge>
+    <edge source="Maluma" target="Romeo Santos">
+      <data key="d0">0.306869262424818</data>
+    </edge>
+    <edge source="Noah Kahan" target="Ne-Yo">
+      <data key="d0">0.2051943696694492</data>
+    </edge>
+    <edge source="Noah Kahan" target="Sia">
+      <data key="d0">0.21547321242443193</data>
+    </edge>
+    <edge source="Noah Kahan" target="Beyoncé">
+      <data key="d0">0.23130538270192083</data>
+    </edge>
+    <edge source="Noah Kahan" target="Coldplay">
+      <data key="d0">0.25998540754638316</data>
+    </edge>
+    <edge source="Noah Kahan" target="Halsey">
+      <data key="d0">0.24454638585073368</data>
+    </edge>
+    <edge source="Noah Kahan" target="Ariana Grande">
+      <data key="d0">0.20032746160794943</data>
+    </edge>
+    <edge source="Noah Kahan" target="Treaty Oak Revival">
+      <data key="d0">0.2328749846191707</data>
+    </edge>
+    <edge source="Noah Kahan" target="Paramore">
+      <data key="d0">0.20834675712724493</data>
+    </edge>
+    <edge source="Noah Kahan" target="d4vd">
+      <data key="d0">0.24941431117901708</data>
+    </edge>
+    <edge source="Noah Kahan" target="The Lumineers">
+      <data key="d0">0.2091374540649903</data>
+    </edge>
+    <edge source="Ne-Yo" target="Sia">
+      <data key="d0">0.21041666666666667</data>
+    </edge>
+    <edge source="Ne-Yo" target="Justin Bieber">
+      <data key="d0">0.21450617283950615</data>
+    </edge>
+    <edge source="Ne-Yo" target="The Marías">
+      <data key="d0">0.20184988806409804</data>
+    </edge>
+    <edge source="Ne-Yo" target="Selena Gomez">
+      <data key="d0">0.25587630113773907</data>
+    </edge>
+    <edge source="Ne-Yo" target="Drake">
+      <data key="d0">0.20889063729346968</data>
+    </edge>
+    <edge source="Ne-Yo" target="One Direction">
+      <data key="d0">0.21773799677025485</data>
+    </edge>
+    <edge source="Ne-Yo" target="Billie Eilish">
+      <data key="d0">0.22176175587294325</data>
+    </edge>
+    <edge source="Ne-Yo" target="Beyoncé">
+      <data key="d0">0.3034792368125701</data>
+    </edge>
+    <edge source="Ne-Yo" target="BTS">
+      <data key="d0">0.2422398589065256</data>
+    </edge>
+    <edge source="Ne-Yo" target="Coldplay">
+      <data key="d0">0.2399318769086211</data>
+    </edge>
+    <edge source="Ne-Yo" target="Taylor Swift">
+      <data key="d0">0.2178441390650693</data>
+    </edge>
+    <edge source="Ne-Yo" target="Halsey">
+      <data key="d0">0.23682307261118632</data>
+    </edge>
+    <edge source="Ne-Yo" target="Akon">
+      <data key="d0">0.22826037745845282</data>
+    </edge>
+    <edge source="Ne-Yo" target="Ariana Grande">
+      <data key="d0">0.21127031181379008</data>
+    </edge>
+    <edge source="Ne-Yo" target="Paramore">
+      <data key="d0">0.3051158181592964</data>
+    </edge>
+    <edge source="Ne-Yo" target="The Lumineers">
+      <data key="d0">0.2245235440887615</data>
+    </edge>
+    <edge source="Ne-Yo" target="Britney Spears">
+      <data key="d0">0.22114938864060715</data>
+    </edge>
+    <edge source="David Guetta" target="Wiz Khalifa">
+      <data key="d0">0.21661054994388326</data>
+    </edge>
+    <edge source="David Guetta" target="Nicki Minaj">
+      <data key="d0">0.21867517190097835</data>
+    </edge>
+    <edge source="David Guetta" target="T-Pain">
+      <data key="d0">0.2495929995929996</data>
+    </edge>
+    <edge source="David Guetta" target="Lady Gaga">
+      <data key="d0">0.22592592592592592</data>
+    </edge>
+    <edge source="David Guetta" target="Khalid">
+      <data key="d0">0.20769996887643946</data>
+    </edge>
+    <edge source="The Weeknd" target="Wiz Khalifa">
+      <data key="d0">0.23531870428422152</data>
+    </edge>
+    <edge source="The Weeknd" target="Selena Gomez">
+      <data key="d0">0.2369452209887547</data>
+    </edge>
+    <edge source="The Weeknd" target="Drake">
+      <data key="d0">0.2447118813293396</data>
+    </edge>
+    <edge source="The Weeknd" target="OneRepublic">
+      <data key="d0">0.20176922524761504</data>
+    </edge>
+    <edge source="The Weeknd" target="Billie Eilish">
+      <data key="d0">0.22528030647371555</data>
+    </edge>
+    <edge source="The Weeknd" target="Charli xcx">
+      <data key="d0">0.2086740420073753</data>
+    </edge>
+    <edge source="The Weeknd" target="Harry Styles">
+      <data key="d0">0.20150574063617543</data>
+    </edge>
+    <edge source="The Weeknd" target="Beyoncé">
+      <data key="d0">0.20393258765351788</data>
+    </edge>
+    <edge source="The Weeknd" target="Taylor Swift">
+      <data key="d0">0.23451890143834866</data>
+    </edge>
+    <edge source="The Weeknd" target="T-Pain">
+      <data key="d0">0.2376242095754291</data>
+    </edge>
+    <edge source="The Weeknd" target="Halsey">
+      <data key="d0">0.2084677798768086</data>
+    </edge>
+    <edge source="The Weeknd" target="Ariana Grande">
+      <data key="d0">0.23051799459122113</data>
+    </edge>
+    <edge source="The Weeknd" target="beabadoobee">
+      <data key="d0">0.23784789435195938</data>
+    </edge>
+    <edge source="The Weeknd" target="Post Malone">
+      <data key="d0">0.24017893388881836</data>
+    </edge>
+    <edge source="The Weeknd" target="The Lumineers">
+      <data key="d0">0.23022249068760697</data>
+    </edge>
+    <edge source="The Weeknd" target="Tate McRae">
+      <data key="d0">0.2121719726370889</data>
+    </edge>
+    <edge source="The Weeknd" target="Marshmello">
+      <data key="d0">0.20996811830145162</data>
+    </edge>
+    <edge source="The Weeknd" target="Doja Cat">
+      <data key="d0">0.2462268966258328</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Drake">
+      <data key="d0">0.27534302105272435</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Billie Eilish">
+      <data key="d0">0.24903799903799906</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="T-Pain">
+      <data key="d0">0.24022884673291175</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Lady Gaga">
+      <data key="d0">0.25346320346320345</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Khalid">
+      <data key="d0">0.24033568770410874</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Paramore">
+      <data key="d0">0.20709876543209876</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Post Malone">
+      <data key="d0">0.2202839744506411</data>
+    </edge>
+    <edge source="Wiz Khalifa" target="Marshmello">
+      <data key="d0">0.22347793786818176</data>
+    </edge>
+    <edge source="Sia" target="The Marías">
+      <data key="d0">0.20375539743355833</data>
+    </edge>
+    <edge source="Sia" target="Selena Gomez">
+      <data key="d0">0.24164562289562289</data>
+    </edge>
+    <edge source="Sia" target="Jessie Murph">
+      <data key="d0">0.20185185185185184</data>
+    </edge>
+    <edge source="Sia" target="Zach Top">
+      <data key="d0">0.21034541633832415</data>
+    </edge>
+    <edge source="Sia" target="Beyoncé">
+      <data key="d0">0.22138028494617643</data>
+    </edge>
+    <edge source="Sia" target="BTS">
+      <data key="d0">0.2544477456146163</data>
+    </edge>
+    <edge source="Sia" target="Taylor Swift">
+      <data key="d0">0.22373737373737373</data>
+    </edge>
+    <edge source="Sia" target="Akon">
+      <data key="d0">0.22945326278659608</data>
+    </edge>
+    <edge source="Sia" target="Ariana Grande">
+      <data key="d0">0.21089111973291733</data>
+    </edge>
+    <edge source="Sia" target="d4vd">
+      <data key="d0">0.2379383882307859</data>
+    </edge>
+    <edge source="Sia" target="Ed Sheeran">
+      <data key="d0">0.2217350633954785</data>
+    </edge>
+    <edge source="Sia" target="The Lumineers">
+      <data key="d0">0.21677018633540374</data>
+    </edge>
+    <edge source="Sia" target="Lana Del Rey">
+      <data key="d0">0.22315645359334269</data>
+    </edge>
+    <edge source="Justin Bieber" target="Selena Gomez">
+      <data key="d0">0.22400580303806109</data>
+    </edge>
+    <edge source="Justin Bieber" target="Bailey Zimmerman">
+      <data key="d0">0.2209888340323123</data>
+    </edge>
+    <edge source="Justin Bieber" target="Beyoncé">
+      <data key="d0">0.20991285403050108</data>
+    </edge>
+    <edge source="Justin Bieber" target="Coldplay">
+      <data key="d0">0.21057122953674678</data>
+    </edge>
+    <edge source="Justin Bieber" target="Halsey">
+      <data key="d0">0.22378664695737868</data>
+    </edge>
+    <edge source="Justin Bieber" target="Lady Gaga">
+      <data key="d0">0.22175459917395401</data>
+    </edge>
+    <edge source="Don Omar" target="Ozuna">
+      <data key="d0">0.2778954418739365</data>
+    </edge>
+    <edge source="Don Omar" target="Feid">
+      <data key="d0">0.3423280423280423</data>
+    </edge>
+    <edge source="The Marías" target="Selena Gomez">
+      <data key="d0">0.2080005120327701</data>
+    </edge>
+    <edge source="The Marías" target="Drake">
+      <data key="d0">0.21801346801346802</data>
+    </edge>
+    <edge source="The Marías" target="OneRepublic">
+      <data key="d0">0.2096119929453263</data>
+    </edge>
+    <edge source="The Marías" target="Billie Eilish">
+      <data key="d0">0.21549597356048966</data>
+    </edge>
+    <edge source="The Marías" target="Jessie Murph">
+      <data key="d0">0.2335978835978836</data>
+    </edge>
+    <edge source="The Marías" target="Zach Top">
+      <data key="d0">0.2099537037037037</data>
+    </edge>
+    <edge source="The Marías" target="Sam Barber">
+      <data key="d0">0.22712097349778512</data>
+    </edge>
+    <edge source="The Marías" target="Harry Styles">
+      <data key="d0">0.22532467532467532</data>
+    </edge>
+    <edge source="The Marías" target="Beyoncé">
+      <data key="d0">0.20558221565973503</data>
+    </edge>
+    <edge source="The Marías" target="Ariana Grande">
+      <data key="d0">0.21304849757081712</data>
+    </edge>
+    <edge source="The Marías" target="Treaty Oak Revival">
+      <data key="d0">0.22739018087855298</data>
+    </edge>
+    <edge source="The Marías" target="Paramore">
+      <data key="d0">0.2429693055795806</data>
+    </edge>
+    <edge source="The Marías" target="beabadoobee">
+      <data key="d0">0.2793035560477421</data>
+    </edge>
+    <edge source="The Marías" target="Britney Spears">
+      <data key="d0">0.21796629712983803</data>
+    </edge>
+    <edge source="The Marías" target="Cigarettes After Sex">
+      <data key="d0">0.20643060643060643</data>
+    </edge>
+    <edge source="The Marías" target="Lana Del Rey">
+      <data key="d0">0.22978710611689335</data>
+    </edge>
+    <edge source="Nicki Minaj" target="Cardi B">
+      <data key="d0">0.20425983258800595</data>
+    </edge>
+    <edge source="Nicki Minaj" target="Taylor Swift">
+      <data key="d0">0.2144614940241517</data>
+    </edge>
+    <edge source="Nicki Minaj" target="T-Pain">
+      <data key="d0">0.2148879142300195</data>
+    </edge>
+    <edge source="Nicki Minaj" target="Lady Gaga">
+      <data key="d0">0.2590832834735274</data>
+    </edge>
+    <edge source="Nicki Minaj" target="Megan Thee Stallion">
+      <data key="d0">0.2025106338831829</data>
+    </edge>
+    <edge source="Nicki Minaj" target="Snoop Dogg">
+      <data key="d0">0.2907139023081052</data>
+    </edge>
+    <edge source="Selena Gomez" target="Drake">
+      <data key="d0">0.2249228395061728</data>
+    </edge>
+    <edge source="Selena Gomez" target="SZA">
+      <data key="d0">0.20257285497254024</data>
+    </edge>
+    <edge source="Selena Gomez" target="Justin Timberlake">
+      <data key="d0">0.22959656084656085</data>
+    </edge>
+    <edge source="Selena Gomez" target="One Direction">
+      <data key="d0">0.2033783990773238</data>
+    </edge>
+    <edge source="Selena Gomez" target="Billie Eilish">
+      <data key="d0">0.20393005687123333</data>
+    </edge>
+    <edge source="Selena Gomez" target="Bailey Zimmerman">
+      <data key="d0">0.2052141587025308</data>
+    </edge>
+    <edge source="Selena Gomez" target="Jessie Murph">
+      <data key="d0">0.20058749225415892</data>
+    </edge>
+    <edge source="Selena Gomez" target="The Chainsmokers">
+      <data key="d0">0.2163922696180761</data>
+    </edge>
+    <edge source="Selena Gomez" target="Zach Top">
+      <data key="d0">0.20185185185185184</data>
+    </edge>
+    <edge source="Selena Gomez" target="Kid Cudi">
+      <data key="d0">0.20374331550802138</data>
+    </edge>
+    <edge source="Selena Gomez" target="Beyoncé">
+      <data key="d0">0.24494949494949494</data>
+    </edge>
+    <edge source="Selena Gomez" target="BTS">
+      <data key="d0">0.2663716228731709</data>
+    </edge>
+    <edge source="Selena Gomez" target="Taylor Swift">
+      <data key="d0">0.20189586936273607</data>
+    </edge>
+    <edge source="Selena Gomez" target="Akon">
+      <data key="d0">0.24715209823143663</data>
+    </edge>
+    <edge source="Selena Gomez" target="Ariana Grande">
+      <data key="d0">0.24729758828596038</data>
+    </edge>
+    <edge source="Selena Gomez" target="beabadoobee">
+      <data key="d0">0.21937865242462942</data>
+    </edge>
+    <edge source="Selena Gomez" target="Post Malone">
+      <data key="d0">0.22076084181347339</data>
+    </edge>
+    <edge source="Selena Gomez" target="Doja Cat">
+      <data key="d0">0.20478130826968036</data>
+    </edge>
+    <edge source="Selena Gomez" target="Lana Del Rey">
+      <data key="d0">0.23453628108800523</data>
+    </edge>
+    <edge source="Benson Boone" target="OneRepublic">
+      <data key="d0">0.21046357819613634</data>
+    </edge>
+    <edge source="Benson Boone" target="Olivia Rodrigo">
+      <data key="d0">0.24383541847309964</data>
+    </edge>
+    <edge source="Benson Boone" target="Bailey Zimmerman">
+      <data key="d0">0.2076923076923077</data>
+    </edge>
+    <edge source="Benson Boone" target="Harry Styles">
+      <data key="d0">0.21766485203379204</data>
+    </edge>
+    <edge source="Drake" target="Miley Cyrus">
+      <data key="d0">0.27402555209572754</data>
+    </edge>
+    <edge source="Drake" target="Olivia Rodrigo">
+      <data key="d0">0.20293410293410294</data>
+    </edge>
+    <edge source="Drake" target="Cardi B">
+      <data key="d0">0.21073568316215374</data>
+    </edge>
+    <edge source="Drake" target="Billie Eilish">
+      <data key="d0">0.2549540388040485</data>
+    </edge>
+    <edge source="Drake" target="Jessie Murph">
+      <data key="d0">0.2025653358986692</data>
+    </edge>
+    <edge source="Drake" target="Zach Top">
+      <data key="d0">0.2019440784658176</data>
+    </edge>
+    <edge source="Drake" target="Ariana Grande">
+      <data key="d0">0.29332994022916503</data>
+    </edge>
+    <edge source="Drake" target="50 Cent">
+      <data key="d0">0.23077342874919035</data>
+    </edge>
+    <edge source="Drake" target="Lady Gaga">
+      <data key="d0">0.2234567901234568</data>
+    </edge>
+    <edge source="Drake" target="beabadoobee">
+      <data key="d0">0.2525028268930708</data>
+    </edge>
+    <edge source="Drake" target="Post Malone">
+      <data key="d0">0.21741614012331453</data>
+    </edge>
+    <edge source="Drake" target="The Lumineers">
+      <data key="d0">0.20572390572390573</data>
+    </edge>
+    <edge source="Drake" target="Megan Thee Stallion">
+      <data key="d0">0.22366910270136076</data>
+    </edge>
+    <edge source="Drake" target="Marshmello">
+      <data key="d0">0.21906074809300616</data>
+    </edge>
+    <edge source="SZA" target="Miley Cyrus">
+      <data key="d0">0.21072003680699333</data>
+    </edge>
+    <edge source="SZA" target="Olivia Rodrigo">
+      <data key="d0">0.21943605452377382</data>
+    </edge>
+    <edge source="SZA" target="Zach Top">
+      <data key="d0">0.21369277885235333</data>
+    </edge>
+    <edge source="SZA" target="Ariana Grande">
+      <data key="d0">0.20886644219977554</data>
+    </edge>
+    <edge source="SZA" target="Tory Lanez">
+      <data key="d0">0.23651973260035972</data>
+    </edge>
+    <edge source="SZA" target="Treaty Oak Revival">
+      <data key="d0">0.20371803137760583</data>
+    </edge>
+    <edge source="SZA" target="beabadoobee">
+      <data key="d0">0.20091817731471545</data>
+    </edge>
+    <edge source="SZA" target="Megan Moroney">
+      <data key="d0">0.2422037528461677</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Olivia Rodrigo">
+      <data key="d0">0.2193095756821247</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Zach Top">
+      <data key="d0">0.2179354904354904</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Ariana Grande">
+      <data key="d0">0.20787203770397047</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Tory Lanez">
+      <data key="d0">0.20587121588373153</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Cigarettes After Sex">
+      <data key="d0">0.2200253658274648</data>
+    </edge>
+    <edge source="Miley Cyrus" target="Lana Del Rey">
+      <data key="d0">0.21153198653198654</data>
+    </edge>
+    <edge source="Ty Dolla $ign" target="Lil Durk">
+      <data key="d0">0.23109745690390848</data>
+    </edge>
+    <edge source="Ty Dolla $ign" target="The Chainsmokers">
+      <data key="d0">0.20405127349571794</data>
+    </edge>
+    <edge source="Ty Dolla $ign" target="Lil Wayne">
+      <data key="d0">0.24721149721149724</data>
+    </edge>
+    <edge source="Ty Dolla $ign" target="DaBaby">
+      <data key="d0">0.22053872053872053</data>
+    </edge>
+    <edge source="Ty Dolla $ign" target="Megan Thee Stallion">
+      <data key="d0">0.27420634920634923</data>
+    </edge>
+    <edge source="Ozuna" target="Feid">
+      <data key="d0">0.3407758907758908</data>
+    </edge>
+    <edge source="Ozuna" target="Romeo Santos">
+      <data key="d0">0.22201160628262867</data>
+    </edge>
+    <edge source="Feid" target="Romeo Santos">
+      <data key="d0">0.2096170033670034</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Cardi B">
+      <data key="d0">0.20401418290080667</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Billie Eilish">
+      <data key="d0">0.20956379850408446</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="BTS">
+      <data key="d0">0.224595704828263</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Taylor Swift">
+      <data key="d0">0.201697369099746</data>
+    </edge>
+    <edge source="Sabrina Carpenter" target="Doja Cat">
+      <data key="d0">0.22246465415094516</data>
+    </edge>
+    <edge source="OneRepublic" target="Olivia Rodrigo">
+      <data key="d0">0.22529998189591682</data>
+    </edge>
+    <edge source="OneRepublic" target="Jessie Murph">
+      <data key="d0">0.21977643934165675</data>
+    </edge>
+    <edge source="OneRepublic" target="Kid Cudi">
+      <data key="d0">0.20300398742427728</data>
+    </edge>
+    <edge source="OneRepublic" target="Sam Barber">
+      <data key="d0">0.22359118148331408</data>
+    </edge>
+    <edge source="OneRepublic" target="Harry Styles">
+      <data key="d0">0.25770669659558554</data>
+    </edge>
+    <edge source="OneRepublic" target="Jelly Roll">
+      <data key="d0">0.21929659444377694</data>
+    </edge>
+    <edge source="OneRepublic" target="Khalid">
+      <data key="d0">0.20189317272338028</data>
+    </edge>
+    <edge source="OneRepublic" target="Post Malone">
+      <data key="d0">0.22514939892988675</data>
+    </edge>
+    <edge source="OneRepublic" target="The Lumineers">
+      <data key="d0">0.20044492544492543</data>
+    </edge>
+    <edge source="Justin Timberlake" target="One Direction">
+      <data key="d0">0.20742731979291118</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Billie Eilish">
+      <data key="d0">0.22663139329805995</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Bailey Zimmerman">
+      <data key="d0">0.21703409758965314</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Beyoncé">
+      <data key="d0">0.20897366522366523</data>
+    </edge>
+    <edge source="Justin Timberlake" target="BTS">
+      <data key="d0">0.21488273988273987</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Coldplay">
+      <data key="d0">0.20538266310624034</data>
+    </edge>
+    <edge source="Justin Timberlake" target="T-Pain">
+      <data key="d0">0.21786053039101821</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Akon">
+      <data key="d0">0.2201386689191567</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Ariana Grande">
+      <data key="d0">0.20877906442422572</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Lady Gaga">
+      <data key="d0">0.22869408369408373</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Khalid">
+      <data key="d0">0.20791748798284748</data>
+    </edge>
+    <edge source="Justin Timberlake" target="Paramore">
+      <data key="d0">0.27832862943157066</data>
+    </edge>
+    <edge source="Kali Uchis" target="Sam Barber">
+      <data key="d0">0.2101323059656393</data>
+    </edge>
+    <edge source="One Direction" target="Harry Styles">
+      <data key="d0">0.21371160337784215</data>
+    </edge>
+    <edge source="One Direction" target="BTS">
+      <data key="d0">0.24195966705770625</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Jessie Murph">
+      <data key="d0">0.22280617932791844</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Riley Green">
+      <data key="d0">0.20821521473695387</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Zach Top">
+      <data key="d0">0.20603176045454907</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Sam Barber">
+      <data key="d0">0.22596043248217162</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Harry Styles">
+      <data key="d0">0.25446613598787515</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Hozier">
+      <data key="d0">0.20162890162890162</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Jelly Roll">
+      <data key="d0">0.2720844489778571</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Ariana Grande">
+      <data key="d0">0.20350883823179686</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Tory Lanez">
+      <data key="d0">0.2545152072338834</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Treaty Oak Revival">
+      <data key="d0">0.24979279979279978</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Tate McRae">
+      <data key="d0">0.2448370904506807</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Cody Johnson">
+      <data key="d0">0.20432802436198022</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Cigarettes After Sex">
+      <data key="d0">0.24319865319865322</data>
+    </edge>
+    <edge source="Olivia Rodrigo" target="Megan Moroney">
+      <data key="d0">0.257703081232493</data>
+    </edge>
+    <edge source="Cardi B" target="DaBaby">
+      <data key="d0">0.2278270509977827</data>
+    </edge>
+    <edge source="Cardi B" target="Megan Thee Stallion">
+      <data key="d0">0.22231798898465568</data>
+    </edge>
+    <edge source="Cardi B" target="Doja Cat">
+      <data key="d0">0.2296172317490147</data>
+    </edge>
+    <edge source="Billie Eilish" target="Charli xcx">
+      <data key="d0">0.21757077554412754</data>
+    </edge>
+    <edge source="Billie Eilish" target="Harry Styles">
+      <data key="d0">0.23631302250754319</data>
+    </edge>
+    <edge source="Billie Eilish" target="Beyoncé">
+      <data key="d0">0.23616904556827034</data>
+    </edge>
+    <edge source="Billie Eilish" target="Taylor Swift">
+      <data key="d0">0.2291765320750828</data>
+    </edge>
+    <edge source="Billie Eilish" target="Twenty One Pilots">
+      <data key="d0">0.23543592060038726</data>
+    </edge>
+    <edge source="Billie Eilish" target="T-Pain">
+      <data key="d0">0.22259216242956079</data>
+    </edge>
+    <edge source="Billie Eilish" target="Akon">
+      <data key="d0">0.23811369509043928</data>
+    </edge>
+    <edge source="Billie Eilish" target="Ariana Grande">
+      <data key="d0">0.2503366292668893</data>
+    </edge>
+    <edge source="Billie Eilish" target="Lady Gaga">
+      <data key="d0">0.2816366948800732</data>
+    </edge>
+    <edge source="Billie Eilish" target="Khalid">
+      <data key="d0">0.24057653712826127</data>
+    </edge>
+    <edge source="Billie Eilish" target="Paramore">
+      <data key="d0">0.22858031237317203</data>
+    </edge>
+    <edge source="Billie Eilish" target="Marshmello">
+      <data key="d0">0.2539009021261163</data>
+    </edge>
+    <edge source="Bailey Zimmerman" target="Taylor Swift">
+      <data key="d0">0.2076086956521739</data>
+    </edge>
+    <edge source="Bailey Zimmerman" target="Halsey">
+      <data key="d0">0.20744810744810746</data>
+    </edge>
+    <edge source="Bailey Zimmerman" target="Akon">
+      <data key="d0">0.23770522460444943</data>
+    </edge>
+    <edge source="Bailey Zimmerman" target="Post Malone">
+      <data key="d0">0.20073599240265907</data>
+    </edge>
+    <edge source="Jessie Murph" target="Sam Barber">
+      <data key="d0">0.21258657031014752</data>
+    </edge>
+    <edge source="Jessie Murph" target="Harry Styles">
+      <data key="d0">0.20058922558922557</data>
+    </edge>
+    <edge source="Jessie Murph" target="Hozier">
+      <data key="d0">0.20637125220458552</data>
+    </edge>
+    <edge source="Jessie Murph" target="Jelly Roll">
+      <data key="d0">0.2515873015873016</data>
+    </edge>
+    <edge source="Jessie Murph" target="Ariana Grande">
+      <data key="d0">0.25864197530864197</data>
+    </edge>
+    <edge source="Jessie Murph" target="Tory Lanez">
+      <data key="d0">0.20474804477321062</data>
+    </edge>
+    <edge source="Jessie Murph" target="Treaty Oak Revival">
+      <data key="d0">0.23075204325204324</data>
+    </edge>
+    <edge source="Jessie Murph" target="Khalid">
+      <data key="d0">0.21645690558827058</data>
+    </edge>
+    <edge source="Jessie Murph" target="Paramore">
+      <data key="d0">0.20724516007358457</data>
+    </edge>
+    <edge source="Jessie Murph" target="beabadoobee">
+      <data key="d0">0.22275593700012308</data>
+    </edge>
+    <edge source="Jessie Murph" target="Post Malone">
+      <data key="d0">0.2406186406186406</data>
+    </edge>
+    <edge source="Jessie Murph" target="Lana Del Rey">
+      <data key="d0">0.2194805194805195</data>
+    </edge>
+    <edge source="Lil Durk" target="Lil Wayne">
+      <data key="d0">0.3238800705467372</data>
+    </edge>
+    <edge source="Lil Durk" target="Jelly Roll">
+      <data key="d0">0.2124912124912125</data>
+    </edge>
+    <edge source="Lil Durk" target="Tory Lanez">
+      <data key="d0">0.24757965146981167</data>
+    </edge>
+    <edge source="Lil Durk" target="DaBaby">
+      <data key="d0">0.22617197617197615</data>
+    </edge>
+    <edge source="Lil Durk" target="Post Malone">
+      <data key="d0">0.22015197015197016</data>
+    </edge>
+    <edge source="Lil Durk" target="Megan Thee Stallion">
+      <data key="d0">0.2393317230273752</data>
+    </edge>
+    <edge source="Charli xcx" target="Marshmello">
+      <data key="d0">0.21743215632104518</data>
+    </edge>
+    <edge source="The Chainsmokers" target="Kevin Gates">
+      <data key="d0">0.20980392156862746</data>
+    </edge>
+    <edge source="The Chainsmokers" target="DaBaby">
+      <data key="d0">0.2097097097097097</data>
+    </edge>
+    <edge source="The Chainsmokers" target="Post Malone">
+      <data key="d0">0.21279537456008044</data>
+    </edge>
+    <edge source="Zach Top" target="Sam Barber">
+      <data key="d0">0.21985222818813113</data>
+    </edge>
+    <edge source="Zach Top" target="Harry Styles">
+      <data key="d0">0.20253958019915466</data>
+    </edge>
+    <edge source="Zach Top" target="Beyoncé">
+      <data key="d0">0.21798349301148853</data>
+    </edge>
+    <edge source="Zach Top" target="Taylor Swift">
+      <data key="d0">0.21263616557734202</data>
+    </edge>
+    <edge source="Zach Top" target="Akon">
+      <data key="d0">0.21405723905723906</data>
+    </edge>
+    <edge source="Zach Top" target="Ariana Grande">
+      <data key="d0">0.2137952743960253</data>
+    </edge>
+    <edge source="Zach Top" target="Tory Lanez">
+      <data key="d0">0.22252429734699236</data>
+    </edge>
+    <edge source="Zach Top" target="beabadoobee">
+      <data key="d0">0.20072025582153113</data>
+    </edge>
+    <edge source="Zach Top" target="Post Malone">
+      <data key="d0">0.2037224092779648</data>
+    </edge>
+    <edge source="Zach Top" target="Cigarettes After Sex">
+      <data key="d0">0.2332068092937658</data>
+    </edge>
+    <edge source="Zach Top" target="Lana Del Rey">
+      <data key="d0">0.22490043807248108</data>
+    </edge>
+    <edge source="Kid Cudi" target="Sam Barber">
+      <data key="d0">0.24671246627768367</data>
+    </edge>
+    <edge source="Kid Cudi" target="Harry Styles">
+      <data key="d0">0.2539403698823988</data>
+    </edge>
+    <edge source="Kid Cudi" target="Twenty One Pilots">
+      <data key="d0">0.2474530001125746</data>
+    </edge>
+    <edge source="Kid Cudi" target="Treaty Oak Revival">
+      <data key="d0">0.21004305103683985</data>
+    </edge>
+    <edge source="Kid Cudi" target="Post Malone">
+      <data key="d0">0.23628747795414462</data>
+    </edge>
+    <edge source="Kid Cudi" target="Tate McRae">
+      <data key="d0">0.25123456790123455</data>
+    </edge>
+    <edge source="Kid Cudi" target="Britney Spears">
+      <data key="d0">0.2017163504968383</data>
+    </edge>
+    <edge source="Kid Cudi" target="Marshmello">
+      <data key="d0">0.270095893266625</data>
+    </edge>
+    <edge source="Kid Cudi" target="Doja Cat">
+      <data key="d0">0.22769455608330288</data>
+    </edge>
+    <edge source="Kid Cudi" target="Lana Del Rey">
+      <data key="d0">0.24547176797816184</data>
+    </edge>
+    <edge source="Sam Barber" target="Harry Styles">
+      <data key="d0">0.27187973570952295</data>
+    </edge>
+    <edge source="Sam Barber" target="Jelly Roll">
+      <data key="d0">0.23396799492270726</data>
+    </edge>
+    <edge source="Sam Barber" target="Treaty Oak Revival">
+      <data key="d0">0.21236958759013763</data>
+    </edge>
+    <edge source="Sam Barber" target="Cigarettes After Sex">
+      <data key="d0">0.22329059829059827</data>
+    </edge>
+    <edge source="Sam Barber" target="Lana Del Rey">
+      <data key="d0">0.2878480492388121</data>
+    </edge>
+    <edge source="Kevin Gates" target="DaBaby">
+      <data key="d0">0.3037201487201487</data>
+    </edge>
+    <edge source="Kevin Gates" target="Megan Thee Stallion">
+      <data key="d0">0.2276034151034151</data>
+    </edge>
+    <edge source="Lil Wayne" target="50 Cent">
+      <data key="d0">0.26156481156481154</data>
+    </edge>
+    <edge source="Lil Wayne" target="DaBaby">
+      <data key="d0">0.2852344901790767</data>
+    </edge>
+    <edge source="Lil Wayne" target="Megan Thee Stallion">
+      <data key="d0">0.2702383003158197</data>
+    </edge>
+    <edge source="Harry Styles" target="Hozier">
+      <data key="d0">0.2100764877360622</data>
+    </edge>
+    <edge source="Harry Styles" target="Taylor Swift">
+      <data key="d0">0.23506010701132654</data>
+    </edge>
+    <edge source="Harry Styles" target="Twenty One Pilots">
+      <data key="d0">0.24768173003467123</data>
+    </edge>
+    <edge source="Harry Styles" target="Ariana Grande">
+      <data key="d0">0.2316113448652018</data>
+    </edge>
+    <edge source="Harry Styles" target="Khalid">
+      <data key="d0">0.2090294479183368</data>
+    </edge>
+    <edge source="Harry Styles" target="Ed Sheeran">
+      <data key="d0">0.20431845607284205</data>
+    </edge>
+    <edge source="Harry Styles" target="Post Malone">
+      <data key="d0">0.20392940392940392</data>
+    </edge>
+    <edge source="Harry Styles" target="Britney Spears">
+      <data key="d0">0.201723099606475</data>
+    </edge>
+    <edge source="Harry Styles" target="Cigarettes After Sex">
+      <data key="d0">0.24307825612173437</data>
+    </edge>
+    <edge source="Harry Styles" target="Lana Del Rey">
+      <data key="d0">0.2864814814814815</data>
+    </edge>
+    <edge source="Calvin Harris" target="Taylor Swift">
+      <data key="d0">0.22655228758169935</data>
+    </edge>
+    <edge source="Calvin Harris" target="T-Pain">
+      <data key="d0">0.21828181565023672</data>
+    </edge>
+    <edge source="Calvin Harris" target="Pitbull">
+      <data key="d0">0.20180311890838207</data>
+    </edge>
+    <edge source="Calvin Harris" target="Britney Spears">
+      <data key="d0">0.21177248677248675</data>
+    </edge>
+    <edge source="Beyoncé" target="BTS">
+      <data key="d0">0.21473291473291473</data>
+    </edge>
+    <edge source="Beyoncé" target="Coldplay">
+      <data key="d0">0.2146612657106134</data>
+    </edge>
+    <edge source="Beyoncé" target="Taylor Swift">
+      <data key="d0">0.23381715048381718</data>
+    </edge>
+    <edge source="Beyoncé" target="Twenty One Pilots">
+      <data key="d0">0.21334493047112346</data>
+    </edge>
+    <edge source="Beyoncé" target="Halsey">
+      <data key="d0">0.22553715505235308</data>
+    </edge>
+    <edge source="Beyoncé" target="Akon">
+      <data key="d0">0.36056933871856356</data>
+    </edge>
+    <edge source="Beyoncé" target="Ariana Grande">
+      <data key="d0">0.23179413179413177</data>
+    </edge>
+    <edge source="Beyoncé" target="Paramore">
+      <data key="d0">0.21832358674463936</data>
+    </edge>
+    <edge source="Beyoncé" target="d4vd">
+      <data key="d0">0.22797888386123683</data>
+    </edge>
+    <edge source="Beyoncé" target="beabadoobee">
+      <data key="d0">0.2052910052910053</data>
+    </edge>
+    <edge source="Beyoncé" target="The Lumineers">
+      <data key="d0">0.21010860484544694</data>
+    </edge>
+    <edge source="Beyoncé" target="Britney Spears">
+      <data key="d0">0.20945018389673672</data>
+    </edge>
+    <edge source="Beyoncé" target="Megan Moroney">
+      <data key="d0">0.21246846691893134</data>
+    </edge>
+    <edge source="Hozier" target="Jelly Roll">
+      <data key="d0">0.23958333333333334</data>
+    </edge>
+    <edge source="Hozier" target="Ariana Grande">
+      <data key="d0">0.21786591107453931</data>
+    </edge>
+    <edge source="Hozier" target="Khalid">
+      <data key="d0">0.2598899305996339</data>
+    </edge>
+    <edge source="Hozier" target="Paramore">
+      <data key="d0">0.20421809854433967</data>
+    </edge>
+    <edge source="Hozier" target="Ed Sheeran">
+      <data key="d0">0.24366181657848326</data>
+    </edge>
+    <edge source="Hozier" target="The Lumineers">
+      <data key="d0">0.2046336379669713</data>
+    </edge>
+    <edge source="Hozier" target="Tate McRae">
+      <data key="d0">0.20029239766081872</data>
+    </edge>
+    <edge source="Hozier" target="Cody Johnson">
+      <data key="d0">0.2126984126984127</data>
+    </edge>
+    <edge source="Hozier" target="Megan Moroney">
+      <data key="d0">0.21308961649518926</data>
+    </edge>
+    <edge source="Hozier" target="Lana Del Rey">
+      <data key="d0">0.20810853298119852</data>
+    </edge>
+    <edge source="Jelly Roll" target="Ariana Grande">
+      <data key="d0">0.20723104056437391</data>
+    </edge>
+    <edge source="Jelly Roll" target="Tory Lanez">
+      <data key="d0">0.2186287312568883</data>
+    </edge>
+    <edge source="Jelly Roll" target="Treaty Oak Revival">
+      <data key="d0">0.23055555555555557</data>
+    </edge>
+    <edge source="Jelly Roll" target="Cody Johnson">
+      <data key="d0">0.22354497354497355</data>
+    </edge>
+    <edge source="Jelly Roll" target="Megan Moroney">
+      <data key="d0">0.2186172665500831</data>
+    </edge>
+    <edge source="Coldplay" target="Halsey">
+      <data key="d0">0.28054164043323937</data>
+    </edge>
+    <edge source="Coldplay" target="Paramore">
+      <data key="d0">0.2302259396436641</data>
+    </edge>
+    <edge source="Coldplay" target="d4vd">
+      <data key="d0">0.2002211735545069</data>
+    </edge>
+    <edge source="Coldplay" target="The Lumineers">
+      <data key="d0">0.20882543382543384</data>
+    </edge>
+    <edge source="Taylor Swift" target="Twenty One Pilots">
+      <data key="d0">0.21008662956337376</data>
+    </edge>
+    <edge source="Taylor Swift" target="T-Pain">
+      <data key="d0">0.2018694155865472</data>
+    </edge>
+    <edge source="Taylor Swift" target="Akon">
+      <data key="d0">0.22977260954057785</data>
+    </edge>
+    <edge source="Taylor Swift" target="Ed Sheeran">
+      <data key="d0">0.20370370370370372</data>
+    </edge>
+    <edge source="Taylor Swift" target="The Lumineers">
+      <data key="d0">0.20756512006512007</data>
+    </edge>
+    <edge source="Taylor Swift" target="Snoop Dogg">
+      <data key="d0">0.2190894451764017</data>
+    </edge>
+    <edge source="Taylor Swift" target="Lana Del Rey">
+      <data key="d0">0.21321279181231972</data>
+    </edge>
+    <edge source="Rihanna" target="Snoop Dogg">
+      <data key="d0">0.22621414106200197</data>
+    </edge>
+    <edge source="Twenty One Pilots" target="Treaty Oak Revival">
+      <data key="d0">0.21254208754208753</data>
+    </edge>
+    <edge source="Twenty One Pilots" target="Marshmello">
+      <data key="d0">0.22096037857214995</data>
+    </edge>
+    <edge source="T-Pain" target="Lady Gaga">
+      <data key="d0">0.32683982683982676</data>
+    </edge>
+    <edge source="T-Pain" target="Khalid">
+      <data key="d0">0.21495284103979753</data>
+    </edge>
+    <edge source="T-Pain" target="Paramore">
+      <data key="d0">0.21096831225350193</data>
+    </edge>
+    <edge source="T-Pain" target="JENNIE">
+      <data key="d0">0.2020058950168201</data>
+    </edge>
+    <edge source="Halsey" target="Paramore">
+      <data key="d0">0.21354571354571356</data>
+    </edge>
+    <edge source="Halsey" target="d4vd">
+      <data key="d0">0.22807017543859645</data>
+    </edge>
+    <edge source="Halsey" target="The Lumineers">
+      <data key="d0">0.21878328093243887</data>
+    </edge>
+    <edge source="Akon" target="d4vd">
+      <data key="d0">0.20252220546338195</data>
+    </edge>
+    <edge source="Akon" target="Snoop Dogg">
+      <data key="d0">0.24444946301314868</data>
+    </edge>
+    <edge source="Akon" target="Doja Cat">
+      <data key="d0">0.20440831074977417</data>
+    </edge>
+    <edge source="Ariana Grande" target="Khalid">
+      <data key="d0">0.21010411332991977</data>
+    </edge>
+    <edge source="Ariana Grande" target="beabadoobee">
+      <data key="d0">0.22260253694973922</data>
+    </edge>
+    <edge source="Ariana Grande" target="Post Malone">
+      <data key="d0">0.20866072713699257</data>
+    </edge>
+    <edge source="Ariana Grande" target="The Lumineers">
+      <data key="d0">0.2175096724830066</data>
+    </edge>
+    <edge source="Ariana Grande" target="Cody Johnson">
+      <data key="d0">0.23323381521055941</data>
+    </edge>
+    <edge source="Ariana Grande" target="Megan Moroney">
+      <data key="d0">0.23873525830047568</data>
+    </edge>
+    <edge source="Ariana Grande" target="Lana Del Rey">
+      <data key="d0">0.23882836365105872</data>
+    </edge>
+    <edge source="50 Cent" target="Megan Thee Stallion">
+      <data key="d0">0.2182655831242226</data>
+    </edge>
+    <edge source="Romeo Santos" target="Doja Cat">
+      <data key="d0">0.20022188086704215</data>
+    </edge>
+    <edge source="Tory Lanez" target="beabadoobee">
+      <data key="d0">0.2002865795814033</data>
+    </edge>
+    <edge source="Tory Lanez" target="Post Malone">
+      <data key="d0">0.23443562610229277</data>
+    </edge>
+    <edge source="Tory Lanez" target="Tate McRae">
+      <data key="d0">0.21651209848553302</data>
+    </edge>
+    <edge source="Tory Lanez" target="Cigarettes After Sex">
+      <data key="d0">0.22279259529898918</data>
+    </edge>
+    <edge source="Tory Lanez" target="Megan Moroney">
+      <data key="d0">0.21535821535821534</data>
+    </edge>
+    <edge source="Treaty Oak Revival" target="Cigarettes After Sex">
+      <data key="d0">0.2450323339212228</data>
+    </edge>
+    <edge source="Treaty Oak Revival" target="Marshmello">
+      <data key="d0">0.2081670744714223</data>
+    </edge>
+    <edge source="Treaty Oak Revival" target="Megan Moroney">
+      <data key="d0">0.21882131278683004</data>
+    </edge>
+    <edge source="Lady Gaga" target="Khalid">
+      <data key="d0">0.24269570867587648</data>
+    </edge>
+    <edge source="Lady Gaga" target="Paramore">
+      <data key="d0">0.22691763874160487</data>
+    </edge>
+    <edge source="Khalid" target="Paramore">
+      <data key="d0">0.2464812739006287</data>
+    </edge>
+    <edge source="Khalid" target="The Lumineers">
+      <data key="d0">0.22315665284201536</data>
+    </edge>
+    <edge source="Paramore" target="d4vd">
+      <data key="d0">0.2553906797809237</data>
+    </edge>
+    <edge source="Paramore" target="Post Malone">
+      <data key="d0">0.2027032437601543</data>
+    </edge>
+    <edge source="Paramore" target="The Lumineers">
+      <data key="d0">0.21582008108422318</data>
+    </edge>
+    <edge source="Paramore" target="Marshmello">
+      <data key="d0">0.22089412644968198</data>
+    </edge>
+    <edge source="beabadoobee" target="Marshmello">
+      <data key="d0">0.20794063294063292</data>
+    </edge>
+    <edge source="beabadoobee" target="Doja Cat">
+      <data key="d0">0.2011765674707956</data>
+    </edge>
+    <edge source="beabadoobee" target="Megan Moroney">
+      <data key="d0">0.2187025768161671</data>
+    </edge>
+    <edge source="DaBaby" target="Post Malone">
+      <data key="d0">0.20260141093474426</data>
+    </edge>
+    <edge source="DaBaby" target="Megan Thee Stallion">
+      <data key="d0">0.2900997150997151</data>
+    </edge>
+    <edge source="Ed Sheeran" target="Cigarettes After Sex">
+      <data key="d0">0.2194730962846905</data>
+    </edge>
+    <edge source="Post Malone" target="Tate McRae">
+      <data key="d0">0.21908098574765245</data>
+    </edge>
+    <edge source="Post Malone" target="Marshmello">
+      <data key="d0">0.2032948532948533</data>
+    </edge>
+    <edge source="Post Malone" target="Doja Cat">
+      <data key="d0">0.2424609989827381</data>
+    </edge>
+    <edge source="Tate McRae" target="Marshmello">
+      <data key="d0">0.20063040737359245</data>
+    </edge>
+    <edge source="Tate McRae" target="Doja Cat">
+      <data key="d0">0.23328924162257497</data>
+    </edge>
+    <edge source="Tate McRae" target="Megan Moroney">
+      <data key="d0">0.22850853304284677</data>
+    </edge>
+    <edge source="Megan Thee Stallion" target="Marshmello">
+      <data key="d0">0.203586125808348</data>
+    </edge>
+    <edge source="Cody Johnson" target="Megan Moroney">
+      <data key="d0">0.23673327477675304</data>
+    </edge>
+    <edge source="Cigarettes After Sex" target="Lana Del Rey">
+      <data key="d0">0.23215285519633344</data>
+    </edge>
+    <edge source="Marshmello" target="Doja Cat">
+      <data key="d0">0.22776558982521042</data>
+    </edge>
+  </graph>
+</graphml>

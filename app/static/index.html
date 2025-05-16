@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spotify Artist Network Analyzer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    .gradient-bg {
+      background: linear-gradient(135deg, #1DB954 0%, #191414 100%);
+    }
+    .network-link {
+      stroke: #1DB954;
+      stroke-width: 2px;
+      opacity: 0.7;
+    }
+    .network-node {
+      fill: #fff;
+      stroke: #1DB954;
+      stroke-width: 3px;
+      cursor: pointer;
+    }
+    .network-label {
+      font-size: 13px;
+      fill: #fff;
+      pointer-events: none;
+      text-shadow: 0 1px 4px #191414;
+    }
+    .artist-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3);
+    }
+    .loading-spinner {
+      animation: spin 1s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    .autocomplete-list {
+      position: absolute;
+      z-index: 50;
+      background: #23272a;
+      border-radius: 0.5rem;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+      width: 100%;
+      max-height: 220px;
+      overflow-y: auto;
+    }
+    .autocomplete-item {
+      padding: 0.75rem 1rem;
+      cursor: pointer;
+      color: #fff;
+    }
+    .autocomplete-item:hover {
+      background: #1DB954;
+      color: #191414;
+    }
+  </style>
+</head>
+<body>
+    <header class="gradient-bg py-6 shadow-lg mb-8">
+      <div class="container mx-auto px-4">
+        <div class="flex items-center space-x-3">
+          <i class="fab fa-spotify text-3xl"></i>
+          <h1 class="text-2xl font-bold">Artist Network Analyzer</h1>
+        </div>
+      </div>
+    </header>
+    <main class="container mx-auto px-4 py-8">
+      <section class="mb-12">
+        <div class="max-w-3xl mx-auto">
+          <div class="text-center mb-8">
+            <h2 class="text-3xl font-bold mb-2">Discover Artist Network</h2>
+            <p class="text-gray-400">Type an artist name to explore their network and lyrics analysis</p>
+          </div>
+          <div class="relative">
+            <div class="flex items-center bg-gray-800 rounded-full px-4 py-3 shadow-lg">
+              <i class="fas fa-search text-gray-500 mr-3"></i>
+              <input id="artistInput" type="text" autocomplete="off" placeholder="Type artist name..." class="bg-transparent w-full focus:outline-none text-white placeholder-gray-400">
+              <button id="search-btn" class="bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-full ml-2 transition">Search</button>
+            </div>
+            <div id="autocomplete-list" class="autocomplete-list hidden"></div>
+          </div>
+        </div>
+      </section>
+      <div id="loading" class="text-center py-12 hidden">
+        <div class="inline-block loading-spinner text-green-500 text-5xl mb-4">
+          <i class="fas fa-spinner"></i>
+        </div>
+        <p class="text-xl">Analyzing artist network and lyrics...</p>
+      </div>
+      <div id="result" class="hidden"></div>
+      <div id="network-graph" class="w-full h-96 my-8"></div>
+    </main>
+    <script>
+function escapeHtml(str) {
+  if (!str) return '';
+  return str.replace(/[&<>"']/g, function(tag) {
+    const chars = {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;','\'':'&#39;'};
+    return chars[tag] || tag;
+  });
+}
+const artistInput = document.getElementById('artistInput');
+const searchBtn = document.getElementById('search-btn');
+const resultDiv = document.getElementById('result');
+const loadingDiv = document.getElementById('loading');
+const autocompleteList = document.getElementById('autocomplete-list');
+let artistCache = [];
+
+// Fetch all artist names for autocomplete
+async function fetchArtistNames() {
+  if (artistCache.length) return artistCache;
+  const resp = await fetch('/api/artist?name=');
+  const data = await resp.json();
+  if (data && data.all_artists) artistCache = data.all_artists;
+  return artistCache;
+}
+
+// Highlight matched part in autocomplete
+function highlightMatch(name, val) {
+  if (!val) return escapeHtml(name);
+  const idx = name.toLowerCase().indexOf(val);
+  if (idx === -1) return escapeHtml(name);
+  return escapeHtml(name.slice(0, idx)) +
+    '<span class="bg-green-400 text-gray-900 rounded px-1">' +
+    escapeHtml(name.slice(idx, idx+val.length)) +
+    '</span>' +
+    escapeHtml(name.slice(idx+val.length));
+}
+
+// Smart autocomplete: prefix first, then fuzzy
+artistInput.addEventListener('input', async function() {
+  const val = this.value.trim().toLowerCase();
+  if (!val) { autocompleteList.classList.add('hidden'); return; }
+  const all = await fetchArtistNames();
+  let prefixMatches = all.filter(a => a.toLowerCase().startsWith(val));
+  let fuzzyMatches = all.filter(a => !a.toLowerCase().startsWith(val) && a.toLowerCase().includes(val));
+  const matches = prefixMatches.concat(fuzzyMatches).slice(0, 10);
+  autocompleteList.innerHTML = '';
+  if (matches.length === 0) { autocompleteList.classList.add('hidden'); return; }
+  matches.forEach(name => {
+    const item = document.createElement('div');
+    item.className = 'autocomplete-item';
+    item.innerHTML = highlightMatch(name, val);
+    item.onclick = () => {
+      artistInput.value = name;
+      autocompleteList.classList.add('hidden');
+      searchBtn.onclick();
+    };
+    autocompleteList.appendChild(item);
+  });
+  autocompleteList.classList.remove('hidden');
+});
+document.addEventListener('click', (e) => {
+  if (!autocompleteList.contains(e.target) && e.target !== artistInput) {
+    autocompleteList.classList.add('hidden');
+  }
+});
+
+function showLoading(show) {
+  loadingDiv.classList.toggle('hidden', !show);
+}
+function showResult(show) {
+  resultDiv.classList.toggle('hidden', !show);
+}
+
+searchBtn.onclick = async function() {
+  let artist = artistInput.value.trim();
+  if (!artist) return;
+  // Fuzzy match: find best match if not exact
+  const all = await fetchArtistNames();
+  let best = all.find(a => a.toLowerCase() === artist.toLowerCase());
+  if (!best) {
+    // Try prefix, then fuzzy
+    let prefix = all.find(a => a.toLowerCase().startsWith(artist.toLowerCase()));
+    if (prefix) artist = prefix;
+    else {
+      let fuzzy = all.find(a => a.toLowerCase().includes(artist.toLowerCase()));
+      if (fuzzy) artist = fuzzy;
+    }
+  }
+  showLoading(true);
+  showResult(false);
+  fetch(`/api/artist?name=${encodeURIComponent(artist)}`)
+    .then(r => r.json())
+    .then(data => {
+      let html = '';
+      // Local metadata
+      html += '<section class="mb-8"><div class="flex flex-col md:flex-row items-center bg-gray-800 rounded-xl p-6 shadow-lg">';
+      if (data.meta) {
+        html += `<div class='w-40 h-40 rounded-full overflow-hidden shadow-lg mb-4 md:mb-0 md:mr-6'><img src="${data.meta.images[0].url}" class="w-full h-full object-cover"></div>`;
+        html += `<div class='flex-1'><h2 class='text-3xl font-bold mb-2 text-white'>${escapeHtml(data.meta.name)}</h2>`;
+        html += `<div class='flex flex-wrap gap-2 mb-4'>${(data.meta.genres||[]).map(g=>`<span class='bg-gray-700 text-xs px-3 py-1 rounded-full text-white'>${escapeHtml(g)}</span>`).join('')}</div>`;
+        html += `<p class='text-gray-300 mb-4'>Followers: ${data.meta.followers.total}</p>`;
+        html += `<a href="${data.meta.external_urls.spotify}" target="_blank" class="text-green-400 hover:underline">Spotify</a></div>`;
+      } else {
+        html += '<div class="text-gray-400">No local metadata found</div>';
+      }
+      html += '</div></section>';
+      // Song analysis with tags
+      html += '<section class="mb-8"><div class="bg-gray-800 rounded-xl p-6 shadow-lg"><h3 class="text-2xl font-bold mb-4 text-white">Song Analysis</h3>';
+      if (data.songs && Object.keys(data.songs).length) {
+        html += '<ul class="space-y-2">';
+        for (const [song, d] of Object.entries(data.songs)) {
+          html += `<li class="bg-gray-900 rounded p-3 text-white"><b>${escapeHtml(song)}</b> `;
+          if (d.emotions && d.emotions.length) {
+            html += `<span class='text-green-400 mr-2'>Emotions:</span>`;
+            html += d.emotions.map(e => `<span class='inline-block bg-green-700 text-green-100 px-2 py-1 rounded-full text-xs mr-1 mb-1'>${escapeHtml(e)}</span>`).join('');
+          }
+          if (d.themes && d.themes.length) {
+            html += `<span class='text-blue-400 ml-2 mr-2'>Themes:</span>`;
+            html += d.themes.map(t => `<span class='inline-block bg-blue-700 text-blue-100 px-2 py-1 rounded-full text-xs mr-1 mb-1'>${escapeHtml(t)}</span>`).join('');
+          }
+          html += `</li>`;
+        }
+        html += '</ul>';
+      } else {
+        html += '<div class="text-gray-400">No local analysis data</div>';
+      }
+      html += '</div></section>';
+      // Last.fm info
+      html += '<section class="mb-8"><div class="bg-gray-800 rounded-xl p-6 shadow-lg"><h3 class="text-2xl font-bold mb-4 text-white">Last.fm Artist Info</h3>';
+      if (data.lastfm_info && data.lastfm_info.name) {
+        html += `<b class="text-white">${escapeHtml(data.lastfm_info.name)}</b><br>`;
+        html += `<i class="text-gray-200">${data.lastfm_info.bio && data.lastfm_info.bio.summary ? data.lastfm_info.bio.summary : ''}</i><br>`;
+        html += `<a href="${data.lastfm_info.url}" target="_blank" class="text-blue-400 hover:underline">Last.fm Page</a><br>`;
+      } else {
+        html += '<div class="text-gray-400">No Last.fm info</div>';
+      }
+      html += '</div></section>';
+      // Last.fm similar artists (d3)
+      html += '<section class="mb-8"><div class="bg-gray-800 rounded-xl p-6 shadow-lg"><h3 class="text-2xl font-bold mb-4 text-white">Last.fm Similar Artists Network</h3>';
+      html += '<div id="d3-network" class="w-full h-72"></div>';
+      html += '</div></section>';
+      // Local knowledge graph
+      html += '<section class="mb-8"><div class="bg-gray-800 rounded-xl p-6 shadow-lg"><h3 class="text-2xl font-bold mb-4 text-white">Local Knowledge Graph Recommendations</h3>';
+      if (data.local_recs && data.local_recs.length) {
+        html += '<ul class="flex flex-wrap gap-3">';
+        for (const a of data.local_recs) {
+          html += `<li class="bg-purple-700 px-4 py-2 rounded-full text-white">${escapeHtml(a)}</li>`;
+        }
+        html += '</ul>';
+      } else {
+        html += '<div class="text-gray-400">No local recommendations</div>';
+      }
+      html += '</div></section>';
+      showLoading(false);
+      resultDiv.innerHTML = html;
+      showResult(true);
+      // d3网络渲染
+      renderD3Network(data);
+    })
+    .catch(() => {
+      showLoading(false);
+      resultDiv.innerHTML = '<div class="text-red-400">Query failed</div>';
+      showResult(true);
+    });
+};
+artistInput.addEventListener('keydown', function(e) {
+  if (e.key === 'Enter') searchBtn.onclick();
+});
+
+// d3.js 推荐网络可视化
+function renderD3Network(data) {
+  const container = document.getElementById('d3-network');
+  if (!container) return;
+  container.innerHTML = '';
+  if (!data.lastfm_similar || !data.lastfm_similar.length) {
+    container.innerHTML = '<div class="text-gray-400">No similar artist network</div>';
+    return;
+  }
+  const width = container.clientWidth || 600;
+  const height = container.clientHeight || 280;
+  // Assign a unique color to each node (main node green, others from palette)
+  const palette = [
+    '#1DB954', '#FF6B6B', '#4CC9F0', '#F8961E', '#9147FF', '#43AA8B', '#F94144', '#577590', '#F3722C', '#277DA1'
+  ];
+  const nodes = [
+    { id: data.meta ? data.meta.name : 'Main Artist', main: true, color: palette[0] }
+  ];
+  data.lastfm_similar && data.lastfm_similar.forEach((a, i) => {
+    nodes.push({ id: a.name, url: a.url, color: palette[(i+1)%palette.length] });
+  });
+  const links = data.lastfm_similar ? data.lastfm_similar.map(a => ({ source: data.meta ? data.meta.name : 'Main Artist', target: a.name })) : [];
+  const svg = d3.select(container)
+    .append('svg')
+    .attr('width', width)
+    .attr('height', height);
+  const simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d => d.id).distance(120))
+    .force('charge', d3.forceManyBody().strength(-400))
+    .force('center', d3.forceCenter(width / 2, height / 2));
+  const link = svg.append('g')
+    .selectAll('line')
+    .data(links)
+    .enter().append('line')
+    .attr('class', 'network-link');
+  const node = svg.append('g')
+    .selectAll('circle')
+    .data(nodes)
+    .enter().append('circle')
+    .attr('class', 'network-node')
+    .attr('r', d => d.main ? 32 : 22)
+    .attr('fill', d => d.color)
+    .attr('stroke', d => d.main ? '#191414' : d.color)
+    .on('click', (event, d) => {
+      if (d.url) window.open(d.url, '_blank');
+    })
+    .call(d3.drag()
+      .on('start', dragstarted)
+      .on('drag', dragged)
+      .on('end', dragended));
+  const label = svg.append('g')
+    .selectAll('text')
+    .data(nodes)
+    .enter().append('text')
+    .attr('class', 'network-label')
+    .attr('text-anchor', 'middle')
+    .text(d => d.id);
+  simulation.on('tick', () => {
+    link
+      .attr('x1', d => d.source.x)
+      .attr('y1', d => d.source.y)
+      .attr('x2', d => d.target.x)
+      .attr('y2', d => d.target.y);
+    node
+      .attr('cx', d => d.x)
+      .attr('cy', d => d.y);
+    label
+      .attr('x', d => d.x)
+      .attr('y', d => d.y - (d.main ? 40 : 28));
+  });
+  function dragstarted(event, d) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+  function dragged(event, d) {
+    d.fx = event.x;
+    d.fy = event.y;
+  }
+  function dragended(event, d) {
+    if (!event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+}
+    </script>
+</body>
+</html>
